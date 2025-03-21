@@ -127,10 +127,20 @@ public class HitMapperPlugin : BaseUnityPlugin
         return true;
     }
 
+    [HarmonyPatch( typeof(RRSkeletonEnemy), "ProcessIncomingAttack")]
+    [HarmonyPrefix]
+    public static bool SkeletonFix(RRSkeletonEnemy __instance){
+        if( (bool) get_prop_by_name(__instance, "IsHoldingShield") ){
+            OnHitEnemy(__instance);
+        }
+        return true;
+    }
+
 
     [HarmonyPatch( typeof(RREnemy), "ProcessIncomingAttack")]
     [HarmonyPrefix]
     public static bool OnHitEnemy( RREnemy __instance ){
+        
         Dictionary<string, string> hit_data = BasicEnemyEvent(__instance, true);
 
         hit_data["Event"] = "HitEnemy";
