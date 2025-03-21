@@ -1,0 +1,194 @@
+﻿using System.Collections.Generic;
+using System.IO;
+using BepInEx;
+using BepInEx.Logging;
+using HarmonyLib;
+using UnityEngine;
+using RhythmRift.Enemies;
+using RhythmRift;
+using Unity.Mathematics;
+using System;
+using Shared.RhythmEngine;
+using System.Reflection;
+using System.Linq;
+using Shared.PlayerData;
+using Shared.SceneLoading.Payloads;
+using TicToc.ObjectPooling.Runtime;
+using Newtonsoft.Json;
+
+namespace HitMapper;
+
+[BepInPlugin("main.rotn.plugins.spawn_fix", "Spawn Fix", "1.0.0.0")]
+public class HitMapperPlugin : BaseUnityPlugin
+{
+    internal static new ManualLogSource Logger;
+
+    public static object get_field_by_name( object instance, string name ){
+        FieldInfo property = instance.GetType().GetField(name, BindingFlags.NonPublic | BindingFlags.Instance);
+        return property.GetValue(instance);
+    }
+
+    public static object get_prop_by_name( object instance, string name ){
+        PropertyInfo property = instance.GetType().GetProperty(name, BindingFlags.NonPublic | BindingFlags.Instance);
+        return property.GetValue(instance);
+    }
+
+    private void Awake()
+    {
+        // Plugin startup logic
+        Logger = base.Logger;
+
+        Harmony.CreateAndPatchAll(typeof(HitMapperPlugin));
+
+        Logger.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded!");
+
+        Shared.BugSplatAccessor.Instance.BugSplat.ShouldPostException = ex => false;
+    }
+
+    public static Beatmap active_beatmap;
+
+    public static List<object> hit_events = [];
+
+    public static float update_beat = 0;
+    public static float update_time = 0;
+
+    [HarmonyPatch( typeof(Beatmap), "LoadFromJsonString")]
+    [HarmonyPostfix]
+    public static Beatmap BeatmapLoad( Beatmap __result ){
+        hit_events = [];
+        active_beatmap = __result;
+        return __result;
+    }
+
+    public static Dictionary<string, string> BasicEnemyEvent( RREnemy __instance, bool is_hit ){
+        Dictionary<string, string> hit_data = new Dictionary<string, string>();
+        
+        hit_data["GUID"] = __instance.GroupId.ToString();
+        hit_data["ID"] = __instance.EnemyTypeId.ToString();
+      
+        hit_data["Facing"] = __instance.IsFacingLeft ? "Left" : "Right";
+        hit_data["Health"] = __instance.CurrentHealthValue.ToString();
+
+        if( is_hit ){
+            int2 hit_pos =__instance.CurrentGridPosition.y == 0 ? __instance.CurrentGridPosition : __instance.TargetGridPosition;
+            hit_data["X"] = hit_pos.x.ToString();
+            hit_data["Y"] = hit_pos.y.ToString();
+
+            hit_data["Beat"] = __instance.TargetHitBeatNumber.ToString();
+            hit_data["Time"] = active_beatmap.GetTimeFromBeatNumber( __instance.TargetHitBeatNumber ).ToString();
+        } else {
+            int2 hit_pos = __instance.CurrentGridPosition;
+            hit_data["X"] = hit_pos.x.ToString();
+            hit_data["Y"] = hit_pos.y.ToString();
+
+            hit_data["Beat"] = update_beat.ToString();
+            hit_data["Time"] = update_time.ToString();
+        }
+        hit_data["Spawn"] = __instance.SpawnTrueBeatNumber.ToString();
+        hit_data["Vibe"] = __instance.IsPartOfVibeChain.ToString(); 
+
+        hit_data["Burning"] = __instance.HasStatusEffectActive( RREnemyStatusEffect.Burning ).ToString();
+        hit_data["Mysterious"] = __instance.HasStatusEffectActive( RREnemyStatusEffect.Mysterious ).ToString();
+
+        return hit_data;
+    }
+
+    [HarmonyPatch( typeof(RRWyrmEnemy), "ScoreAllRemainingHoldSegments")]
+    [HarmonyPrefix]
+    public static bool WyrmEnd( RRWyrmEnemy __instance ){
+        Dictionary<string, string> hit_data = BasicEnemyEvent(__instance, false);
+        hit_data["Event"] = "WyrmEnd";
+        hit_events.Add(hit_data);
+        return true;
+    }
+
+    [HarmonyPatch( typeof(RRWyrmEnemy), "ScoreHoldSegment")]
+    [HarmonyPrefix]
+    public static bool WyrmSection( RRWyrmEnemy __instance ){
+        Dictionary<string, string> hit_data = BasicEnemyEvent(__instance, false);
+        hit_data["Event"] = "WyrmSection";
+        hit_events.Add(hit_data);
+        return true;
+    }
+
+    [HarmonyPatch( typeof(RRBlademasterEnemy), "PlayPrepareStrikeAnimationRoutine")]
+    [HarmonyPrefix]
+    public static bool BBPrepare( RRBlademasterEnemy __instance ){
+        Dictionary<string, string> hit_data = BasicEnemyEvent(__instance, false);
+        hit_data["Event"] = "BlademasterPrepare";
+
+        hit_events.Add(hit_data);
+
+        return true;
+    }
+
+
+    [HarmonyPatch( typeof(RREnemy), "ProcessIncomingAttack")]
+    [HarmonyPrefix]
+    public static bool OnHitEnemy( RREnemy __instance ){
+        Dictionary<string, string> hit_data = BasicEnemyEvent(__instance, true);
+
+        hit_data["Event"] = "HitEnemy";
+
+        if( __instance.IsHoldNote ){
+            hit_data["Length"] = get_prop_by_name(__instance, "EnemyLength").ToString();
+        }  
+        
+        hit_events.Add(hit_data);
+        Logger.LogInfo("HitEnemy");
+        return true;
+    }
+
+    [HarmonyPatch( typeof(RRStageController), "VibeChainSuccess")]
+    [HarmonyPrefix]
+    public static bool VCS(){
+        Dictionary<string, string> hit_data = new Dictionary<string, string>();
+
+        hit_data["Event"] = "VCS";
+        hit_data["Beat"] = update_beat.ToString();
+        hit_data["Time"] = update_time.ToString();
+
+        hit_events.Add(hit_data);
+        return true;
+    }
+
+    [HarmonyPatch(typeof(RRStageController), "HandleDebugUpdate")]
+    [HarmonyPrefix]
+    public static bool HandleDebugUpdate( ref FmodTimeCapsule __0 ){
+        update_beat = __0.TrueBeatNumber;
+        update_time = active_beatmap.GetTimeFromBeatNumber( __0.TrueBeatNumber );
+        return true;
+    }
+
+    [HarmonyPatch( typeof(RRStageController), "CompleteStageAfterAllEnemiesHaveDiedRoutine")]
+    [HarmonyPrefix]
+    public static bool OutputJson( RRStageController __instance, StageScenePayload ____stageScenePayload, string ____customTrackAudioFilePath ){
+        string level_id = "";
+        StageScenePayload _stageScenePayload = ____stageScenePayload;
+        if( !string.IsNullOrWhiteSpace( ____customTrackAudioFilePath )  ){
+            RRCustomTrackScenePayload rRCustomTrackScenePayload = _stageScenePayload as RRCustomTrackScenePayload;
+            level_id = rRCustomTrackScenePayload.GetLevelId();
+        } else {
+            LevelIdDatabase.Instance.TryGetLevelId(_stageScenePayload.AssetGuid, out level_id);
+        }
+
+        int diff = (int)_stageScenePayload.GetLevelDifficulty();
+
+        string path = "Charts/" + level_id + "-"+ diff.ToString() +".json";
+
+        Dictionary<string, object> json = new Dictionary<string, object>();
+
+        json["name"] = level_id;
+        json["diff"] = diff;
+        json["events"] = hit_events;//JsonConvert.SerializeObject(hit_events, Formatting.None );
+
+        Logger.LogInfo(path);
+        File.WriteAllText( path, JsonConvert.SerializeObject(json, Formatting.Indented ) );
+
+        hit_events = [];
+        return true;
+    }
+
+    
+
+}
