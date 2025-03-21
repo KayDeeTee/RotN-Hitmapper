@@ -15,6 +15,11 @@ using Shared.PlayerData;
 using Shared.SceneLoading.Payloads;
 using TicToc.ObjectPooling.Runtime;
 using Newtonsoft.Json;
+using Shared.TrackSelection;
+using System.Data;
+using Shared.SceneLoading;
+using Shared;
+using Shared.Analytics;
 
 namespace HitMapper;
 
@@ -160,7 +165,7 @@ public class HitMapperPlugin : BaseUnityPlugin
         return true;
     }
 
-    [HarmonyPatch( typeof(RRStageController), "CompleteStageAfterAllEnemiesHaveDiedRoutine")]
+    [HarmonyPatch( typeof(RRStageController), "ShowResultsScreen")]
     [HarmonyPrefix]
     public static bool OutputJson( RRStageController __instance, StageScenePayload ____stageScenePayload, string ____customTrackAudioFilePath ){
         string level_id = "";
@@ -186,9 +191,113 @@ public class HitMapperPlugin : BaseUnityPlugin
         File.WriteAllText( path, JsonConvert.SerializeObject(json, Formatting.Indented ) );
 
         hit_events = [];
+
+        PlayNext();
         return true;
     }
 
+    public static void PlayNext(){
+        if( track_mode == -1 ) return;
+        if( track_index >= tracks.Length ) return;
+        RRTrackMetaData current_track = tracks[track_index];
+        while( current_track.IsFiller || current_track.IsTutorial || current_track.IsPromo ){
+            track_index += 1;
+            if( track_index >= tracks.Length ) return;
+            current_track = tracks[track_index];
+        }
+        SongDatabaseData? data;
+        SongDatabase.Instance.TryGetEntryForLevelId( current_track.LevelId, out data );
+
+        var return_payload = ScriptableObject.CreateInstance<TrackSelectionScenePayload>();
+        return_payload.SetDestinationScene("TrackSelection");
+        Difficulty selected_diff = Difficulty.None;
+        if( track_mode != 0 ){
+            selected_diff = (Difficulty)track_mode;
+        } else {
+            selected_diff = (Difficulty)(diff+1);
+        }
+        return_payload.Initialize(current_track.LevelId, selected_diff, TrackSortingOrder.IntensityAscending, false, false);
+        SceneLoadData.SetReturnScenePayload(return_payload);
+
+        var sceneToLoadMetadata = new SceneLoadData.SceneToLoadMetaData() {
+            SceneName = "RhythmRift",
+            LevelId = data?.LevelId ?? string.Empty,
+            StageDifficulty = selected_diff,
+            IsStoryMode = false,
+            IsCalibrationTest = false,
+            IsTutorial = false,
+            IsPracticeMode = false,
+            PracticeModeStartBeat = 0f,
+            PracticeModeEndBeat = 0f,
+            PracticeModeSpeedModifier = SpeedModifier.OneHundredPercent,
+            IsShopkeeperMode = false,
+            IsRemixMode = false,
+            CustomRemixSeed = string.Empty,
+            IsRandomSeed = false,
+            ShouldRewardDiamonds = true,
+            ShouldLevelBeLoaded = true,
+            RRIntroDialogueID = string.Empty,
+            RROutroDialogueID = string.Empty,
+            ShouldMuteCounterpartVO = false,
+            ShouldInvertCounterpartReactions = false
+        };    
+
+        if( track_mode != 0 ){
+            track_index += 1;
+        } else {
+            diff += 1;
+            diff %= 4;
+            if( diff == 0 ) track_index += 1;
+        }
+
+        SceneLoadData.StageEntryType = RiftAnalyticsService.StageEntryType.StageSelectMenu;
+        SceneLoadData.QueueSceneLoadingMetaData(sceneToLoadMetadata);
+        SceneLoadingController.Instance.GoToScene(sceneToLoadMetadata);
+    }
+
+    public static RRTrackMetaData[] tracks;
+    public static int track_index = 0;
+    public static int track_mode = -1;
+    public static int diff = 0;
+
+    [HarmonyPatch( typeof(TrackSelectionSceneController), "Update")]
+    [HarmonyPrefix]
+    public static bool TrackSelectionUpdate( TrackSelectionSceneController __instance, RRTrackDatabase ____trackDatabase ){
+        
+        if( Input.GetKeyDown(KeyCode.F1)){
+            tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
+            track_index = 0;
+            track_mode = 0;
+            PlayNext();
+        }
+        if( Input.GetKeyDown(KeyCode.F2)){
+            tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
+            track_index = 0;
+            track_mode = 1;
+            PlayNext();
+        }
+        if( Input.GetKeyDown(KeyCode.F3)){
+            tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
+            track_index = 0;
+            track_mode = 2;
+            PlayNext();
+        }
+        if( Input.GetKeyDown(KeyCode.F4)){
+            tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
+            track_index = 0;
+            track_mode = 3;
+            PlayNext();
+        }
+        if( Input.GetKeyDown(KeyCode.F5)){
+            tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
+            track_index = 0;
+            track_mode = 4;
+            PlayNext();
+        }
+        
+
+        return true;
+    }
     
 
 }

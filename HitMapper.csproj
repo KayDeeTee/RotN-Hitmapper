@@ -42,8 +42,13 @@
     </Reference>
   </ItemGroup>
     <ItemGroup>
-    <Reference Include="ObjectPool">
+    <Reference Include="Newton">
       <HintPath>lib/Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Addressables">
+      <HintPath>lib/Unity.Addressables.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
