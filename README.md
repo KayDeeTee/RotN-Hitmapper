@@ -1,6 +1,10 @@
 # RotN-Hitmapper
 hitmapper for rift of the necrodancer
 
+Make folder called Charts next to RiftOfTheNecrodancer.exe
+
+In game enable Golden lute then play a song or use one of the keybinds to auto go through them.
+
 ## In track select
 F1 => Auto play all
 
