@@ -10,13 +10,10 @@ using Unity.Mathematics;
 using System;
 using Shared.RhythmEngine;
 using System.Reflection;
-using System.Linq;
 using Shared.PlayerData;
 using Shared.SceneLoading.Payloads;
-using TicToc.ObjectPooling.Runtime;
 using Newtonsoft.Json;
 using Shared.TrackSelection;
-using System.Data;
 using Shared.SceneLoading;
 using Shared;
 using Shared.Analytics;
@@ -201,18 +198,84 @@ public class HitMapperPlugin : BaseUnityPlugin
         File.WriteAllText( path, JsonConvert.SerializeObject(json, Formatting.Indented ) );
 
         hit_events = [];
-
-        PlayNext();
+        if( playing_dlc ){
+            PlayDLC();
+        } else {
+            PlayNext();
+        }        
         return true;
+    }
+
+    public static void PlayChart( string level_id, int diff ){
+        Logger.LogInfo(String.Format("Playing Chart {0}", level_id));
+        var return_payload = ScriptableObject.CreateInstance<TrackSelectionScenePayload>();
+        return_payload.SetDestinationScene("TrackSelection");
+        Difficulty selected_diff = (Difficulty)diff;
+
+        return_payload.Initialize( level_id, selected_diff, TrackSortingOrder.IntensityAscending, false, false);
+        SceneLoadData.SetReturnScenePayload(return_payload);
+
+        var sceneToLoadMetadata = new SceneLoadData.SceneToLoadMetaData() {
+            SceneName = "RhythmRift",
+            LevelId = level_id,
+            StageDifficulty = selected_diff,
+            IsStoryMode = false,
+            IsCalibrationTest = false,
+            IsTutorial = false,
+            IsPracticeMode = false,
+            PracticeModeStartBeat = 0f,
+            PracticeModeEndBeat = 0f,
+            PracticeModeSpeedModifier = SpeedModifier.OneHundredPercent,
+            IsShopkeeperMode = false,
+            IsRemixMode = false,
+            CustomRemixSeed = string.Empty,
+            IsRandomSeed = false,
+            ShouldRewardDiamonds = true,
+            ShouldLevelBeLoaded = true,
+            RRIntroDialogueID = string.Empty,
+            RROutroDialogueID = string.Empty,
+            ShouldMuteCounterpartVO = false,
+            ShouldInvertCounterpartReactions = false
+        };    
+
+        SceneLoadData.StageEntryType = RiftAnalyticsService.StageEntryType.StageSelectMenu;
+        SceneLoadData.QueueSceneLoadingMetaData(sceneToLoadMetadata);
+        SceneLoadingController.Instance.GoToScene(sceneToLoadMetadata);
+    }
+
+    public static void AddDLC( string codename, int count ){
+        for( int i = 0; i < count; i++ ){
+            Logger.LogInfo(String.Format( "DLC{0}{1:00}", codename, i+1 ));
+            dlc_track_names.Add( String.Format( "DLC{0}{1:00}", codename, i+1 ) );
+        }
+    }
+
+    static bool playing_dlc = false;
+    static List<string> dlc_track_names;
+    static int dlc_index = 0;
+    public static void PlayDLC(){
+        if( dlc_index >= dlc_track_names.Count ){ return; }
+        var current_track = dlc_track_names[dlc_index];
+        PlayChart( current_track, diff+1 );
+        diff += 1;
+        diff %= 4;
+        if( diff == 0 ) dlc_index += 1;
+        
     }
 
     public static void PlayNext(){
         if( track_mode == -1 ) return;
-        if( track_index >= tracks.Length ) return;
+        if( track_index >= tracks.Length ){
+            StartDLC();
+            return;
+        }
         RRTrackMetaData current_track = tracks[track_index];
         while( current_track.IsFiller || current_track.IsTutorial || current_track.IsPromo ){
             track_index += 1;
-            if( track_index >= tracks.Length ) return;
+            if( track_index >= tracks.Length ) {
+                StartDLC();
+                return;
+            }
             current_track = tracks[track_index];
         }
         SongDatabaseData? data;
@@ -265,6 +328,29 @@ public class HitMapperPlugin : BaseUnityPlugin
         SceneLoadingController.Instance.GoToScene(sceneToLoadMetadata);
     }
 
+    public static void StartReinit(){
+        dlc_index = 0;
+        diff = 0;
+        track_index = 0;
+    }
+    public static void StartVanilla( int mode ){
+        StartReinit();
+        playing_dlc = false;
+        track_mode = mode;
+        diff = mode;
+        PlayNext();
+    }
+    public static void StartDLC(){
+        StartReinit();
+        playing_dlc = true;
+        dlc_track_names = new List<string>();
+        AddDLC("Apricot", 3);
+        AddDLC("Banana", 5);
+        AddDLC("Cherry", 0);
+        AddDLC("Dorian", 0);
+        PlayDLC();
+    }
+
     public static RRTrackMetaData[] tracks;
     public static int track_index = 0;
     public static int track_mode = -1;
@@ -276,35 +362,28 @@ public class HitMapperPlugin : BaseUnityPlugin
         
         if( Input.GetKeyDown(KeyCode.F1)){
             tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
-            track_index = 0;
-            track_mode = 0;
-            PlayNext();
+            StartVanilla(0);
         }
         if( Input.GetKeyDown(KeyCode.F2)){
             tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
-            track_index = 0;
-            track_mode = 1;
-            PlayNext();
+            StartVanilla(1);
         }
         if( Input.GetKeyDown(KeyCode.F3)){
             tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
-            track_index = 0;
-            track_mode = 2;
-            PlayNext();
+            StartVanilla(2);
         }
         if( Input.GetKeyDown(KeyCode.F4)){
             tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
-            track_index = 0;
-            track_mode = 3;
-            PlayNext();
+            StartVanilla(3);
         }
         if( Input.GetKeyDown(KeyCode.F5)){
             tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
-            track_index = 0;
-            track_mode = 4;
-            PlayNext();
+            StartVanilla(4);            
         }
         
+        if( Input.GetKeyDown(KeyCode.F6)){
+            StartDLC();
+        }
 
         return true;
     }
