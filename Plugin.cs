@@ -17,10 +17,11 @@ using Shared.TrackSelection;
 using Shared.SceneLoading;
 using Shared;
 using Shared.Analytics;
+using Shared.DLC;
 
 namespace HitMapper;
 
-[BepInPlugin("main.rotn.plugins.spawn_fix", "Spawn Fix", "1.0.0.0")]
+[BepInPlugin("main.rotn.plugins.hitmapper", "Hitmapper", "1.0.0.0")]
 public class HitMapperPlugin : BaseUnityPlugin
 {
     internal static new ManualLogSource Logger;
@@ -334,13 +335,16 @@ public class HitMapperPlugin : BaseUnityPlugin
         track_index = 0;
     }
     public static void StartVanilla( int mode ){
+        Logger.LogInfo("Init autoplay");
         StartReinit();
         playing_dlc = false;
         track_mode = mode;
         diff = mode;
+        Logger.LogInfo("Playing first song.");
         PlayNext();
     }
     public static void StartDLC(){
+        Logger.LogInfo("Init DLC autoplay");
         StartReinit();
         playing_dlc = true;
         dlc_track_names = new List<string>();
@@ -348,6 +352,7 @@ public class HitMapperPlugin : BaseUnityPlugin
         AddDLC("Banana", 5);
         AddDLC("Cherry", 0);
         AddDLC("Dorian", 0);
+        Logger.LogInfo("Playing first song.");
         PlayDLC();
     }
 
