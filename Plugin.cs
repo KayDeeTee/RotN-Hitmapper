@@ -372,7 +372,7 @@ public class HitMapperPlugin : BaseUnityPlugin
 
     [HarmonyPatch( typeof(TrackSelectionSceneController), "Update")]
     [HarmonyPrefix]
-    public static bool TrackSelectionUpdate( TrackSelectionSceneController __instance, RRTrackDatabase ____trackDatabase ){
+    public static bool TrackSelectionUpdate( TrackSelectionSceneController __instance, RRTrackDatabase ____trackDatabase, Dictionary<string, Sprite> ____albumArtLargeSprites ){
         
         if( Input.GetKeyDown(KeyCode.F1)){
             tracks = (RRTrackMetaData[])____trackDatabase.GetTrackMetaDatas().Clone();
@@ -399,7 +399,34 @@ public class HitMapperPlugin : BaseUnityPlugin
             StartDLC();
         }
 
+        if( Input.GetKeyDown(KeyCode.F7)){
+            foreach( string key in ____albumArtLargeSprites.Keys ){
+                Sprite s = ____albumArtLargeSprites[key];
+                byte[] buffer = TextureReadHack(s.texture).EncodeToPNG();
+
+                string path = "AlbumArts/" + key + ".png";
+                FileStream output = new FileStream( path, FileMode.Create, FileAccess.ReadWrite );
+                BinaryWriter bw = new BinaryWriter(output);
+                bw.Write( buffer );
+                bw.Close();
+            }
+        }
+
         return true;
+    }
+
+    public static Texture2D TextureReadHack(Texture2D in_tex)
+    {
+        RenderTexture temporary = RenderTexture.GetTemporary(in_tex.width, in_tex.height, 0, RenderTextureFormat.Default, RenderTextureReadWrite.Linear);
+        Graphics.Blit(in_tex, temporary);
+        RenderTexture active = RenderTexture.active;
+        RenderTexture.active = temporary;
+        Texture2D texture2D = new Texture2D(in_tex.width, in_tex.height);
+        texture2D.ReadPixels(new Rect(0f, 0f, (float)temporary.width, (float)temporary.height), 0, 0);
+        texture2D.Apply();
+        RenderTexture.active = active;
+        RenderTexture.ReleaseTemporary(temporary);
+        return texture2D;
     }
     
     [HarmonyPatch(typeof(Beatmap), "LoadFromJsonString")]
