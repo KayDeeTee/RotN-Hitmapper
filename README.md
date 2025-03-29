@@ -3,6 +3,8 @@ hitmapper for rift of the necrodancer
 
 Make a folder called Charts next to RiftOfTheNecrodancer.exe
 
+Make another folder called ChartDumps in the same place
+
 In game enable Golden lute then play a song or use one of the keybinds to auto go through them.
 
 ## In track select
