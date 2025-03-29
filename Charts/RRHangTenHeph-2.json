@@ -3,7 +3,7 @@
   "diff": 2,
   "events": [
     {
-      "GUID": "93269f5e-0cf2-41db-82a4-c1cf11b5edf2",
+      "GUID": "fe7fde60-cc18-42e7-aaa8-53d3979e9fab",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -18,7 +18,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "122de490-af69-4bb3-8bff-dd5f674667f5",
+      "GUID": "c2e7b101-1b05-41cd-8e8b-98e441e7bcad",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -33,7 +33,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "99f81d3f-09a6-4a13-9c7c-f7463a18d585",
+      "GUID": "79499261-906f-4a8b-99d2-750e8146196b",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -48,7 +48,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "04520fab-b246-4e5b-aff0-07989e79b6b0",
+      "GUID": "e3ea4794-8af9-4de6-ac5d-6df15b47cdfe",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -63,7 +63,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "09a3b42f-750d-41f0-9758-d04253dd295c",
+      "GUID": "f6d12d7b-4d41-4b4a-99bc-3995a37d1e31",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -78,7 +78,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "daea6c03-6bda-487c-ab07-8b02ee116806",
+      "GUID": "841b8336-7533-47ad-8bb2-51ca6f044fae",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -93,7 +93,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "64eec042-b0bc-4815-8346-affd7f910f2e",
+      "GUID": "d7c996aa-1a58-4c53-b6f3-493c7e329deb",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -108,7 +108,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7e57047c-b8d3-4e6d-9987-cbe2a9682be5",
+      "GUID": "3046c40c-012a-422d-93fa-20034d71ddda",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -123,7 +123,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7e57047c-b8d3-4e6d-9987-cbe2a9682be5",
+      "GUID": "3046c40c-012a-422d-93fa-20034d71ddda",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -138,7 +138,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6fc94e3d-d6c1-40fe-b34d-a3fc075fadd7",
+      "GUID": "fb4573e9-0d7e-4088-a983-70284bf21912",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -153,7 +153,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "69c8371f-5f36-492b-ba28-0add53254626",
+      "GUID": "062c65df-eb56-4e5f-9200-83ae612031a3",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -168,7 +168,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4d3be85e-5d13-487b-952a-30229f1d3179",
+      "GUID": "43bbdee7-9b6a-4033-9415-360fde420e60",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -183,7 +183,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "522a898a-5d6e-4ec0-9d69-5151f241011e",
+      "GUID": "4578be60-2496-4a58-90c6-e9abff79e9d6",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -198,7 +198,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "20e7bcc5-135e-49c8-a0fa-8b961c7bba1e",
+      "GUID": "9246e3b9-f779-43aa-a3be-cc13cea5cf05",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -213,7 +213,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8c3f1425-a351-438c-b90a-32821ea8342f",
+      "GUID": "9a8f6dad-1ef2-4f09-a9a4-b671e5aaa7d3",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -228,7 +228,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8c3f1425-a351-438c-b90a-32821ea8342f",
+      "GUID": "9a8f6dad-1ef2-4f09-a9a4-b671e5aaa7d3",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -243,7 +243,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f99c96e8-c268-4391-8679-a5d8a2a97e17",
+      "GUID": "073780e6-2063-40cc-87ce-f8857ed058f1",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -258,7 +258,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b08a6dc8-21cc-44fe-b311-643370bc3d24",
+      "GUID": "ea683eab-4a3c-4cf4-964a-ae783f47bff3",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -273,7 +273,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b08a6dc8-21cc-44fe-b311-643370bc3d24",
+      "GUID": "ea683eab-4a3c-4cf4-964a-ae783f47bff3",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -288,7 +288,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c030065b-1254-4be0-9b2d-62f186dee83e",
+      "GUID": "cb2a4d90-f0d7-4616-9f0a-717bf1be3195",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -303,7 +303,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9a7a522f-4b94-4ac1-9d47-ee0a6c6daac4",
+      "GUID": "c2c2f6eb-1dd8-493c-8cef-9c6da9f156cf",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -318,7 +318,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9a7a522f-4b94-4ac1-9d47-ee0a6c6daac4",
+      "GUID": "c2c2f6eb-1dd8-493c-8cef-9c6da9f156cf",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -333,7 +333,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "738560c2-ec76-4175-8bbb-693864655b3e",
+      "GUID": "a4b9bc09-9d97-444f-81fc-d9697c270709",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -348,7 +348,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c1ef1783-3e5d-4045-84f4-e768f06e2ec4",
+      "GUID": "f99acb86-d35c-4c06-9dae-64b6e2af3b21",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -363,7 +363,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c1ef1783-3e5d-4045-84f4-e768f06e2ec4",
+      "GUID": "f99acb86-d35c-4c06-9dae-64b6e2af3b21",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -378,7 +378,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "115fca79-4f4c-465b-9457-b58bdc9ffd7a",
+      "GUID": "bfd5f0d4-2a8f-4a13-9cae-db03e1abde36",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -393,7 +393,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c9a71cbc-9485-400e-8d5e-84f07d69c0c3",
+      "GUID": "58be2a14-59c5-4df4-a1a6-250100b2b15d",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -408,7 +408,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c9a71cbc-9485-400e-8d5e-84f07d69c0c3",
+      "GUID": "58be2a14-59c5-4df4-a1a6-250100b2b15d",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -423,7 +423,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d34c11d9-a181-4382-88ac-e51708b2bf4a",
+      "GUID": "5a4b8916-e72f-4c90-9403-3ce1c130123b",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -438,7 +438,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5033fa06-4d87-4989-8064-2b9df3c76665",
+      "GUID": "5552f97f-ae28-4899-b14f-0aee351febf4",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -453,7 +453,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5033fa06-4d87-4989-8064-2b9df3c76665",
+      "GUID": "5552f97f-ae28-4899-b14f-0aee351febf4",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -468,7 +468,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c01b7c3e-2304-4e5e-945c-5253b63e6578",
+      "GUID": "d7607cdd-d1a2-4441-87a1-c86f1039ebd1",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -483,7 +483,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "57099e61-25a7-43d2-8f2c-23c679168615",
+      "GUID": "01ebc9bf-bf91-40e9-b65f-72bd572c7025",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -498,7 +498,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "57099e61-25a7-43d2-8f2c-23c679168615",
+      "GUID": "01ebc9bf-bf91-40e9-b65f-72bd572c7025",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -513,7 +513,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "157d63f4-f52e-4e33-9a36-91386242b580",
+      "GUID": "356b2f5c-7fe9-4f5e-b404-dce24d2fcb59",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -528,7 +528,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "50cfbc1a-4c2c-4335-bddc-88fc710f731b",
+      "GUID": "1c77366e-6e06-4d50-8472-8396e71dc3f2",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -543,7 +543,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "157d63f4-f52e-4e33-9a36-91386242b580",
+      "GUID": "356b2f5c-7fe9-4f5e-b404-dce24d2fcb59",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -558,7 +558,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "bf0d38bd-7a7e-4b4d-a365-f2d5c69e8134",
+      "GUID": "0e9d6b9d-0fe2-48de-9b8d-60cdca79e992",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -573,7 +573,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "555a9778-730c-4706-ba17-8529d2dad778",
+      "GUID": "3e42b5da-eabf-4ad5-9b65-2b99700e1bcb",
       "ID": "4355",
       "Facing": "Left",
       "Health": "2",
@@ -588,7 +588,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d0188ba2-3004-496b-8bca-3de9cd229da9",
+      "GUID": "cf1cb831-9ac6-49ce-988e-578af1055b09",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -603,7 +603,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fdd33dec-153c-4c72-9e8c-174ee6d4c1ca",
+      "GUID": "4bf4762e-8100-44cc-bed2-6930f29a7891",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -618,7 +618,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "555a9778-730c-4706-ba17-8529d2dad778",
+      "GUID": "3e42b5da-eabf-4ad5-9b65-2b99700e1bcb",
       "ID": "4355",
       "Facing": "Right",
       "Health": "1",
@@ -633,7 +633,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6626b1a0-29e6-4017-ab50-6cceb3326b2a",
+      "GUID": "1bae3a12-6fb9-4ae6-8146-474279896fe6",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -648,7 +648,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6341faa6-ddfa-4364-9777-82335864fec3",
+      "GUID": "565e579c-3303-4584-aacf-ca8ba0b3538d",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -663,7 +663,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4295562f-183d-4b9c-b280-a8bb32572448",
+      "GUID": "e04d8610-5886-4378-8674-5ed3b7f3dde7",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -678,7 +678,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5408c049-a44a-4998-9ca9-1510abfdf63b",
+      "GUID": "1b8bf849-932b-4eeb-9710-1e0c80a10acb",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -693,7 +693,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4295562f-183d-4b9c-b280-a8bb32572448",
+      "GUID": "e04d8610-5886-4378-8674-5ed3b7f3dde7",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -708,7 +708,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f72330e6-956b-480f-8bc8-475a14767718",
+      "GUID": "7c9d8f57-989e-43ea-b663-73e9edec4076",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -723,7 +723,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "afd9b90a-287a-496a-bbb3-e0af6a78bf99",
+      "GUID": "1fad6371-93e1-4fe2-9cc4-fd2cae290af8",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -738,7 +738,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2ba0265c-f989-4474-908b-d34ff01d717b",
+      "GUID": "13309d36-ab01-4868-8bcb-36c040742432",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -753,7 +753,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "754ff9d3-c673-4b8f-99ad-8ac27b89429b",
+      "GUID": "a870999e-6cee-4dda-81b6-fba2dcbb7e4e",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -768,7 +768,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2e840615-706c-4c85-81eb-f8619e46b4cf",
+      "GUID": "8a5ab4d7-1f84-426d-8447-5f28e833f814",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -783,7 +783,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "bc34308f-5e17-488f-b48a-7310fe017578",
+      "GUID": "e460e248-b3d1-471b-ba05-552d1af9022d",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -798,7 +798,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0d371992-0b0c-45cd-a658-8b4dea9c8e80",
+      "GUID": "b49e49ac-e9bd-4596-90a5-78f1b53c7adb",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -813,7 +813,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7044ca8a-ef92-4984-83e2-8145b079d15e",
+      "GUID": "30081e44-dd3f-41b2-a8e5-58e8a85371b4",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -828,7 +828,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1d120bbb-f6ac-48c1-af43-9510b6a1cec2",
+      "GUID": "afccb1cf-71b9-4e90-acd0-ea88b2a2d286",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -843,7 +843,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7044ca8a-ef92-4984-83e2-8145b079d15e",
+      "GUID": "30081e44-dd3f-41b2-a8e5-58e8a85371b4",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -858,7 +858,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "62a90f5c-f7fb-4e02-a46b-9bbbadd7653d",
+      "GUID": "b0748af7-7c27-4d9c-81fc-10833c942d95",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -873,7 +873,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "80728c98-3e56-414e-8400-7a91f4e8fe19",
+      "GUID": "5737f4db-a906-4861-b2af-305294f539de",
       "ID": "4355",
       "Facing": "Left",
       "Health": "2",
@@ -888,7 +888,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8f4937ad-8509-4766-98e4-ec2dc4f5d9e7",
+      "GUID": "6eb437c0-2da4-4ab1-855a-0bbc8508513d",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -903,7 +903,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4e943e58-11e0-43b7-885c-fbcdfa0b3648",
+      "GUID": "d20ac9fc-909e-4614-9a6c-6c91198b9e07",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -918,7 +918,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "80728c98-3e56-414e-8400-7a91f4e8fe19",
+      "GUID": "5737f4db-a906-4861-b2af-305294f539de",
       "ID": "4355",
       "Facing": "Right",
       "Health": "1",
@@ -934,11 +934,11 @@
     },
     {
       "Event": "VCS",
-      "Beat": "81.02951",
-      "Time": "31.7998"
+      "Beat": "81.03074",
+      "Time": "31.80029"
     },
     {
-      "GUID": "c8c3915a-5a2d-49af-baaa-7d6cb983ade6",
+      "GUID": "e194815e-0fd7-4def-9c3e-8b8162aaf52c",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -953,7 +953,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "87bae832-aa81-4df0-91ce-45fb09d358bc",
+      "GUID": "99db1666-8f6f-4a00-8a92-26f15bfee216",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -968,7 +968,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "945a5dad-6899-4fb1-9d90-4b331438c182",
+      "GUID": "903c7b3a-908e-4ff2-b14d-184b3213949a",
       "ID": "4355",
       "Facing": "Left",
       "Health": "2",
@@ -983,7 +983,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "703423dc-74e4-47bf-8de7-f4e79de5bbf6",
+      "GUID": "e040a101-baa4-4ecd-af13-f1f55748046d",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -998,7 +998,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "945a5dad-6899-4fb1-9d90-4b331438c182",
+      "GUID": "903c7b3a-908e-4ff2-b14d-184b3213949a",
       "ID": "4355",
       "Facing": "Right",
       "Health": "1",
@@ -1013,7 +1013,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6048cd51-6d8f-47d7-ad27-49a66329e5d0",
+      "GUID": "b6587f47-b102-4a5d-b915-83dddb707557",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1028,7 +1028,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2b18fe40-6070-4f51-a079-2107d6f61a8e",
+      "GUID": "d67ee86e-9e83-4d38-b2a8-c376e695d79c",
       "ID": "4355",
       "Facing": "Left",
       "Health": "2",
@@ -1043,7 +1043,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d837d9e5-6a8c-4aa4-b07a-5e8ed1552e5b",
+      "GUID": "d5feba5a-f7f7-40e0-8555-375609c28d19",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1058,7 +1058,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2b18fe40-6070-4f51-a079-2107d6f61a8e",
+      "GUID": "d67ee86e-9e83-4d38-b2a8-c376e695d79c",
       "ID": "4355",
       "Facing": "Right",
       "Health": "1",
@@ -1073,7 +1073,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "88b602df-6379-4007-91d4-9c21dada36d8",
+      "GUID": "ed4d88ce-1aae-4f82-8698-9008b3788613",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1088,7 +1088,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b078d5e3-b610-4539-90c9-9cbde85a3119",
+      "GUID": "5405345d-3367-4c86-a4bb-de0697b963e4",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1103,7 +1103,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3c14bfac-9c36-481c-a473-54ae500d06a5",
+      "GUID": "4520f763-c07b-466d-be16-fb1376bd9238",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1118,7 +1118,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c922cb74-88b2-48f8-969c-1a2d8b1d63e3",
+      "GUID": "12675b57-84e3-45b7-95a2-34ed4dfa7557",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1133,7 +1133,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "def14bcc-7795-40ee-aba6-8930a1246143",
+      "GUID": "fe4f152b-1ad4-456a-b4e3-b2493127426d",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1148,7 +1148,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5d97a85b-eb56-4a1c-8d39-ebb313702555",
+      "GUID": "8f00f004-0de9-4501-9e1c-4dbbaa0f251a",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1163,7 +1163,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "903757fd-c42e-4c56-a83d-3355b690ddc3",
+      "GUID": "25eeaa8e-1d84-4d37-a876-b11d72bd5d90",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1178,7 +1178,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f8b97ac7-4c63-496d-9e8f-4d197d7a9023",
+      "GUID": "1d9fbe0c-67b6-4189-a472-05aa53846cc5",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1193,7 +1193,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c71a5c6b-e1f9-4621-87d7-0eac7c1861cf",
+      "GUID": "6ddf1ac6-6cac-4c55-a4f5-d9be8cc343f9",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -1208,7 +1208,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a9aa12d2-55f6-4fd9-8d76-5bb70b7167a7",
+      "GUID": "545fcecb-9f57-43bb-821f-8725edab7f65",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1223,7 +1223,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c71a5c6b-e1f9-4621-87d7-0eac7c1861cf",
+      "GUID": "6ddf1ac6-6cac-4c55-a4f5-d9be8cc343f9",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -1238,7 +1238,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4784385d-e886-4deb-985b-2b9c88feec4e",
+      "GUID": "6635e536-867e-4735-91da-5836f2f71147",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1253,7 +1253,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "95e74783-0177-4658-84c1-976ba88dddb8",
+      "GUID": "16bdf383-dc27-47c2-bd59-18b96daf8589",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1268,7 +1268,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "20168959-be6e-4045-b990-8520785217e0",
+      "GUID": "e7f1d47e-cd43-48e1-8819-4540695134a8",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1283,7 +1283,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "42e6f9df-bf88-410d-8d4b-1f68b188bf74",
+      "GUID": "109082f7-08d8-432f-8822-182b48251295",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1298,7 +1298,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0ad4e2cd-6ba7-49c4-9e31-494612c4600a",
+      "GUID": "b228c29c-1776-480a-bde4-3bf142b59e34",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1313,7 +1313,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "bb46a020-04d6-4ccf-9d9f-36177c15e25c",
+      "GUID": "bf3cfce1-9b76-4367-b614-9880a061d6ae",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1328,7 +1328,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d1e24ff7-2482-4aed-9963-9951b64f85d4",
+      "GUID": "601bfab9-fa97-46d9-98e8-a22013241f41",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -1343,7 +1343,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "aa461839-dbce-4099-bc6c-d3398fcd60c9",
+      "GUID": "020a0127-0688-4692-88a6-a4d3e41b06d0",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1358,7 +1358,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d1e24ff7-2482-4aed-9963-9951b64f85d4",
+      "GUID": "601bfab9-fa97-46d9-98e8-a22013241f41",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -1373,7 +1373,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "707c459d-6d58-4c51-82d1-eb53afcab8f0",
+      "GUID": "23586aeb-4b12-47ae-ad2a-3cbc7aea269d",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1388,7 +1388,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9e512dc2-71e0-4494-a6b4-29a144d70c9a",
+      "GUID": "2a319435-6598-44c9-8344-a7f4f33b8af4",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1403,7 +1403,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ddb2bb87-1d4a-49e3-85e4-35bd28e77afb",
+      "GUID": "3f46ce08-348e-49ac-9064-dd7ada47c7f3",
       "ID": "4355",
       "Facing": "Left",
       "Health": "2",
@@ -1418,7 +1418,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "96e123a0-d2d1-408b-a12d-b4d2f71e7244",
+      "GUID": "a36ba4f2-7cff-4b75-8467-b84066b5e65c",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1433,7 +1433,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ddb2bb87-1d4a-49e3-85e4-35bd28e77afb",
+      "GUID": "3f46ce08-348e-49ac-9064-dd7ada47c7f3",
       "ID": "4355",
       "Facing": "Right",
       "Health": "1",
@@ -1448,7 +1448,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "cea2f5e7-0b67-405f-9ca1-b264cc9ba02a",
+      "GUID": "3b236abb-c3a5-41e6-8f7f-b9951b3e8160",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1463,7 +1463,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9ab835c7-23b1-4caf-ab2e-a8d741b72c9c",
+      "GUID": "843c2130-ec67-403a-b6f2-fd515f1bcb17",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1478,7 +1478,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "acc88060-3671-484e-b2c3-9649bad72772",
+      "GUID": "cb9eb7fb-fdcd-43cb-9bf8-20c4175c03e1",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1493,7 +1493,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c7e5056e-a8f2-47b7-9f57-a73c4ddd4a9b",
+      "GUID": "1a8cfff6-1a63-4e80-abf6-803c406b929a",
       "ID": "4355",
       "Facing": "Left",
       "Health": "2",
@@ -1508,7 +1508,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "897a3b2a-46e9-4745-a1ef-5e13a19ae6f5",
+      "GUID": "f85d9f37-87ee-46fe-97d8-097aa1ec763f",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1523,7 +1523,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c7e5056e-a8f2-47b7-9f57-a73c4ddd4a9b",
+      "GUID": "1a8cfff6-1a63-4e80-abf6-803c406b929a",
       "ID": "4355",
       "Facing": "Right",
       "Health": "1",
@@ -1538,7 +1538,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "86162b79-3588-4dc8-9250-ed6071872f59",
+      "GUID": "351d5592-183d-4726-877f-76bbf7196c55",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1553,7 +1553,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4ddbc934-fd3b-4ad3-ba09-76669b3607e2",
+      "GUID": "8aa50aae-1f49-454b-89fc-4b76838d9ebf",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1568,7 +1568,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "eccf809e-5e0f-47b9-af76-1c22e768e447",
+      "GUID": "86d0b409-7778-432d-a46d-1d07d45a84a3",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1583,7 +1583,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "dff96896-c4c0-48fe-99c7-7d4f45b46a5c",
+      "GUID": "4c4386a2-c0ec-4baa-abfd-e4b5fe98bd7d",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1598,7 +1598,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3c3ff240-af79-4bde-86c5-0c1b54ca47d4",
+      "GUID": "5bac7029-c46f-4ad0-a54f-008394f0da96",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -1613,7 +1613,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e1494ff4-9dae-481d-a1db-12952820e714",
+      "GUID": "1af2fb7e-8088-409c-be44-2be88fe6b72b",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1628,7 +1628,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3c3ff240-af79-4bde-86c5-0c1b54ca47d4",
+      "GUID": "5bac7029-c46f-4ad0-a54f-008394f0da96",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -1643,7 +1643,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "88379adf-c344-4a2f-9761-26c526f33083",
+      "GUID": "1ef75827-2c36-4594-b7f8-d849a8bc8854",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -1658,7 +1658,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b119ae2c-2fbd-4db2-a579-ef99871c7a79",
+      "GUID": "68d656d0-644a-4c62-bb45-9237ea493a9f",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1673,7 +1673,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "88379adf-c344-4a2f-9761-26c526f33083",
+      "GUID": "1ef75827-2c36-4594-b7f8-d849a8bc8854",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -1688,7 +1688,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7e0e67f8-5285-4325-879a-7b307a178623",
+      "GUID": "ced150f6-b3f1-48aa-bf72-74ad19764064",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1703,7 +1703,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b76649a8-a076-458d-86cd-52f9a45144fd",
+      "GUID": "0ab2224b-cf31-41c3-b9a1-ed04a8a10bc5",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1718,7 +1718,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "68e89489-4e1e-4205-84bf-72db58046725",
+      "GUID": "e90e4927-bd1c-4640-8811-ce86bc91cb44",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1733,7 +1733,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d097cc48-016a-4d98-af63-d7e6b732e1ab",
+      "GUID": "5a2e38ea-fb1c-4bcb-9a58-6ace9478a110",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1748,7 +1748,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "63fafb36-a501-4223-9229-c6a12c968711",
+      "GUID": "6b3fad69-ee55-466a-8672-fb61e425e31a",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1763,7 +1763,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3a284843-cbad-4756-a8a6-854fc95a3503",
+      "GUID": "5bd2f6ad-c270-4d70-8590-f435b2c1d463",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1778,7 +1778,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0c1573e6-8cef-4afe-9832-674a21b80f02",
+      "GUID": "c69ba416-af2f-40fb-a08d-0ab4ff7b1b83",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1793,7 +1793,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "01305454-7aef-4668-b7bb-6698801663e7",
+      "GUID": "25ea13c0-cb95-4de9-b2c0-a1a113ab1f4e",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1808,7 +1808,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "30a50eca-1320-45ee-9e4c-019e68ac4ece",
+      "GUID": "99e1bb99-ba1b-4a10-88e6-3ba03a3f4403",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1823,7 +1823,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c87ee757-2fa0-44c4-95c3-628e37311efa",
+      "GUID": "be6bbf16-4a68-493f-8173-c83f866c9980",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1838,7 +1838,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "43f41828-5535-4611-af9e-efbb7e5fa27f",
+      "GUID": "b8899ea5-c37b-4355-874b-22cc8790b5e5",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -1853,7 +1853,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "cbab8359-db33-4da2-bcdc-c89ab0130f23",
+      "GUID": "f2e99f62-17d6-454c-87d8-be2cf3ca3caa",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -1868,7 +1868,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "cbab8359-db33-4da2-bcdc-c89ab0130f23",
+      "GUID": "f2e99f62-17d6-454c-87d8-be2cf3ca3caa",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -1883,7 +1883,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c4646f09-98b5-4f9f-9e6d-0ee66465f465",
+      "GUID": "6b43e3ef-1fd7-4b65-a278-13aa8756e98d",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1898,7 +1898,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "91ea9d0b-89ce-4cf0-8f48-15e78e63c2b4",
+      "GUID": "6dca90ba-0ec9-4029-80d6-3d32af24e9f7",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -1913,7 +1913,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0f1ae623-61ae-4b1c-9abb-a51a4471b47d",
+      "GUID": "5c77f9d8-0dcc-49df-955e-0d80159a0edb",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -1928,7 +1928,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0f1ae623-61ae-4b1c-9abb-a51a4471b47d",
+      "GUID": "5c77f9d8-0dcc-49df-955e-0d80159a0edb",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -1943,7 +1943,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0aaf6a61-24ed-429a-9bda-34b617e2325c",
+      "GUID": "e41b68aa-0034-4ed2-9dbb-9e8119be834f",
       "ID": "1817",
       "Facing": "Left",
       "Health": "3",
@@ -1958,7 +1958,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0aaf6a61-24ed-429a-9bda-34b617e2325c",
+      "GUID": "e41b68aa-0034-4ed2-9dbb-9e8119be834f",
       "ID": "1817",
       "Facing": "Left",
       "Health": "2",
@@ -1973,7 +1973,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0aaf6a61-24ed-429a-9bda-34b617e2325c",
+      "GUID": "e41b68aa-0034-4ed2-9dbb-9e8119be834f",
       "ID": "1817",
       "Facing": "Left",
       "Health": "1",
@@ -1988,7 +1988,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "70227c2e-eb1b-4a26-bf33-7389baa857fc",
+      "GUID": "0934380b-fd19-4e2a-a673-ba5809b6e860",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -2003,7 +2003,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "70227c2e-eb1b-4a26-bf33-7389baa857fc",
+      "GUID": "0934380b-fd19-4e2a-a673-ba5809b6e860",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -2018,7 +2018,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "230bcac0-0323-42d5-918c-7db57748ae92",
+      "GUID": "64aa4d96-a80f-4f48-8b3a-05fdd6107205",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -2033,7 +2033,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2c03cd6f-89db-49b6-9273-a9b95c190e48",
+      "GUID": "8054fded-96cc-4519-b749-d2cd1da5200e",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2048,7 +2048,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "230bcac0-0323-42d5-918c-7db57748ae92",
+      "GUID": "64aa4d96-a80f-4f48-8b3a-05fdd6107205",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -2063,7 +2063,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2afbd927-3dbd-477d-9245-86c822e6aa42",
+      "GUID": "05975cc4-8c67-4879-8da7-d8880cc5bef3",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -2078,7 +2078,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2afbd927-3dbd-477d-9245-86c822e6aa42",
+      "GUID": "05975cc4-8c67-4879-8da7-d8880cc5bef3",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -2093,7 +2093,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5fcf31d8-c20a-4bed-9d08-5788e1545ae1",
+      "GUID": "6c9b7798-d8a5-4450-9c05-e88505a4b5d4",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -2108,7 +2108,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5fcf31d8-c20a-4bed-9d08-5788e1545ae1",
+      "GUID": "6c9b7798-d8a5-4450-9c05-e88505a4b5d4",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -2123,7 +2123,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b34494f3-337c-4bdf-a1f3-7612fa7016e9",
+      "GUID": "4304e93e-8c29-4058-b56b-957ed071edb6",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -2138,7 +2138,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "650a0901-2724-47fc-ac92-80bb2036da1b",
+      "GUID": "e8712b93-22ef-413e-afe4-424ecd7c87cf",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -2153,7 +2153,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b34494f3-337c-4bdf-a1f3-7612fa7016e9",
+      "GUID": "4304e93e-8c29-4058-b56b-957ed071edb6",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -2168,7 +2168,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7babb800-a0da-4248-b546-2dc93e9e2aa8",
+      "GUID": "1c27f0ae-4f24-473c-9620-f907f86e439b",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2183,7 +2183,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c647441a-aa61-4b4e-b437-22f86b674c49",
+      "GUID": "2f71dedc-fc2c-4844-ab73-b56a3da68ab3",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2198,7 +2198,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fc040e20-7790-499f-aa8c-c09db7b3f6d0",
+      "GUID": "d0d4a966-360a-45a6-8f27-9294b112a6bd",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2213,7 +2213,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "cc356f83-ef20-453e-a76c-5f8d0b29303c",
+      "GUID": "82a20a95-d9c8-42b7-8275-1e2d3271c2f2",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2228,7 +2228,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e4d65aa9-016f-4ca9-ad18-257790133677",
+      "GUID": "a295bcbe-5f0a-4d60-bff3-a36a9ac1ade1",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -2243,7 +2243,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "644278c4-1625-46a6-9ed7-194d45474030",
+      "GUID": "3481f3ac-95a9-4959-98f9-7154a5c2338e",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2258,7 +2258,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e4d65aa9-016f-4ca9-ad18-257790133677",
+      "GUID": "a295bcbe-5f0a-4d60-bff3-a36a9ac1ade1",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -2273,7 +2273,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fa752c32-6d94-47b1-afec-68fe11b6f853",
+      "GUID": "fdebdd7d-50f2-47cd-a28c-af6a06990e20",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -2288,7 +2288,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fa752c32-6d94-47b1-afec-68fe11b6f853",
+      "GUID": "fdebdd7d-50f2-47cd-a28c-af6a06990e20",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -2303,7 +2303,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ca537fe9-0591-471a-b171-c3f46b3ccb32",
+      "GUID": "32fba85c-e386-40de-959e-d9e2b81a9620",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -2318,7 +2318,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ca537fe9-0591-471a-b171-c3f46b3ccb32",
+      "GUID": "32fba85c-e386-40de-959e-d9e2b81a9620",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -2333,7 +2333,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f61b497d-6d07-4519-ad29-1349c2314e40",
+      "GUID": "2112185b-dc9c-4cb7-b325-e32dabdd87d1",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -2348,7 +2348,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f61b497d-6d07-4519-ad29-1349c2314e40",
+      "GUID": "2112185b-dc9c-4cb7-b325-e32dabdd87d1",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -2363,7 +2363,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "824f1fd8-c86b-468a-836d-79c3353c9680",
+      "GUID": "b2b5ffb3-6dde-4c48-9dc1-9361a652dfe7",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -2378,7 +2378,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d125d31a-e241-4049-9bb1-56517ef0d12a",
+      "GUID": "2bf65cd3-07aa-4d86-a2e0-6ff6565709e4",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2393,7 +2393,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "14f00558-b151-4f8f-999b-3cc7f0dd63fe",
+      "GUID": "b13b05f0-1652-4782-a88e-4542d1e33fe3",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -2408,7 +2408,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0053bae8-2267-4829-b161-00e700b01839",
+      "GUID": "8f77a6ad-1a6b-4e19-93d1-19abf1fbd401",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -2423,7 +2423,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7919e688-6626-430a-baef-5c6ef2e06302",
+      "GUID": "646c8990-ed35-40ef-b4c9-829c8b8961a3",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -2438,7 +2438,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7919e688-6626-430a-baef-5c6ef2e06302",
+      "GUID": "646c8990-ed35-40ef-b4c9-829c8b8961a3",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -2453,7 +2453,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6a4a5d9c-ac51-4f94-8941-beee4e2ed22a",
+      "GUID": "0ae586e3-07ed-4459-8dde-71c1e86a292a",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -2468,7 +2468,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6a4a5d9c-ac51-4f94-8941-beee4e2ed22a",
+      "GUID": "0ae586e3-07ed-4459-8dde-71c1e86a292a",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -2483,7 +2483,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "dbd6a23c-afbb-4fbb-b5e9-2b8a19262eca",
+      "GUID": "a3443dc1-0471-4a2a-af7e-cca45a0b6d67",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2498,7 +2498,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "80c31d0c-98ba-463f-9a7c-d9a37e8c9cae",
+      "GUID": "403595b5-4b61-440b-91ce-71b539f8a123",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2513,7 +2513,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1a9f8955-79aa-4c41-a902-ebe2b2935eba",
+      "GUID": "7b138a43-029e-44c7-ae41-4621f90f4e66",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2528,7 +2528,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3a2823f1-739e-46aa-b8a8-0855dea0ccc5",
+      "GUID": "a4f08b79-009c-40f9-b8d3-63a5f3948417",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2543,7 +2543,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "976e9ab2-b268-43ce-b42f-ed52cdef5d3f",
+      "GUID": "6b6028ca-6073-409c-a213-db49d9bb451e",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2558,7 +2558,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "976e9ab2-b268-43ce-b42f-ed52cdef5d3f",
+      "GUID": "6b6028ca-6073-409c-a213-db49d9bb451e",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2573,7 +2573,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "75218c96-9934-4b15-870d-c79cf26fa237",
+      "GUID": "982c9073-3d05-4435-9b54-70bed4fbc57b",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2588,7 +2588,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b364ee63-536c-4bde-90ca-b1cf2f4c8960",
+      "GUID": "9709a62b-e545-4cbb-ab6b-a255f5475741",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2603,7 +2603,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b364ee63-536c-4bde-90ca-b1cf2f4c8960",
+      "GUID": "9709a62b-e545-4cbb-ab6b-a255f5475741",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2618,7 +2618,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d662de0d-0aa0-401b-89cc-bd1fa12728c4",
+      "GUID": "a28a45ac-51c8-464e-be69-f818a186aa5f",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2633,7 +2633,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ad82453c-7a86-4b0c-b454-cf2b0a3bdd29",
+      "GUID": "ff43bdcf-9de8-4329-a08a-014bc3ec19e9",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2648,7 +2648,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ad82453c-7a86-4b0c-b454-cf2b0a3bdd29",
+      "GUID": "ff43bdcf-9de8-4329-a08a-014bc3ec19e9",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2663,7 +2663,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "93c6c72d-bbd4-4d16-8ebb-19cc9047a821",
+      "GUID": "6f96d1be-f20f-425c-9b5c-5974bfe2deb2",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2678,7 +2678,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "bda0e52d-0f18-4770-ace7-bdb756dc8c8d",
+      "GUID": "40893859-cde4-4783-bc06-9ac0f9fecccd",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2693,7 +2693,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "bda0e52d-0f18-4770-ace7-bdb756dc8c8d",
+      "GUID": "40893859-cde4-4783-bc06-9ac0f9fecccd",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2708,7 +2708,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2ae642cf-22c4-4874-a6c3-4f32ac8842a3",
+      "GUID": "75aa69ea-3db9-4d44-832e-5a6b1fa7a9aa",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2723,7 +2723,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2ae642cf-22c4-4874-a6c3-4f32ac8842a3",
+      "GUID": "75aa69ea-3db9-4d44-832e-5a6b1fa7a9aa",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2738,7 +2738,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "29619dd7-462d-42a4-87c9-8784b1db8f3b",
+      "GUID": "d7667a17-e21f-4d98-bebf-2e3a77a4f5ae",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2753,7 +2753,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "29619dd7-462d-42a4-87c9-8784b1db8f3b",
+      "GUID": "d7667a17-e21f-4d98-bebf-2e3a77a4f5ae",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2768,7 +2768,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "eef66b33-5c4d-4254-8019-d6d9e25d8fb3",
+      "GUID": "66ee14b5-93be-4cdd-ba09-42ad8a83b04b",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -2783,7 +2783,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c387200d-ed2a-4089-bd51-8f4ea0e2a942",
+      "GUID": "7c54f1dd-8f8b-4e6f-b279-8f6857efe3a4",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2798,7 +2798,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c387200d-ed2a-4089-bd51-8f4ea0e2a942",
+      "GUID": "7c54f1dd-8f8b-4e6f-b279-8f6857efe3a4",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2814,11 +2814,11 @@
     },
     {
       "Event": "VCS",
-      "Beat": "200.5233",
-      "Time": "79.28076"
+      "Beat": "200.538",
+      "Time": "79.28662"
     },
     {
-      "GUID": "b08424f7-aaf8-4529-8f3e-6b45db972087",
+      "GUID": "73e9b607-b917-4c04-86a7-bde3e2a41fe9",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2833,7 +2833,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "cd9f37ed-dc42-40dc-a0f1-d47b8c901355",
+      "GUID": "0682b1b9-f534-47b2-bfb3-5d78d14b964a",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2848,7 +2848,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "cd9f37ed-dc42-40dc-a0f1-d47b8c901355",
+      "GUID": "0682b1b9-f534-47b2-bfb3-5d78d14b964a",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2863,7 +2863,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9b6daa46-2eb3-4cf5-a5b8-e6b12853a15f",
+      "GUID": "d6237ba7-ddfc-4222-9d2a-77378f5362d6",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2878,7 +2878,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9a47b933-9260-4a00-b165-6e5f1b6f1507",
+      "GUID": "104fb0b2-0466-49fa-812e-6842a2cca330",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2893,7 +2893,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9a47b933-9260-4a00-b165-6e5f1b6f1507",
+      "GUID": "104fb0b2-0466-49fa-812e-6842a2cca330",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2908,7 +2908,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "aa250040-5798-4fe1-b90b-f58a78315c5a",
+      "GUID": "147aa272-c014-47e3-95e1-70c82e7ba91f",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2923,7 +2923,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "aa250040-5798-4fe1-b90b-f58a78315c5a",
+      "GUID": "147aa272-c014-47e3-95e1-70c82e7ba91f",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2938,7 +2938,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3620816c-d485-4df3-8b7d-accda1d30ace",
+      "GUID": "96f41979-ddc1-4b8a-bc20-07c0cf546fcc",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -2953,7 +2953,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3620816c-d485-4df3-8b7d-accda1d30ace",
+      "GUID": "96f41979-ddc1-4b8a-bc20-07c0cf546fcc",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -2968,7 +2968,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5a849528-2019-409d-a9bc-7db8d4e399f6",
+      "GUID": "bd74d1bd-2fb3-4e46-a418-973711cdf3b4",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -2983,7 +2983,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3f5a9613-7485-4921-8192-53e2516fcf7b",
+      "GUID": "d5b58612-3ea1-49fd-b934-63d689c69b5d",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -2998,7 +2998,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a1448bbb-9d26-46fe-a530-d3d9fcda3bf1",
+      "GUID": "b6e17d15-f4d4-4ee0-8264-a467e074887e",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -3013,7 +3013,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a1448bbb-9d26-46fe-a530-d3d9fcda3bf1",
+      "GUID": "b6e17d15-f4d4-4ee0-8264-a467e074887e",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -3028,7 +3028,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7cf4de93-8dfc-4a5a-bcc0-464fbcf4a657",
+      "GUID": "a721f409-63a0-4acb-ac92-2bc893fd5948",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -3043,7 +3043,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0d75ac7a-aed2-49f5-ab8d-f867563db333",
+      "GUID": "9b37381c-474a-411d-ae75-663031b0a773",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -3058,7 +3058,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "67ddc2d3-26f1-4268-90ba-069d8774c440",
+      "GUID": "94778d67-e245-47d2-99f9-75a4cb4d0136",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -3073,7 +3073,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "67ddc2d3-26f1-4268-90ba-069d8774c440",
+      "GUID": "94778d67-e245-47d2-99f9-75a4cb4d0136",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -3088,7 +3088,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e9758051-fef4-4bb0-b0da-46991806e97f",
+      "GUID": "a7cddfe1-ecf5-4d5e-b6d7-6b1c6124126b",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -3103,7 +3103,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d22b524f-3066-4ae2-b09d-9d7c4285e413",
+      "GUID": "191a9f26-415c-499c-aec5-0cafbd2571cb",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -3118,7 +3118,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d3724b49-2dfb-4a8a-9117-7ac03ce9cd39",
+      "GUID": "aef35752-868b-47d3-88e8-9466a99dab35",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -3133,7 +3133,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d3724b49-2dfb-4a8a-9117-7ac03ce9cd39",
+      "GUID": "aef35752-868b-47d3-88e8-9466a99dab35",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -3148,7 +3148,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c50dfdb5-10df-4c9d-9409-d40476a0cdcc",
+      "GUID": "30381386-e951-4d10-93e7-e369261f11b7",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -3163,7 +3163,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c50dfdb5-10df-4c9d-9409-d40476a0cdcc",
+      "GUID": "30381386-e951-4d10-93e7-e369261f11b7",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -3178,7 +3178,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ed78d306-ca87-47b4-8df2-ad93dc3f8951",
+      "GUID": "75b5e244-3d3f-4b5a-85f1-d2dcb6008725",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -3193,7 +3193,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ed78d306-ca87-47b4-8df2-ad93dc3f8951",
+      "GUID": "75b5e244-3d3f-4b5a-85f1-d2dcb6008725",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -3208,7 +3208,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "12dbb6d5-8df3-43f1-a205-a98e367733c2",
+      "GUID": "937353dc-8b22-42f6-a72e-33b51c9a92d3",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -3223,7 +3223,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d6b08019-999b-4acc-8b61-c62a2d6dd851",
+      "GUID": "05951ba6-f311-4b45-a3bd-ece9210819a6",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -3238,7 +3238,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fe73b977-d5b6-4530-bc4a-b4f76f1ae106",
+      "GUID": "1e754ee3-29db-4479-82c2-edb8d7695d9e",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -3253,7 +3253,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fe73b977-d5b6-4530-bc4a-b4f76f1ae106",
+      "GUID": "1e754ee3-29db-4479-82c2-edb8d7695d9e",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -3268,7 +3268,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c0fe2f69-cb41-4868-97bc-704bd480faed",
+      "GUID": "a5dbecf1-3055-40ee-b2f2-5cd0cae26a01",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -3283,7 +3283,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "390b34b1-b862-494e-a9ce-8d5465508f00",
+      "GUID": "74fbbb75-5e1c-4c3a-8d13-269de5aa479d",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -3298,7 +3298,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b4a8feed-3f2b-4ece-ab96-88de9ed24f04",
+      "GUID": "b47ff789-65ab-4c3f-a1db-37664b2f826e",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -3313,7 +3313,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b4a8feed-3f2b-4ece-ab96-88de9ed24f04",
+      "GUID": "b47ff789-65ab-4c3f-a1db-37664b2f826e",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -3328,7 +3328,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6300c98f-7695-4aaa-bfde-333ab974475a",
+      "GUID": "4459626f-bfcd-4666-afd7-3f4fd78c5d8f",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -3343,7 +3343,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5c301965-aea0-438f-88e3-444d1316630a",
+      "GUID": "d30b7e65-bac3-46f3-a9fd-8c64c85111ac",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -3358,7 +3358,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1cb332b2-8a81-404c-96f2-0bdc3d3a9168",
+      "GUID": "6cc479e6-8ac9-409e-a7d7-13b20c226402",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -3373,7 +3373,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1cb332b2-8a81-404c-96f2-0bdc3d3a9168",
+      "GUID": "6cc479e6-8ac9-409e-a7d7-13b20c226402",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -3388,7 +3388,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "db99b98f-b3ff-40b3-bd4d-060448e6369e",
+      "GUID": "250ccbdd-03f2-41ae-9bfa-dd37419ab1de",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -3403,7 +3403,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "221dd4b6-92ab-45cd-9307-65c00f01a82f",
+      "GUID": "ad3aef3b-3d9e-45ec-bf37-effdfdedb209",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -3418,7 +3418,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "db99b98f-b3ff-40b3-bd4d-060448e6369e",
+      "GUID": "250ccbdd-03f2-41ae-9bfa-dd37419ab1de",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -3433,7 +3433,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "221dd4b6-92ab-45cd-9307-65c00f01a82f",
+      "GUID": "ad3aef3b-3d9e-45ec-bf37-effdfdedb209",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -3448,7 +3448,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "306e260f-8a45-4586-b257-8c0b9697b032",
+      "GUID": "4ec99016-0979-4037-8d9b-2bed319a03a0",
       "ID": "1236",
       "Facing": "Left",
       "Health": "1",
@@ -3463,7 +3463,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5e0852c0-288e-4240-afab-2710b81ec23b",
+      "GUID": "8293d9b9-5d72-47f4-9b8b-dd8b547bde3a",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3478,7 +3478,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "64aab63c-5965-4adf-81c7-5029dd270ba5",
+      "GUID": "ff23e3dd-54b0-4ca2-a351-e6650d4d15a1",
       "ID": "1236",
       "Facing": "Left",
       "Health": "1",
@@ -3493,7 +3493,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "99d56084-058f-4275-9a0e-079f6c8e2cec",
+      "GUID": "abe64067-3536-4c23-bffa-954a7452c378",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3508,7 +3508,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ea40e45b-7f56-409e-a3dd-c75f147b323b",
+      "GUID": "275ea4a9-f26c-4ac7-abbc-a9df93bfeced",
       "ID": "1236",
       "Facing": "Left",
       "Health": "1",
@@ -3523,7 +3523,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a2807c59-6275-4aba-8bb0-c382f9d71161",
+      "GUID": "c3537d75-0379-42f8-bd62-a056f5662181",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3539,11 +3539,11 @@
     },
     {
       "Event": "VCS",
-      "Beat": "245.0233",
-      "Time": "96.96289"
+      "Beat": "245.0012",
+      "Time": "96.9541"
     },
     {
-      "GUID": "82a82346-844a-405f-a041-a9cec93b1bd2",
+      "GUID": "f76f4425-4d50-44f3-b4ce-98041bee0c69",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -3558,7 +3558,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5f0d66bc-105c-462d-8375-de1e60cadec7",
+      "GUID": "9c98a066-e957-4eab-b43e-25e008cfc7ad",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3573,7 +3573,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8d15dc9c-c2e8-43f8-9b99-dc4e19b66b8f",
+      "GUID": "25103ed1-0bf4-48a5-aa0f-4bd704219240",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -3588,7 +3588,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "cc5b7947-6a87-419e-8e7e-bf8e873c554d",
+      "GUID": "375fe703-ebd7-46a6-8301-2b21aa38d373",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3603,7 +3603,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a1e35d4b-e4bd-4c80-8dd0-940d0b070108",
+      "GUID": "02129350-47ca-446e-a9de-95367c09b0ce",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -3618,7 +3618,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6b55aeae-0dd3-4e29-aa89-f051e85d0be0",
+      "GUID": "6ff41e4f-ae04-4f2a-8434-7c76bb775dfc",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -3633,7 +3633,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "739ea0f5-efbc-4235-9546-0f898489638d",
+      "GUID": "45d23985-3edc-4fc9-98a3-d89f0f422fa8",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3648,7 +3648,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0f9628a4-cba2-4271-b40c-8f6a7e7e4c7f",
+      "GUID": "2ffd7fd2-35f5-42f8-be52-166913498a30",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -3663,7 +3663,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "94f71250-4594-43cc-8832-096d07b65357",
+      "GUID": "db0c4111-6cd5-4563-bf8e-f02e6857b8da",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3678,7 +3678,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "70033374-ddc8-480a-a482-1635ea7c10f8",
+      "GUID": "abf95870-bc90-4b5e-b792-8ee8251665f4",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -3693,7 +3693,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "62b0ba8d-1cd6-4603-8241-88277dd2475b",
+      "GUID": "9a09e1a6-2949-467d-90c3-bf5de07a922a",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -3708,7 +3708,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3f0a13cb-210c-4f44-b954-2917149cbb71",
+      "GUID": "1cf86ac2-2aec-4459-bdea-88ee839a12ff",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -3723,7 +3723,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "65f879d3-371c-4c42-b257-ec192810b63a",
+      "GUID": "00a0e2be-f608-4b58-be34-6cf1ff995037",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -3738,7 +3738,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "dc7957f2-dca0-41ba-81f1-98b0cf7f12c0",
+      "GUID": "45e75d60-1e92-4e34-bd2b-379539c98b91",
       "ID": "1236",
       "Facing": "Left",
       "Health": "1",
@@ -3753,7 +3753,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e33f09d0-6272-4027-938e-5aa89f9baa5a",
+      "GUID": "366cb646-f359-426e-a6dd-5140fcaf8706",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -3768,7 +3768,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7f737b98-19e2-4f88-9444-e0a75cdfd36d",
+      "GUID": "59619c60-747c-4076-871d-ec6e05c0082d",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3783,7 +3783,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "cbd8b014-32c5-48f7-a538-b70e15d7e650",
+      "GUID": "08904bc0-d88f-48fb-b178-a7271464f212",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3798,7 +3798,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4eef55db-c95f-4276-ac04-7edbd03a2e37",
+      "GUID": "a8242890-c4a4-4cb3-b337-ca56df053f19",
       "ID": "1234",
       "Facing": "Right",
       "Health": "1",
@@ -3813,7 +3813,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d330df3a-2b0f-4b2d-bc2d-11278d0f3143",
+      "GUID": "e07e2bc4-9bb1-401c-b7ff-0ddcb12d3e54",
       "ID": "1234",
       "Facing": "Right",
       "Health": "1",
@@ -3828,7 +3828,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "73f3f38b-0846-42b4-9b70-e79327888d81",
+      "GUID": "c166997e-29cf-4759-a49f-80f6c889c401",
       "ID": "1234",
       "Facing": "Right",
       "Health": "1",
@@ -3843,7 +3843,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a3f4a716-c099-4989-ae34-1826d4a96d2a",
+      "GUID": "fe4a3731-0bad-44eb-924a-411a04351f7d",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3858,7 +3858,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9cec9368-eca1-460e-8a28-28b48f0b991a",
+      "GUID": "64cb2107-86a7-411e-9854-6e7f18e0841a",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3873,7 +3873,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "88bffc29-24f4-41fb-822f-38dca0e898cf",
+      "GUID": "7dd8a707-05be-4cb0-99ba-2c59649eec21",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -3888,7 +3888,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e5adf797-440a-4293-a4db-aef9ec418983",
+      "GUID": "a01aa06b-8a0f-4563-ba57-a601a6522355",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -3903,7 +3903,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7b2c9903-b73b-49e5-b453-b6b3b55986e9",
+      "GUID": "49750dde-56e0-431f-84ba-2dd37a150b9f",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -3918,7 +3918,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e8f71f05-c8e6-4c29-874a-fefdf8e12fad",
+      "GUID": "fcf28835-f741-4a5c-b477-54d201be6b62",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3933,7 +3933,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ab814e78-9105-4a2d-bc9e-e8d551357e6e",
+      "GUID": "5c5d821c-d949-452b-b4c7-6e95710c57e8",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3948,7 +3948,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3c3c0b5a-bef7-4854-b840-0e8ae8b63c92",
+      "GUID": "92b24fb8-abcd-4502-a242-59b0a1dde780",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -3963,7 +3963,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "528765ad-ce3d-40ae-8f79-c7d3f627ff2f",
+      "GUID": "9f654962-5f18-49b2-862b-82b862a88d0a",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -3978,7 +3978,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4e7c7fa9-a614-4b52-afb8-ae3702fe2413",
+      "GUID": "99778971-253e-4f39-a471-55863678f8f8",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -3993,7 +3993,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b128f300-3e07-4728-9309-307cdb6dcb58",
+      "GUID": "22ada71b-bac3-4d3f-9e2d-5e6e92e27b0f",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4008,7 +4008,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4c5d0dbf-a27c-45e4-8cea-a13b574d583c",
+      "GUID": "8d00fb31-827d-47c5-ab8d-612bb0fe298e",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4023,7 +4023,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "beb1d145-564a-469a-890c-40fa488b10e4",
+      "GUID": "abcfb585-73b1-4d1e-be5e-0ded3b34ede4",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4038,7 +4038,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "46e1beb4-c655-4d3f-81a0-4f9d20a8235b",
+      "GUID": "3467a5d1-7814-4345-8326-1038eb9e2f76",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4053,7 +4053,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2f6826f6-c47e-4347-96b1-6f7ebc5f4982",
+      "GUID": "3b290ad1-007c-40d2-a1fb-6a217f5eb3e0",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4068,7 +4068,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "085066de-fdcb-41ea-81e0-82a20e2d0def",
+      "GUID": "3544caf1-ec3d-4ceb-9269-5e10c14f44c1",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4083,7 +4083,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5a76f311-a0f8-466c-9cf0-09efe1a12142",
+      "GUID": "cb2c7b9c-07f7-4007-a060-401446074ae3",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4098,7 +4098,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "71439a08-8b41-488c-b3b9-bf32454cac19",
+      "GUID": "c04498ce-7ecb-4d38-ae05-dc11a27a30a4",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4113,7 +4113,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fd583331-dd50-4f2e-80ce-0dbe0c8e3f1f",
+      "GUID": "9662f9de-7918-4c83-a370-4aebf422cdc4",
       "ID": "1234",
       "Facing": "Right",
       "Health": "1",
@@ -4128,7 +4128,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c917c3b3-8210-4822-a8ec-f41b23cf423d",
+      "GUID": "1620199a-e202-4d01-ac6a-f740682cd060",
       "ID": "1234",
       "Facing": "Right",
       "Health": "1",
@@ -4143,7 +4143,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d5e16497-e5d7-40ba-929b-ac3f9b3a2f80",
+      "GUID": "326b3a6c-4860-439b-adc7-3f4dc8e4d1c7",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -4158,7 +4158,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5e424894-27bc-45ae-9db9-b750d544702c",
+      "GUID": "52353a06-f1d1-41c4-8a4f-00299e0f53a7",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -4173,7 +4173,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "69024fb0-e75b-4574-afb3-a4a914682f2c",
+      "GUID": "502dfdfb-66f7-45a5-9f16-466fd2c12d37",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -4188,7 +4188,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "371ad155-3c50-4b5a-b75b-27ffc77842cb",
+      "GUID": "868ac03e-2889-41a5-9acc-ee62db03453c",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -4203,7 +4203,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "69024fb0-e75b-4574-afb3-a4a914682f2c",
+      "GUID": "502dfdfb-66f7-45a5-9f16-466fd2c12d37",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -4218,7 +4218,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "82db8211-1e52-46f7-b818-e70bd25829fd",
+      "GUID": "d782bf3a-a5ff-47ef-a073-83f7fddb03c3",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -4233,7 +4233,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "371ad155-3c50-4b5a-b75b-27ffc77842cb",
+      "GUID": "868ac03e-2889-41a5-9acc-ee62db03453c",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -4248,7 +4248,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "82db8211-1e52-46f7-b818-e70bd25829fd",
+      "GUID": "d782bf3a-a5ff-47ef-a073-83f7fddb03c3",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -4263,7 +4263,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "081d631a-6337-479d-8e13-e101a3fd12db",
+      "GUID": "3d9355a0-5d5a-4fa5-990d-19f49db21b43",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -4278,7 +4278,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "52a3a687-d89a-4ea0-85e6-f04cc59cf2ef",
+      "GUID": "087fff6f-0ffe-4e6e-bc3c-f6dc9ed38f1a",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -4293,7 +4293,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ebc9415c-9c64-49e8-b56e-7f18be51052d",
+      "GUID": "d2f6527f-73f2-4116-8a76-f515770d54f5",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -4308,7 +4308,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ebc9415c-9c64-49e8-b56e-7f18be51052d",
+      "GUID": "d2f6527f-73f2-4116-8a76-f515770d54f5",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -4323,7 +4323,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7e6fc566-5df0-4ed6-bf78-c51f87cda09f",
+      "GUID": "f7d2cc36-9efb-4967-a0c2-cd1b29602b5a",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -4338,7 +4338,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "df2fea5c-c4b0-49e6-ad16-93e19e9fe30a",
+      "GUID": "ea82a621-5148-41e1-8f5b-a987d6af3c90",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -4353,7 +4353,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a1a15b39-05d0-4233-9921-44abc024d9af",
+      "GUID": "3a023855-07de-46ad-818e-ebe686d146f6",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -4368,7 +4368,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6ad16312-3b56-4d88-b8dd-0f8640e0e0cf",
+      "GUID": "14a3b439-acc1-4cca-b05c-7f71333fcb45",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4383,7 +4383,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d84b5b4c-9e0c-4147-9924-477d64651ea0",
+      "GUID": "5e6b3174-c86b-4602-b1b3-e238e58bf5d7",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -4398,7 +4398,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d84b5b4c-9e0c-4147-9924-477d64651ea0",
+      "GUID": "5e6b3174-c86b-4602-b1b3-e238e58bf5d7",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -4413,7 +4413,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b2c9da29-aa2b-4f83-ba74-fbc900eb8244",
+      "GUID": "6cc81448-52af-4955-af7b-7e0a53113cfe",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -4428,7 +4428,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b2c9da29-aa2b-4f83-ba74-fbc900eb8244",
+      "GUID": "6cc81448-52af-4955-af7b-7e0a53113cfe",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -4443,7 +4443,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3a151445-d629-47e4-9001-d3ea31e71d95",
+      "GUID": "e1314125-3b69-463e-a0bc-7bf41f9476e2",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -4458,7 +4458,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3a151445-d629-47e4-9001-d3ea31e71d95",
+      "GUID": "e1314125-3b69-463e-a0bc-7bf41f9476e2",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -4473,7 +4473,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "94598032-8208-4d75-b415-f0f3b7a37ebf",
+      "GUID": "207a5b6f-12b7-4db0-9f79-00a7a8b6a798",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -4488,7 +4488,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "94598032-8208-4d75-b415-f0f3b7a37ebf",
+      "GUID": "207a5b6f-12b7-4db0-9f79-00a7a8b6a798",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -4503,7 +4503,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c25f82bf-7c52-4534-8eec-d64f04e3ccd4",
+      "GUID": "05752aa1-7127-46c6-a75a-2e326a740898",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -4518,7 +4518,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0eac05fc-5dfe-44be-8be0-596bc0dfe704",
+      "GUID": "82fc2dc8-c3c9-4090-b192-e79473acec91",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4533,7 +4533,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "da60005f-2a26-4b35-af3e-49a6479ba9a2",
+      "GUID": "dc58b9a6-1467-4dce-be3c-07efa8c13fee",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -4548,7 +4548,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "da60005f-2a26-4b35-af3e-49a6479ba9a2",
+      "GUID": "dc58b9a6-1467-4dce-be3c-07efa8c13fee",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -4563,7 +4563,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "63e9c851-abd8-4429-85fb-e3d8cb42004f",
+      "GUID": "2acb2f16-52ad-468c-b9dc-a47316ef6b89",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -4578,7 +4578,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0f8f354a-5756-473f-b8d3-ed44c820c1a4",
+      "GUID": "d1c2459c-7717-451e-bcb7-7459aebe4d88",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -4593,7 +4593,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "63e9c851-abd8-4429-85fb-e3d8cb42004f",
+      "GUID": "2acb2f16-52ad-468c-b9dc-a47316ef6b89",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -4608,7 +4608,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0f8f354a-5756-473f-b8d3-ed44c820c1a4",
+      "GUID": "d1c2459c-7717-451e-bcb7-7459aebe4d88",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -4623,7 +4623,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d0f9ae94-1dbf-44f3-a35d-d6ab365344db",
+      "GUID": "0a36b40f-4ef2-4455-a520-4db04d05c3f2",
       "ID": "4355",
       "Facing": "Left",
       "Health": "2",
@@ -4638,7 +4638,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "de30aba1-5647-42d1-b032-6cc307ac603c",
+      "GUID": "1bc50b96-b4a2-4c7a-90e9-3eb2b6ec8264",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4653,7 +4653,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9e47f279-1959-480f-8603-d53d3ca184b1",
+      "GUID": "291a3586-d140-4fe7-a744-9810cc2d8096",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -4668,7 +4668,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d0f9ae94-1dbf-44f3-a35d-d6ab365344db",
+      "GUID": "0a36b40f-4ef2-4455-a520-4db04d05c3f2",
       "ID": "4355",
       "Facing": "Right",
       "Health": "1",
@@ -4683,7 +4683,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e96cc406-d391-4b6c-8d9a-2552b75190f2",
+      "GUID": "239ff05d-5914-4362-bd4e-f99173864ba7",
       "ID": "4355",
       "Facing": "Left",
       "Health": "2",
@@ -4698,7 +4698,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9df5fc68-0b7b-4fec-99b6-cba174e9f9df",
+      "GUID": "14ff6d9a-11f9-49bd-aff7-f19a256378de",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4713,7 +4713,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e96cc406-d391-4b6c-8d9a-2552b75190f2",
+      "GUID": "239ff05d-5914-4362-bd4e-f99173864ba7",
       "ID": "4355",
       "Facing": "Right",
       "Health": "1",
@@ -4728,7 +4728,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3fc8ac67-3fce-4d2f-b069-a8e35b471792",
+      "GUID": "c7cccf1b-8ac1-4617-99c4-3be1209077ee",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -4743,7 +4743,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f0ac65aa-c371-49ee-abc2-2b778f0dc85c",
+      "GUID": "109efcca-3931-4708-ae65-f0af9913de08",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -4758,7 +4758,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3fc8ac67-3fce-4d2f-b069-a8e35b471792",
+      "GUID": "c7cccf1b-8ac1-4617-99c4-3be1209077ee",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -4773,7 +4773,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f0ac65aa-c371-49ee-abc2-2b778f0dc85c",
+      "GUID": "109efcca-3931-4708-ae65-f0af9913de08",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -4788,7 +4788,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9e62a0d2-4425-4371-859a-ca6a487af453",
+      "GUID": "b6da9eaf-642f-4a7c-a254-5378c4f99f02",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4804,11 +4804,11 @@
     },
     {
       "Event": "VCS",
-      "Beat": "349.0078",
-      "Time": "138.2813"
+      "Beat": "349.0201",
+      "Time": "138.2861"
     },
     {
-      "GUID": "8d001ed0-3902-47e2-b5c3-c6828319fd3c",
+      "GUID": "f5ae9391-bc35-4a08-ae4c-9e4eb57b866b",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4823,7 +4823,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1a23a1c0-d272-4a55-92e3-1820a31e3ab2",
+      "GUID": "7ce71dc2-525f-44f9-a876-608f30a02c91",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4838,7 +4838,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3818b6b7-0586-48ff-8288-8ad15f185975",
+      "GUID": "c9b6de96-1d56-4dda-b12e-4451850bc4b2",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4853,7 +4853,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f189b504-74b8-43f4-8aa4-6704746151c9",
+      "GUID": "d00a81a7-8cc2-4a00-8b08-e0e42be16858",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4868,7 +4868,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d1545d8e-7904-4fbf-9fae-3784c1965538",
+      "GUID": "cfe93c1b-d1f3-4132-ae79-68b35a04a7c1",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4883,7 +4883,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fac51eb8-0302-4275-bfc1-2eb2bdf7738a",
+      "GUID": "477f8f47-6bb2-4010-ba8d-01957836490c",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4898,7 +4898,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f24e9bfc-2fdd-4e19-91bd-ed594ad8ea2b",
+      "GUID": "f96e0402-4372-4043-abb3-ed58de78e09b",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -4913,7 +4913,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "25132209-3598-490a-9713-ff5619d5fcb0",
+      "GUID": "798a826c-00b8-4e88-9116-207104b9c818",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -4928,7 +4928,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "25132209-3598-490a-9713-ff5619d5fcb0",
+      "GUID": "798a826c-00b8-4e88-9116-207104b9c818",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -4943,7 +4943,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b97ac88c-9e1f-4a1b-bb4f-8825f750ca3f",
+      "GUID": "7355dc1a-e269-4c4c-b958-a647e0e4bcc8",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -4958,7 +4958,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "73117d91-f33d-4146-b627-a76f666e1240",
+      "GUID": "fd32e3d9-1447-43d9-8f3f-d81a8b3c8cc0",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -4973,7 +4973,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3ac63958-bb40-4168-b959-bebcd0d991b1",
+      "GUID": "ae1e132e-3aaa-4a36-aa4b-15148a73d54f",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -4988,7 +4988,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3ac63958-bb40-4168-b959-bebcd0d991b1",
+      "GUID": "ae1e132e-3aaa-4a36-aa4b-15148a73d54f",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -5003,7 +5003,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5c87f348-bf40-4f99-ac1f-bd30ef54efae",
+      "GUID": "3541e074-cba5-4d18-b789-19a6c1afdd9b",
       "ID": "1817",
       "Facing": "Left",
       "Health": "3",
@@ -5018,7 +5018,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5c87f348-bf40-4f99-ac1f-bd30ef54efae",
+      "GUID": "3541e074-cba5-4d18-b789-19a6c1afdd9b",
       "ID": "1817",
       "Facing": "Left",
       "Health": "2",
@@ -5033,7 +5033,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5c87f348-bf40-4f99-ac1f-bd30ef54efae",
+      "GUID": "3541e074-cba5-4d18-b789-19a6c1afdd9b",
       "ID": "1817",
       "Facing": "Left",
       "Health": "1",
@@ -5048,7 +5048,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e6e3e50c-33a6-4174-b770-d8a34f9bb652",
+      "GUID": "4f573066-816e-472c-b79f-bc617160094e",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -5063,7 +5063,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e6e3e50c-33a6-4174-b770-d8a34f9bb652",
+      "GUID": "4f573066-816e-472c-b79f-bc617160094e",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -5078,7 +5078,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3de80482-6f8e-48c4-bd88-57bc01aeac1d",
+      "GUID": "08ecc57f-b8d3-4eeb-8782-ad388286eeb0",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -5093,7 +5093,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "655ccbf3-c4d8-4f9a-88c5-65d791842b2c",
+      "GUID": "cc2b2f3a-2691-473c-964b-9a078e852c91",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5108,7 +5108,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3de80482-6f8e-48c4-bd88-57bc01aeac1d",
+      "GUID": "08ecc57f-b8d3-4eeb-8782-ad388286eeb0",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -5123,7 +5123,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2eda8d6d-bfd6-4542-9c56-6b27a9795d8b",
+      "GUID": "c7f4814a-96dd-4d9d-ba0d-7d0554d92f59",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -5138,7 +5138,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2eda8d6d-bfd6-4542-9c56-6b27a9795d8b",
+      "GUID": "c7f4814a-96dd-4d9d-ba0d-7d0554d92f59",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -5153,7 +5153,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "eacd548c-e5cb-4a50-97eb-b9bfa5939a9c",
+      "GUID": "fde79685-d7d0-45f3-8157-c7a76649967a",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -5168,7 +5168,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "eacd548c-e5cb-4a50-97eb-b9bfa5939a9c",
+      "GUID": "fde79685-d7d0-45f3-8157-c7a76649967a",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -5183,7 +5183,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a69724f4-e2a6-4050-9f2b-28fd95228b10",
+      "GUID": "1422cb93-a0db-4953-98b7-221c1dc4e569",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -5198,7 +5198,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a69724f4-e2a6-4050-9f2b-28fd95228b10",
+      "GUID": "1422cb93-a0db-4953-98b7-221c1dc4e569",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -5213,7 +5213,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "53a6dc88-4458-445a-a9b1-fb5dd74cec79",
+      "GUID": "d43956ef-e60d-4042-82f9-13d20bed85b6",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5228,7 +5228,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9fd22ff2-3654-4db7-9ca1-6d40f51c1767",
+      "GUID": "9892b8d9-0d7f-4796-812a-085847955f20",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5243,7 +5243,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a7e4b57b-11be-4d6f-adb6-281b938eb505",
+      "GUID": "3198b238-3d87-429d-a125-a84cf08e5241",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5258,7 +5258,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3a3cf112-ccf8-4086-9690-a606720c72bc",
+      "GUID": "50f1f51f-879b-464d-8124-96dffed70b04",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5273,7 +5273,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4b4168cf-0795-4fe9-919e-5a32dc58db4e",
+      "GUID": "6f27295c-0a60-4fc1-9966-7358bf62ebb7",
       "ID": "4355",
       "Facing": "Right",
       "Health": "2",
@@ -5288,7 +5288,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "57c71677-3468-4cef-853d-38a535b175b7",
+      "GUID": "bc22017a-8f5f-4b73-a080-0cd15e2b78bd",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5303,7 +5303,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4b4168cf-0795-4fe9-919e-5a32dc58db4e",
+      "GUID": "6f27295c-0a60-4fc1-9966-7358bf62ebb7",
       "ID": "4355",
       "Facing": "Left",
       "Health": "1",
@@ -5318,7 +5318,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b02059e4-2500-4e63-9e64-bbfe342fb27a",
+      "GUID": "e039fd50-b0aa-487f-bcf4-5555a2b95881",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -5333,7 +5333,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b02059e4-2500-4e63-9e64-bbfe342fb27a",
+      "GUID": "e039fd50-b0aa-487f-bcf4-5555a2b95881",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -5348,7 +5348,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1d4e0ff8-7d61-4f26-a3ce-8c512029578d",
+      "GUID": "a9883538-1dfd-4737-abb3-81e8fac75bea",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -5363,7 +5363,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1d4e0ff8-7d61-4f26-a3ce-8c512029578d",
+      "GUID": "a9883538-1dfd-4737-abb3-81e8fac75bea",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -5378,7 +5378,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b6fe914a-0cde-442e-b735-d67804272c97",
+      "GUID": "ac2a0421-0ded-40c2-971f-cda7a0b40bb1",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "2",
@@ -5393,7 +5393,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b6fe914a-0cde-442e-b735-d67804272c97",
+      "GUID": "ac2a0421-0ded-40c2-971f-cda7a0b40bb1",
       "ID": "8675309",
       "Facing": "Left",
       "Health": "1",
@@ -5408,7 +5408,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2d37ee63-6463-4b5c-b256-92f3a3514ec9",
+      "GUID": "84ee6d6b-c639-47c7-8499-24e00c291bd8",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -5423,7 +5423,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "315441f3-033b-4487-bd8a-16372544dcf9",
+      "GUID": "923cf814-1573-4d38-880e-8d8ec233bf1c",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -5438,7 +5438,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ee7f2b65-c5a2-40d0-9e3a-fce498a0876b",
+      "GUID": "26302892-caca-4fa3-b61c-ba46c04a9e05",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -5453,7 +5453,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "920bdea5-b5ee-4e3f-b625-33c1008f37c9",
+      "GUID": "8bb99e92-34c2-4b8d-a465-32df6a00083e",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -5468,7 +5468,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "cc7883ab-9975-4307-b19d-da6ef00f7de5",
+      "GUID": "f27ca649-169e-49b2-a278-5481cb1f10d2",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -5483,7 +5483,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "cc7883ab-9975-4307-b19d-da6ef00f7de5",
+      "GUID": "f27ca649-169e-49b2-a278-5481cb1f10d2",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -5498,7 +5498,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8d3f6409-5732-4785-b67f-5013f37cb033",
+      "GUID": "06d9549d-6c6f-405b-86ed-8f84a472902b",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "2",
@@ -5513,7 +5513,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8d3f6409-5732-4785-b67f-5013f37cb033",
+      "GUID": "06d9549d-6c6f-405b-86ed-8f84a472902b",
       "ID": "8675309",
       "Facing": "Right",
       "Health": "1",
@@ -5528,7 +5528,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d1a8d632-46b3-4595-b650-4654a9b526b7",
+      "GUID": "cae96e69-1546-4f81-8578-0e69c2b8e1ec",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5543,7 +5543,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5712cb23-c316-4908-890d-71b6b1980d6f",
+      "GUID": "4e5a73b0-813d-4f22-b468-06bf9fc3a432",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5558,7 +5558,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "06172a79-e1f2-4842-ad63-0b0013446d4e",
+      "GUID": "784c4b08-b378-4c2e-adb2-5faa84a84e5e",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -5573,7 +5573,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "65734bc6-8f3e-4a9a-bb66-40fe4955b7e3",
+      "GUID": "47c65230-00a9-4163-b306-3533d1dd76e4",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -5588,7 +5588,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "19e01f92-4e9a-4e2d-b9bb-558500bd3aea",
+      "GUID": "3741f7a7-cc79-4a16-a080-04f42fc2403e",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5603,7 +5603,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "19e01f92-4e9a-4e2d-b9bb-558500bd3aea",
+      "GUID": "3741f7a7-cc79-4a16-a080-04f42fc2403e",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -5618,7 +5618,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4b8ea99c-7003-4221-b74c-f9b65224b0f0",
+      "GUID": "4f474c86-ba82-4e35-ac1d-8572847dee78",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5633,7 +5633,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d1984fc8-140c-4a55-987e-5eaf3fb12283",
+      "GUID": "a290bd8e-aa4d-46ac-9f8b-1af746cbe715",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5648,7 +5648,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d1984fc8-140c-4a55-987e-5eaf3fb12283",
+      "GUID": "a290bd8e-aa4d-46ac-9f8b-1af746cbe715",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -5663,7 +5663,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1652aae6-0a0c-4f6b-85fa-e6bf9d67001c",
+      "GUID": "2bfe0713-3529-4ea0-967a-41a39ffbefaa",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5678,7 +5678,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b46e0d59-147c-4cab-b720-7752378f2a53",
+      "GUID": "dca5ce08-71cc-4a71-82fd-bc452dabacdc",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5693,7 +5693,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b46e0d59-147c-4cab-b720-7752378f2a53",
+      "GUID": "dca5ce08-71cc-4a71-82fd-bc452dabacdc",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -5708,7 +5708,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5ac0582e-963c-487c-893f-f3e6760eeae9",
+      "GUID": "0cc765b9-51a9-47f1-9bcc-70d1d204bac7",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5723,7 +5723,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3843e100-e895-48f2-8520-a639707f9d7b",
+      "GUID": "b2aebc54-fb1f-49d0-b211-f2dca7312846",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5738,7 +5738,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3843e100-e895-48f2-8520-a639707f9d7b",
+      "GUID": "b2aebc54-fb1f-49d0-b211-f2dca7312846",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -5753,7 +5753,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "948f046a-ddd5-47b0-9788-a665faae8ead",
+      "GUID": "8d130ae5-ce2c-4707-b991-af2b6cbcadfc",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5768,7 +5768,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "948f046a-ddd5-47b0-9788-a665faae8ead",
+      "GUID": "8d130ae5-ce2c-4707-b991-af2b6cbcadfc",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -5783,7 +5783,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c6e4086d-74fb-4fd8-b7c2-6b867933e1c9",
+      "GUID": "e955e08e-44ef-44e4-8214-fc5a67f9c115",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5798,7 +5798,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c6e4086d-74fb-4fd8-b7c2-6b867933e1c9",
+      "GUID": "e955e08e-44ef-44e4-8214-fc5a67f9c115",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -5813,7 +5813,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "37ab1e65-b0b6-4226-b869-678a4e387dd1",
+      "GUID": "66fc9463-4850-4312-907e-8a86c19f4efe",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5828,7 +5828,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8dd933f1-8157-44df-95ed-506be13c5570",
+      "GUID": "52bae739-01ac-4ecc-93f9-19496ba4e065",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5843,7 +5843,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8dd933f1-8157-44df-95ed-506be13c5570",
+      "GUID": "52bae739-01ac-4ecc-93f9-19496ba4e065",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -5858,7 +5858,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "40032a29-985e-4dbe-b50a-d423b71fa1e3",
+      "GUID": "4502bc24-afc1-4ace-9705-1eab8e384d70",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5873,7 +5873,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "92189230-8467-4227-9c53-c04341f44866",
+      "GUID": "d1ed60b7-b01a-4e48-b034-b52f3330caaa",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5888,7 +5888,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "92189230-8467-4227-9c53-c04341f44866",
+      "GUID": "d1ed60b7-b01a-4e48-b034-b52f3330caaa",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -5903,7 +5903,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "05741134-d305-44e1-a1d1-f6dee804ec14",
+      "GUID": "0fe54286-31c5-4fc4-a0e4-a42cd0a32a12",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -5918,7 +5918,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9b7c49cf-a95d-4f2b-a6ad-39da480acf1d",
+      "GUID": "c5de8b9f-f33a-4611-a7c5-b49bf034e44f",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5933,7 +5933,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9b7c49cf-a95d-4f2b-a6ad-39da480acf1d",
+      "GUID": "c5de8b9f-f33a-4611-a7c5-b49bf034e44f",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -5948,7 +5948,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2c92c157-eb23-423a-a696-7daa657e0170",
+      "GUID": "179dca35-9615-4ec1-afcb-862f7411d5d2",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5963,7 +5963,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2c92c157-eb23-423a-a696-7daa657e0170",
+      "GUID": "179dca35-9615-4ec1-afcb-862f7411d5d2",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -5978,7 +5978,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c2f5324a-cee1-4cc9-ac0d-a1bddfe35a6b",
+      "GUID": "26f792f2-a6ca-4731-98b9-db256b0a8192",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -5993,7 +5993,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c2f5324a-cee1-4cc9-ac0d-a1bddfe35a6b",
+      "GUID": "26f792f2-a6ca-4731-98b9-db256b0a8192",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6008,7 +6008,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d83fe58f-c7d5-48cb-9edc-6e4d649c5102",
+      "GUID": "de3e301a-5335-422b-a884-58526595af67",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -6023,7 +6023,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "221e6b58-912c-4525-9bdc-43155a54461d",
+      "GUID": "7cfb03b4-f6dd-42c6-9b7d-2e67788ddcb2",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -6038,7 +6038,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d2aa5359-fb62-4336-a166-c1d0fc92f912",
+      "GUID": "43c0cdc9-909b-4f57-8bb1-366a5d34857c",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6053,7 +6053,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d2aa5359-fb62-4336-a166-c1d0fc92f912",
+      "GUID": "43c0cdc9-909b-4f57-8bb1-366a5d34857c",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6068,7 +6068,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "be2c8e56-0df7-4503-8a42-61d001110a20",
+      "GUID": "bd4b4c25-4371-42bd-a0ba-1b224190ced1",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -6083,7 +6083,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "08c60762-aaf6-429c-8c7f-1b7c7b9582d9",
+      "GUID": "37ed7229-bfea-4438-b5c4-95f79760df82",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -6098,7 +6098,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "98cbba5e-cd17-42ef-89aa-9b726a9905aa",
+      "GUID": "405c131c-75d7-42b4-a01c-3f0674b803e2",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6113,7 +6113,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "98cbba5e-cd17-42ef-89aa-9b726a9905aa",
+      "GUID": "405c131c-75d7-42b4-a01c-3f0674b803e2",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6128,7 +6128,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "23068c02-1ba9-4939-9dac-e8ccf27da78c",
+      "GUID": "89804493-057a-4fe7-bce8-3abe1a580707",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -6143,7 +6143,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "56be6dd2-4117-46d0-854b-018474d94153",
+      "GUID": "1e6c0ed9-edc8-4761-8998-0a55bfc8ba16",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -6158,7 +6158,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "27264edd-c388-4e6b-b9b8-506aacf81445",
+      "GUID": "bb5c54f3-1815-452f-b2f5-b7617dc5e6d7",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6173,7 +6173,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "27264edd-c388-4e6b-b9b8-506aacf81445",
+      "GUID": "bb5c54f3-1815-452f-b2f5-b7617dc5e6d7",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6188,7 +6188,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "24bc1d7b-37fe-4281-8cd3-608389f36e8c",
+      "GUID": "177474f6-49c6-418f-bd94-369a21031f86",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6203,7 +6203,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "24bc1d7b-37fe-4281-8cd3-608389f36e8c",
+      "GUID": "177474f6-49c6-418f-bd94-369a21031f86",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6218,7 +6218,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c4c3efc2-f289-4f81-9dc7-893eb8d42d6b",
+      "GUID": "db572751-249b-4dff-81f1-e33f52bfe68a",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6233,7 +6233,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c4c3efc2-f289-4f81-9dc7-893eb8d42d6b",
+      "GUID": "db572751-249b-4dff-81f1-e33f52bfe68a",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6248,7 +6248,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8fe0fc5a-e522-4d43-a2b2-c0be8c668044",
+      "GUID": "f28661fa-8dc0-4571-b02c-12d9ed8374e8",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -6263,7 +6263,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "83c2896c-540e-4074-b3ae-9c383bafdca7",
+      "GUID": "16fdeb4b-86db-400f-ac46-0df823142233",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -6278,7 +6278,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "18f36017-a9d2-44e5-bd63-aceba4ba643b",
+      "GUID": "cecd3c0f-b1f2-49ed-a794-1442790499d2",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6293,7 +6293,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "18f36017-a9d2-44e5-bd63-aceba4ba643b",
+      "GUID": "cecd3c0f-b1f2-49ed-a794-1442790499d2",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6308,7 +6308,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c4bd2ac9-4a2c-4bac-9c66-21f4d058ddab",
+      "GUID": "9e0aa77c-1b7a-4e8a-abbb-07c5dfce2e57",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -6323,7 +6323,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ec7bc50e-102b-423f-ad5e-9f1bb4bc8152",
+      "GUID": "585dcc4b-6db6-4c96-98ae-56b028606ce9",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -6338,7 +6338,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "22b74801-69bd-42d1-8ed6-7c4e1ae0d8fd",
+      "GUID": "c73eb44b-1ab7-4dd5-aee0-093b85b7508c",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6353,7 +6353,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "22b74801-69bd-42d1-8ed6-7c4e1ae0d8fd",
+      "GUID": "c73eb44b-1ab7-4dd5-aee0-093b85b7508c",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6368,7 +6368,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6b032594-8516-4a06-9b1c-ccc31bb31cb2",
+      "GUID": "e5ccc46c-baff-444e-80a1-ca174123fd53",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -6383,7 +6383,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "497a9d29-dc6e-4687-936c-60c9c8974340",
+      "GUID": "63c16809-35ca-4534-9477-9df658220e30",
       "ID": "1722",
       "Facing": "Right",
       "Health": "1",
@@ -6398,7 +6398,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ca5fbe53-edcf-4792-b308-6211c151d1cd",
+      "GUID": "1e7aa6d5-e874-4ac2-ba4b-0d5b86162eee",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6413,7 +6413,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ca5fbe53-edcf-4792-b308-6211c151d1cd",
+      "GUID": "1e7aa6d5-e874-4ac2-ba4b-0d5b86162eee",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6428,7 +6428,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "25889c9f-7bf7-448a-a4f7-b596f5e3f5a4",
+      "GUID": "0c1074dd-bf06-4b9b-97ae-e71ec1ca1af0",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6443,7 +6443,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "25889c9f-7bf7-448a-a4f7-b596f5e3f5a4",
+      "GUID": "0c1074dd-bf06-4b9b-97ae-e71ec1ca1af0",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6458,7 +6458,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d44220cc-2389-4a61-b8e9-6fe0291e7653",
+      "GUID": "8f0e484a-b2b6-4d18-bbe7-347a0189a0c6",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6473,7 +6473,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d44220cc-2389-4a61-b8e9-6fe0291e7653",
+      "GUID": "8f0e484a-b2b6-4d18-bbe7-347a0189a0c6",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6488,7 +6488,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c1b546ec-dfd1-4809-9d35-eb41496b0f4b",
+      "GUID": "f4ae557d-871c-492c-b4a7-92df23de7840",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6503,7 +6503,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c1b546ec-dfd1-4809-9d35-eb41496b0f4b",
+      "GUID": "f4ae557d-871c-492c-b4a7-92df23de7840",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6518,7 +6518,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "31f0160e-ff59-4c70-856b-92f0e09d99a9",
+      "GUID": "d9f4803a-1b0a-4af3-a270-77c0277f92da",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6533,7 +6533,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "31f0160e-ff59-4c70-856b-92f0e09d99a9",
+      "GUID": "d9f4803a-1b0a-4af3-a270-77c0277f92da",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6548,7 +6548,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fd338ce1-d17d-42cc-8a02-049cfda7f5f0",
+      "GUID": "fd0c043a-eacd-4fc9-9efd-a11ed08e1541",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6563,7 +6563,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fd338ce1-d17d-42cc-8a02-049cfda7f5f0",
+      "GUID": "fd0c043a-eacd-4fc9-9efd-a11ed08e1541",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6578,7 +6578,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c65cab68-8481-4f42-856c-09bfc98e273a",
+      "GUID": "6ab0154c-ee17-45eb-a4ac-e951f48a5751",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6593,7 +6593,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c65cab68-8481-4f42-856c-09bfc98e273a",
+      "GUID": "6ab0154c-ee17-45eb-a4ac-e951f48a5751",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6608,7 +6608,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5de0fc84-c830-45aa-af52-810903b1d549",
+      "GUID": "c4d6f7b3-cfb6-4751-a72b-f937b095c1f2",
       "ID": "1911",
       "Facing": "Left",
       "Health": "2",
@@ -6623,7 +6623,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5de0fc84-c830-45aa-af52-810903b1d549",
+      "GUID": "c4d6f7b3-cfb6-4751-a72b-f937b095c1f2",
       "ID": "1911",
       "Facing": "Left",
       "Health": "1",
@@ -6638,7 +6638,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "38178abb-5284-40cc-b1ae-182052647741",
+      "GUID": "ae9097ec-b332-4160-99ee-617a7e9a09c9",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -6653,7 +6653,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b9d8422d-8b16-4bb7-94a7-4ab2c6d7dd44",
+      "GUID": "930a27b1-bebd-4978-816e-1eaf82629a21",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",
@@ -6668,7 +6668,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0f34bb4b-476d-4821-b741-9facb79d85f1",
+      "GUID": "0e509e1f-5df9-4424-84b5-1aabd729211c",
       "ID": "1722",
       "Facing": "Left",
       "Health": "1",

@@ -3,7 +3,7 @@
   "diff": 1,
   "events": [
     {
-      "GUID": "eeeba496-cfac-4f33-a999-988c2548c71f",
+      "GUID": "e6c456ea-c95f-4ccf-9f52-0baaf95263f2",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -18,7 +18,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "acd15184-6a94-4a8f-8201-8ce6973cab08",
+      "GUID": "9e2a9736-bdc9-47f7-b6c4-e38b60f4b7e2",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -33,7 +33,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7f050e17-dc07-4f20-bb99-c6f176374af3",
+      "GUID": "89554561-fcfc-4b76-88e8-707c676101b7",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -48,7 +48,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8a95c7bf-da8c-4dc2-811b-7311168bb7bf",
+      "GUID": "3fd9d47b-7229-4ae7-9a07-b486759b49af",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -63,7 +63,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "904682f1-ae83-4e94-91c5-645fec461e3a",
+      "GUID": "1baa6002-7956-4f4d-9fb3-b9ab7ca9c26e",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -78,7 +78,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1e5d1800-ec0b-4d22-bb1a-087cf40ffc5b",
+      "GUID": "60b729ce-c1a0-486b-953b-6d676653f8d1",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -93,7 +93,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7f24c689-88cf-424f-a231-ee82588817ee",
+      "GUID": "6799ef72-1175-477e-92ec-98668535e753",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -108,7 +108,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b7312d1a-10c8-4b7f-837c-8d6195987783",
+      "GUID": "fbbb7770-6f11-4da5-ab1a-fbad90ac4531",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -123,7 +123,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2f6fbd9a-ec72-460d-bba3-a20947af9731",
+      "GUID": "253d8c1e-983e-4804-8eec-d6af82ece1d3",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -138,7 +138,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fbfdf7e1-6285-41e3-a064-f4936755bfef",
+      "GUID": "23660d5b-778e-4fab-b23a-c455f1c8f01e",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -153,7 +153,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2437440c-5665-4cc0-a8e6-962cfc542f39",
+      "GUID": "3b21d0ed-15ee-4d91-947b-f5dcb9552184",
       "ID": "6803",
       "Facing": "Left",
       "Health": "2",
@@ -168,7 +168,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f2ca7f2a-0349-4e84-9639-0e0e3825d3a7",
+      "GUID": "168e43fa-eadd-47a8-b7dc-cf1840a4e2ae",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -183,7 +183,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0199005c-e210-4acc-aab5-b80d616a6370",
+      "GUID": "0534f5a8-67d1-482f-9544-783610677712",
       "ID": "6803",
       "Facing": "Left",
       "Health": "2",
@@ -198,7 +198,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2437440c-5665-4cc0-a8e6-962cfc542f39",
+      "GUID": "3b21d0ed-15ee-4d91-947b-f5dcb9552184",
       "ID": "6803",
       "Facing": "Left",
       "Health": "1",
@@ -213,7 +213,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e45de9ae-1265-41c1-ac0d-7dcb5d564d81",
+      "GUID": "f57310e3-f954-4bef-aaf1-8e89f11ce2f6",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -228,7 +228,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0199005c-e210-4acc-aab5-b80d616a6370",
+      "GUID": "0534f5a8-67d1-482f-9544-783610677712",
       "ID": "6803",
       "Facing": "Left",
       "Health": "1",
@@ -243,7 +243,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "617aab54-b3bb-4b43-845a-62277b7e6411",
+      "GUID": "b3d2eecd-5a61-4988-8028-dcede872c1dc",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -258,7 +258,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "bf5fb0be-f2f7-45df-86dd-c39b4e4ddeee",
+      "GUID": "2461498a-407c-4105-ae94-5e67e8cc966e",
       "ID": "2716",
       "Facing": "Left",
       "Health": "3",
@@ -273,7 +273,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "bf5fb0be-f2f7-45df-86dd-c39b4e4ddeee",
+      "GUID": "2461498a-407c-4105-ae94-5e67e8cc966e",
       "ID": "2716",
       "Facing": "Left",
       "Health": "2",
@@ -288,7 +288,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d98d291b-7aca-4cdc-9c91-cfce4da9cac8",
+      "GUID": "55ad90ba-8f05-47de-8521-ef1900160f32",
       "ID": "2716",
       "Facing": "Left",
       "Health": "3",
@@ -303,7 +303,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d98d291b-7aca-4cdc-9c91-cfce4da9cac8",
+      "GUID": "55ad90ba-8f05-47de-8521-ef1900160f32",
       "ID": "2716",
       "Facing": "Left",
       "Health": "2",
@@ -318,7 +318,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "04de78e7-e16a-4ff9-806e-ed135e1f3581",
+      "GUID": "70f14f4d-aa47-450e-8c38-3a1b8f6aa757",
       "ID": "6803",
       "Facing": "Left",
       "Health": "2",
@@ -333,7 +333,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "bf5fb0be-f2f7-45df-86dd-c39b4e4ddeee",
+      "GUID": "2461498a-407c-4105-ae94-5e67e8cc966e",
       "ID": "2716",
       "Facing": "Left",
       "Health": "1",
@@ -348,7 +348,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c1b76db5-e84b-4798-8efc-f8df7ae5fac7",
+      "GUID": "e86924de-2cf8-46bc-8f2c-371e380896c3",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -363,7 +363,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d98d291b-7aca-4cdc-9c91-cfce4da9cac8",
+      "GUID": "55ad90ba-8f05-47de-8521-ef1900160f32",
       "ID": "2716",
       "Facing": "Left",
       "Health": "1",
@@ -378,7 +378,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ca7bfdc7-67e0-481e-be59-6944194b6241",
+      "GUID": "85819e19-093e-44ce-a864-175af3cd6117",
       "ID": "2716",
       "Facing": "Left",
       "Health": "3",
@@ -393,7 +393,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ca7bfdc7-67e0-481e-be59-6944194b6241",
+      "GUID": "85819e19-093e-44ce-a864-175af3cd6117",
       "ID": "2716",
       "Facing": "Left",
       "Health": "2",
@@ -408,7 +408,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "04de78e7-e16a-4ff9-806e-ed135e1f3581",
+      "GUID": "70f14f4d-aa47-450e-8c38-3a1b8f6aa757",
       "ID": "6803",
       "Facing": "Left",
       "Health": "1",
@@ -423,7 +423,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d44bb241-4431-4412-a5b1-6550c939aaee",
+      "GUID": "6e930661-cc9e-4c57-af24-c256e80f7a2f",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -438,7 +438,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ca7bfdc7-67e0-481e-be59-6944194b6241",
+      "GUID": "85819e19-093e-44ce-a864-175af3cd6117",
       "ID": "2716",
       "Facing": "Left",
       "Health": "1",
@@ -453,7 +453,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "14d5b68f-ff96-4057-8d34-9940d89bb191",
+      "GUID": "569d548c-5cdc-44a7-afa8-aeee542db668",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -468,7 +468,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6d2f31e8-373c-4dce-9df0-b777a00b5239",
+      "GUID": "c3f635f4-c551-4e25-8de9-cf2e73498a2a",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -484,11 +484,11 @@
     },
     {
       "Event": "VCS",
-      "Beat": "69.04508",
-      "Time": "25.51691"
+      "Beat": "69",
+      "Time": "25.5"
     },
     {
-      "GUID": "1ce46938-acb4-4426-9af4-79f79537e564",
+      "GUID": "af60b9fa-d80e-4e5e-b983-3d3280f5ff29",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -503,7 +503,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "670a9cce-f407-4ec3-ada3-328e23fd3549",
+      "GUID": "452edaed-e6bd-43aa-a303-f20e05207312",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -518,7 +518,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3ce56ef2-7bb0-474f-9f1a-90570a46f7a2",
+      "GUID": "7d954eb8-8e39-4824-9a27-0e82e0355991",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -533,7 +533,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "04ee2e46-d638-41a2-8541-5d2db83f63f9",
+      "GUID": "e10c960a-09a9-4fa0-bf85-2a517274fcb7",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -548,7 +548,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f5ccc8c0-a4fe-47d9-ad8c-a840464a15b7",
+      "GUID": "c29df243-777c-484d-819a-da5893125a4c",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -563,7 +563,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9b2ad604-a234-4eb9-8751-0c0e19eeca50",
+      "GUID": "8d5ebc96-3eb9-43f1-a7cf-a1d94f8e1cf1",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -578,7 +578,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7855d8de-af52-475e-bb26-f16978999940",
+      "GUID": "0010fde7-7c28-4739-9e40-3f4fb14e496f",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -593,7 +593,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "86c5ba27-dc6e-4112-a34f-244da70b5eda",
+      "GUID": "a6fc77b5-0cd6-42ac-a4c4-73f202eb2522",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -608,7 +608,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b9b328f2-ae0c-4698-93c1-985dc02c1820",
+      "GUID": "49955d41-2473-430b-bc65-9a5b1ee712a1",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -623,7 +623,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "61e981af-82f9-4eed-a2ae-e44c701fc5fd",
+      "GUID": "e5aa1ef0-283d-4878-a574-0d4d62f06ba0",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -638,7 +638,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "40bff7a1-275b-44a9-94c4-cf670f9636e2",
+      "GUID": "ac472c7c-c8a2-46df-ad29-602a37b2d726",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -653,7 +653,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9231a6dd-8480-4f80-9c7c-b31562b2dfdf",
+      "GUID": "3e7b500f-2e8c-4756-aecb-cd9be361c1bd",
       "ID": "4601",
       "Facing": "Right",
       "Health": "1",
@@ -668,7 +668,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a7fcd1b8-0ad7-43c3-9cb8-ce3b1d39d63d",
+      "GUID": "9e9507e1-dec2-4e47-9a19-1198ad5cf765",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -683,7 +683,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3e60b99c-1b82-4e00-9324-468ba7ac3d76",
+      "GUID": "3117dc86-36df-4840-8da9-ebe7f89bdb7b",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -698,7 +698,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "61f22301-9139-4adf-ab19-da05533f9933",
+      "GUID": "8f0eda86-d9ad-41ca-b056-fbfac3250ec0",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -713,7 +713,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "aa04a599-1566-4f77-91d8-b1cece080e9c",
+      "GUID": "1a8240df-e14b-4b57-a1d4-5119802ab88f",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -728,7 +728,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "33d39220-f687-495c-b67e-e65efd413861",
+      "GUID": "477d73c2-9730-4db8-a1ca-fb70763e5c6b",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -743,7 +743,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1556c0d9-520a-4feb-b4b1-66e7bdcae469",
+      "GUID": "bf628fc5-7f6d-48ad-baa8-006821117877",
       "ID": "4601",
       "Facing": "Left",
       "Health": "1",
@@ -758,7 +758,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2d93a970-528f-4813-865d-7ba78b5c5a4e",
+      "GUID": "eb4bda26-f807-45bd-9bc1-193235bd1181",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -773,7 +773,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b06e7cb6-dda2-4460-87b9-53bf772f0e88",
+      "GUID": "13c2c674-01ca-4e02-b0e9-4c8507391f1d",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -788,7 +788,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c0d759cb-9634-4118-ac69-1a02bde33efe",
+      "GUID": "659e2c83-a4e5-4843-a998-0c85f32419c4",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -803,7 +803,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d9c1bcbc-82bb-411c-90eb-25114ac1bf91",
+      "GUID": "ede8d547-30f5-46b5-820f-0cdea9e597db",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -818,7 +818,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9ba7c943-12b4-40cf-8f34-efab3bbfc4e2",
+      "GUID": "f98636d5-ec1e-4f6d-b2fd-0ee3278ea506",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -833,7 +833,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ff8a6cf0-2cd7-4c72-9989-cce253d15aa2",
+      "GUID": "68379d84-6266-43fa-9893-a5eac6891d90",
       "ID": "4601",
       "Facing": "Right",
       "Health": "1",
@@ -848,7 +848,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "701e22e0-ac4d-44a9-8bce-cf1f5a68f657",
+      "GUID": "526efc7d-fd86-47f7-a392-263864b10436",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -863,7 +863,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "efc50496-2cf5-4e46-a986-e46b6d9b0681",
+      "GUID": "f957bd38-f7e8-4240-9bc7-12f6f254e3e6",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -878,7 +878,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "7d75499b-7289-42eb-89ec-cd7b905a14fd",
+      "GUID": "ea2a9e13-5151-43d7-a15a-8ffbec34da40",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -893,7 +893,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f984fd5c-34ff-488c-be9e-79c99735b143",
+      "GUID": "ad425e9b-3fcf-48a4-b1c8-b4b06f4978c6",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -908,7 +908,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0e276e88-083e-4989-aadb-83362f322661",
+      "GUID": "2c6793dd-9a7b-443f-aa1a-64c3f0b9702e",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -923,7 +923,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fa3342f2-51e8-47c4-9789-c43159ccb231",
+      "GUID": "2c640cac-1d8c-4e8d-a365-0c37e155f3cf",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -938,7 +938,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ad145ff8-1747-42bc-8234-072e341fc68d",
+      "GUID": "105b6aeb-5fa5-4264-a22f-d70090b64d67",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -954,11 +954,11 @@
     },
     {
       "Event": "VCS",
-      "Beat": "116.0238",
-      "Time": "43.13391"
+      "Beat": "116.026",
+      "Time": "43.13477"
     },
     {
-      "GUID": "84c4c218-ead9-4cbe-be7a-872062a07221",
+      "GUID": "96c7c7be-3b6b-4374-9a99-28e8e702bb2e",
       "ID": "7794",
       "Facing": "Right",
       "Health": "2",
@@ -974,14 +974,14 @@
       "Length": "4"
     },
     {
-      "GUID": "84c4c218-ead9-4cbe-be7a-872062a07221",
+      "GUID": "96c7c7be-3b6b-4374-9a99-28e8e702bb2e",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "117.9792",
-      "Time": "43.86719",
+      "Beat": "117.9844",
+      "Time": "43.86914",
       "Spawn": "108",
       "Vibe": "False",
       "Burning": "False",
@@ -989,14 +989,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "84c4c218-ead9-4cbe-be7a-872062a07221",
+      "GUID": "96c7c7be-3b6b-4374-9a99-28e8e702bb2e",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "118.9565",
-      "Time": "44.2337",
+      "Beat": "118.9635",
+      "Time": "44.23633",
       "Spawn": "108",
       "Vibe": "False",
       "Burning": "False",
@@ -1004,14 +1004,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "84c4c218-ead9-4cbe-be7a-872062a07221",
+      "GUID": "96c7c7be-3b6b-4374-9a99-28e8e702bb2e",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "119.9798",
-      "Time": "44.61743",
+      "Beat": "119.9792",
+      "Time": "44.61719",
       "Spawn": "108",
       "Vibe": "False",
       "Burning": "False",
@@ -1019,14 +1019,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "84c4c218-ead9-4cbe-be7a-872062a07221",
+      "GUID": "96c7c7be-3b6b-4374-9a99-28e8e702bb2e",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "119.9798",
-      "Time": "44.61743",
+      "Beat": "119.9792",
+      "Time": "44.61719",
       "Spawn": "108",
       "Vibe": "False",
       "Burning": "False",
@@ -1034,14 +1034,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "84c4c218-ead9-4cbe-be7a-872062a07221",
+      "GUID": "96c7c7be-3b6b-4374-9a99-28e8e702bb2e",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "119.9798",
-      "Time": "44.61743",
+      "Beat": "119.9792",
+      "Time": "44.61719",
       "Spawn": "108",
       "Vibe": "False",
       "Burning": "False",
@@ -1049,7 +1049,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e8a3e03b-b638-46bf-806e-32a753c50d0d",
+      "GUID": "c11ed6d9-1d49-4c6d-b368-2f41c07144a0",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -1065,14 +1065,14 @@
       "Length": "4"
     },
     {
-      "GUID": "e8a3e03b-b638-46bf-806e-32a753c50d0d",
+      "GUID": "c11ed6d9-1d49-4c6d-b368-2f41c07144a0",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "121.9738",
-      "Time": "45.36517",
+      "Beat": "121.9844",
+      "Time": "45.36914",
       "Spawn": "112",
       "Vibe": "False",
       "Burning": "False",
@@ -1080,14 +1080,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e8a3e03b-b638-46bf-806e-32a753c50d0d",
+      "GUID": "c11ed6d9-1d49-4c6d-b368-2f41c07144a0",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "122.9622",
-      "Time": "45.73584",
+      "Beat": "122.9688",
+      "Time": "45.73828",
       "Spawn": "112",
       "Vibe": "False",
       "Burning": "False",
@@ -1095,14 +1095,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e8a3e03b-b638-46bf-806e-32a753c50d0d",
+      "GUID": "c11ed6d9-1d49-4c6d-b368-2f41c07144a0",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "123.98",
-      "Time": "46.11749",
+      "Beat": "123.9844",
+      "Time": "46.11914",
       "Spawn": "112",
       "Vibe": "False",
       "Burning": "False",
@@ -1110,14 +1110,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e8a3e03b-b638-46bf-806e-32a753c50d0d",
+      "GUID": "c11ed6d9-1d49-4c6d-b368-2f41c07144a0",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "123.98",
-      "Time": "46.11749",
+      "Beat": "123.9844",
+      "Time": "46.11914",
       "Spawn": "112",
       "Vibe": "False",
       "Burning": "False",
@@ -1125,14 +1125,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "e8a3e03b-b638-46bf-806e-32a753c50d0d",
+      "GUID": "c11ed6d9-1d49-4c6d-b368-2f41c07144a0",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "123.98",
-      "Time": "46.11749",
+      "Beat": "123.9844",
+      "Time": "46.11914",
       "Spawn": "112",
       "Vibe": "False",
       "Burning": "False",
@@ -1140,7 +1140,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "d5e7055b-90e8-41c0-b0a3-6793b178b439",
+      "GUID": "90b3e148-7681-448a-a460-b12d09568b4e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -1156,14 +1156,14 @@
       "Length": "4"
     },
     {
-      "GUID": "d5e7055b-90e8-41c0-b0a3-6793b178b439",
+      "GUID": "90b3e148-7681-448a-a460-b12d09568b4e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "125.9764",
-      "Time": "46.86615",
+      "Beat": "125.9844",
+      "Time": "46.86914",
       "Spawn": "116",
       "Vibe": "False",
       "Burning": "False",
@@ -1171,14 +1171,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "d5e7055b-90e8-41c0-b0a3-6793b178b439",
+      "GUID": "90b3e148-7681-448a-a460-b12d09568b4e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "126.9587",
-      "Time": "47.2345",
+      "Beat": "126.9688",
+      "Time": "47.23828",
       "Spawn": "116",
       "Vibe": "False",
       "Burning": "False",
@@ -1186,14 +1186,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "d5e7055b-90e8-41c0-b0a3-6793b178b439",
+      "GUID": "90b3e148-7681-448a-a460-b12d09568b4e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "127.9826",
-      "Time": "47.61847",
+      "Beat": "127.9844",
+      "Time": "47.61914",
       "Spawn": "116",
       "Vibe": "False",
       "Burning": "False",
@@ -1201,14 +1201,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "d5e7055b-90e8-41c0-b0a3-6793b178b439",
+      "GUID": "90b3e148-7681-448a-a460-b12d09568b4e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "127.9826",
-      "Time": "47.61847",
+      "Beat": "127.9844",
+      "Time": "47.61914",
       "Spawn": "116",
       "Vibe": "False",
       "Burning": "False",
@@ -1216,14 +1216,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "d5e7055b-90e8-41c0-b0a3-6793b178b439",
+      "GUID": "90b3e148-7681-448a-a460-b12d09568b4e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "127.9826",
-      "Time": "47.61847",
+      "Beat": "127.9844",
+      "Time": "47.61914",
       "Spawn": "116",
       "Vibe": "False",
       "Burning": "False",
@@ -1231,7 +1231,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "abad3325-2357-4969-81ce-fd0f160fd4d4",
+      "GUID": "6589c65a-cf13-443a-9f89-632ad34e1d71",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -1247,14 +1247,14 @@
       "Length": "4"
     },
     {
-      "GUID": "abad3325-2357-4969-81ce-fd0f160fd4d4",
+      "GUID": "6589c65a-cf13-443a-9f89-632ad34e1d71",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "129.9748",
-      "Time": "48.36554",
+      "Beat": "129.9792",
+      "Time": "48.36719",
       "Spawn": "120",
       "Vibe": "False",
       "Burning": "False",
@@ -1262,14 +1262,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "abad3325-2357-4969-81ce-fd0f160fd4d4",
+      "GUID": "6589c65a-cf13-443a-9f89-632ad34e1d71",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "130.9546",
-      "Time": "48.73297",
+      "Beat": "130.9583",
+      "Time": "48.73438",
       "Spawn": "120",
       "Vibe": "False",
       "Burning": "False",
@@ -1277,14 +1277,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "abad3325-2357-4969-81ce-fd0f160fd4d4",
+      "GUID": "6589c65a-cf13-443a-9f89-632ad34e1d71",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "131.9831",
-      "Time": "49.11865",
+      "Beat": "131.9896",
+      "Time": "49.12109",
       "Spawn": "120",
       "Vibe": "False",
       "Burning": "False",
@@ -1292,14 +1292,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "abad3325-2357-4969-81ce-fd0f160fd4d4",
+      "GUID": "6589c65a-cf13-443a-9f89-632ad34e1d71",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "131.9831",
-      "Time": "49.11865",
+      "Beat": "131.9896",
+      "Time": "49.12109",
       "Spawn": "120",
       "Vibe": "False",
       "Burning": "False",
@@ -1307,14 +1307,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "abad3325-2357-4969-81ce-fd0f160fd4d4",
+      "GUID": "6589c65a-cf13-443a-9f89-632ad34e1d71",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "131.9831",
-      "Time": "49.11865",
+      "Beat": "131.9896",
+      "Time": "49.12109",
       "Spawn": "120",
       "Vibe": "False",
       "Burning": "False",
@@ -1322,7 +1322,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "2c5fb5f5-5cc3-4602-8f82-067481df8753",
+      "GUID": "59aa39e3-b3ee-4cda-aefc-0c9117bb3b2c",
       "ID": "7794",
       "Facing": "Right",
       "Health": "2",
@@ -1338,14 +1338,14 @@
       "Length": "4"
     },
     {
-      "GUID": "2c5fb5f5-5cc3-4602-8f82-067481df8753",
+      "GUID": "59aa39e3-b3ee-4cda-aefc-0c9117bb3b2c",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "133.9722",
-      "Time": "49.86456",
+      "Beat": "133.9792",
+      "Time": "49.86719",
       "Spawn": "124",
       "Vibe": "False",
       "Burning": "False",
@@ -1353,14 +1353,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "2c5fb5f5-5cc3-4602-8f82-067481df8753",
+      "GUID": "59aa39e3-b3ee-4cda-aefc-0c9117bb3b2c",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "134.9588",
-      "Time": "50.23456",
+      "Beat": "134.9635",
+      "Time": "50.23633",
       "Spawn": "124",
       "Vibe": "False",
       "Burning": "False",
@@ -1368,14 +1368,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "2c5fb5f5-5cc3-4602-8f82-067481df8753",
+      "GUID": "59aa39e3-b3ee-4cda-aefc-0c9117bb3b2c",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "135.9811",
-      "Time": "50.61792",
+      "Beat": "135.9896",
+      "Time": "50.62109",
       "Spawn": "124",
       "Vibe": "False",
       "Burning": "False",
@@ -1383,14 +1383,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "2c5fb5f5-5cc3-4602-8f82-067481df8753",
+      "GUID": "59aa39e3-b3ee-4cda-aefc-0c9117bb3b2c",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "135.9811",
-      "Time": "50.61792",
+      "Beat": "135.9896",
+      "Time": "50.62109",
       "Spawn": "124",
       "Vibe": "False",
       "Burning": "False",
@@ -1398,14 +1398,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "2c5fb5f5-5cc3-4602-8f82-067481df8753",
+      "GUID": "59aa39e3-b3ee-4cda-aefc-0c9117bb3b2c",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "135.9811",
-      "Time": "50.61792",
+      "Beat": "135.9896",
+      "Time": "50.62109",
       "Spawn": "124",
       "Vibe": "False",
       "Burning": "False",
@@ -1413,7 +1413,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "3adcad38-d716-42c0-9053-128ab389b588",
+      "GUID": "2a4b8068-a868-42c1-bdea-2bf17750fa5e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -1429,14 +1429,14 @@
       "Length": "4"
     },
     {
-      "GUID": "3adcad38-d716-42c0-9053-128ab389b588",
+      "GUID": "2a4b8068-a868-42c1-bdea-2bf17750fa5e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "137.9718",
-      "Time": "51.36444",
+      "Beat": "137.9792",
+      "Time": "51.36719",
       "Spawn": "128",
       "Vibe": "False",
       "Burning": "False",
@@ -1444,14 +1444,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "3adcad38-d716-42c0-9053-128ab389b588",
+      "GUID": "2a4b8068-a868-42c1-bdea-2bf17750fa5e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "138.9992",
-      "Time": "51.74969",
+      "Beat": "138.9635",
+      "Time": "51.73633",
       "Spawn": "128",
       "Vibe": "False",
       "Burning": "False",
@@ -1459,14 +1459,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "3adcad38-d716-42c0-9053-128ab389b588",
+      "GUID": "2a4b8068-a868-42c1-bdea-2bf17750fa5e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "139.9821",
-      "Time": "52.11829",
+      "Beat": "139.9896",
+      "Time": "52.12109",
       "Spawn": "128",
       "Vibe": "False",
       "Burning": "False",
@@ -1474,14 +1474,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "3adcad38-d716-42c0-9053-128ab389b588",
+      "GUID": "2a4b8068-a868-42c1-bdea-2bf17750fa5e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "139.9821",
-      "Time": "52.11829",
+      "Beat": "139.9896",
+      "Time": "52.12109",
       "Spawn": "128",
       "Vibe": "False",
       "Burning": "False",
@@ -1489,14 +1489,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "3adcad38-d716-42c0-9053-128ab389b588",
+      "GUID": "2a4b8068-a868-42c1-bdea-2bf17750fa5e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "139.9821",
-      "Time": "52.11829",
+      "Beat": "139.9896",
+      "Time": "52.12109",
       "Spawn": "128",
       "Vibe": "False",
       "Burning": "False",
@@ -1504,7 +1504,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "a3fddac8-ca9d-4925-8d1c-c66603c88d9d",
+      "GUID": "b16c2ca5-3923-4787-81b8-984fd2391a33",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -1519,7 +1519,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c60dd7ab-1049-4c19-88c8-c9e1e30637d8",
+      "GUID": "490ed7a8-3d9d-4af1-a085-29965488faff",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -1534,7 +1534,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "90e03731-89ff-44ce-aefd-4c3ca9f606f4",
+      "GUID": "160d0bde-cb48-4c58-bc48-d7ae69f62ba9",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -1549,7 +1549,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d74e7542-58c7-4c84-804c-9042ded4f7ff",
+      "GUID": "20366568-7fc4-4d0f-af7f-9e8d9345a4cf",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -1564,7 +1564,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5a0ccc53-5f11-466a-ab48-4b63ad8548b2",
+      "GUID": "f40596a6-67fb-49bf-ab07-fbcb235b44d0",
       "ID": "7794",
       "Facing": "Right",
       "Health": "2",
@@ -1580,14 +1580,14 @@
       "Length": "4"
     },
     {
-      "GUID": "5a0ccc53-5f11-466a-ab48-4b63ad8548b2",
+      "GUID": "f40596a6-67fb-49bf-ab07-fbcb235b44d0",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "149.979",
-      "Time": "55.86713",
+      "Beat": "149.9792",
+      "Time": "55.86719",
       "Spawn": "140",
       "Vibe": "False",
       "Burning": "False",
@@ -1595,14 +1595,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "5a0ccc53-5f11-466a-ab48-4b63ad8548b2",
+      "GUID": "f40596a6-67fb-49bf-ab07-fbcb235b44d0",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "150.9959",
-      "Time": "56.24847",
+      "Beat": "150.9583",
+      "Time": "56.23438",
       "Spawn": "140",
       "Vibe": "False",
       "Burning": "False",
@@ -1610,14 +1610,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "5a0ccc53-5f11-466a-ab48-4b63ad8548b2",
+      "GUID": "f40596a6-67fb-49bf-ab07-fbcb235b44d0",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "151.98",
-      "Time": "56.61749",
+      "Beat": "151.9896",
+      "Time": "56.62109",
       "Spawn": "140",
       "Vibe": "False",
       "Burning": "False",
@@ -1625,14 +1625,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "5a0ccc53-5f11-466a-ab48-4b63ad8548b2",
+      "GUID": "f40596a6-67fb-49bf-ab07-fbcb235b44d0",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "151.98",
-      "Time": "56.61749",
+      "Beat": "151.9896",
+      "Time": "56.62109",
       "Spawn": "140",
       "Vibe": "False",
       "Burning": "False",
@@ -1640,14 +1640,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "5a0ccc53-5f11-466a-ab48-4b63ad8548b2",
+      "GUID": "f40596a6-67fb-49bf-ab07-fbcb235b44d0",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "151.98",
-      "Time": "56.61749",
+      "Beat": "151.9896",
+      "Time": "56.62109",
       "Spawn": "140",
       "Vibe": "False",
       "Burning": "False",
@@ -1655,7 +1655,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "7e47dd5d-0ba4-4159-b644-6e27e5eca882",
+      "GUID": "0716d7b3-ec2b-4413-add9-312aaafe6b7e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -1671,14 +1671,14 @@
       "Length": "4"
     },
     {
-      "GUID": "7e47dd5d-0ba4-4159-b644-6e27e5eca882",
+      "GUID": "0716d7b3-ec2b-4413-add9-312aaafe6b7e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "153.9798",
-      "Time": "57.36743",
+      "Beat": "153.9844",
+      "Time": "57.36914",
       "Spawn": "144",
       "Vibe": "False",
       "Burning": "False",
@@ -1686,14 +1686,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "7e47dd5d-0ba4-4159-b644-6e27e5eca882",
+      "GUID": "0716d7b3-ec2b-4413-add9-312aaafe6b7e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "154.9959",
-      "Time": "57.74847",
+      "Beat": "154.9531",
+      "Time": "57.73242",
       "Spawn": "144",
       "Vibe": "False",
       "Burning": "False",
@@ -1701,14 +1701,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "7e47dd5d-0ba4-4159-b644-6e27e5eca882",
+      "GUID": "0716d7b3-ec2b-4413-add9-312aaafe6b7e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "155.9766",
-      "Time": "58.11621",
+      "Beat": "155.9844",
+      "Time": "58.11914",
       "Spawn": "144",
       "Vibe": "False",
       "Burning": "False",
@@ -1716,14 +1716,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "7e47dd5d-0ba4-4159-b644-6e27e5eca882",
+      "GUID": "0716d7b3-ec2b-4413-add9-312aaafe6b7e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "155.9766",
-      "Time": "58.11621",
+      "Beat": "155.9844",
+      "Time": "58.11914",
       "Spawn": "144",
       "Vibe": "False",
       "Burning": "False",
@@ -1731,14 +1731,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "7e47dd5d-0ba4-4159-b644-6e27e5eca882",
+      "GUID": "0716d7b3-ec2b-4413-add9-312aaafe6b7e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "155.9766",
-      "Time": "58.11621",
+      "Beat": "155.9844",
+      "Time": "58.11914",
       "Spawn": "144",
       "Vibe": "False",
       "Burning": "False",
@@ -1746,7 +1746,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9059f428-d27a-4336-81c5-a8898fd0d5e5",
+      "GUID": "cb7787ce-5ca4-402a-b780-003c3b5467b3",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -1762,14 +1762,14 @@
       "Length": "4"
     },
     {
-      "GUID": "9059f428-d27a-4336-81c5-a8898fd0d5e5",
+      "GUID": "cb7787ce-5ca4-402a-b780-003c3b5467b3",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "157.9826",
-      "Time": "58.86847",
+      "Beat": "157.9844",
+      "Time": "58.86914",
       "Spawn": "148",
       "Vibe": "False",
       "Burning": "False",
@@ -1777,14 +1777,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9059f428-d27a-4336-81c5-a8898fd0d5e5",
+      "GUID": "cb7787ce-5ca4-402a-b780-003c3b5467b3",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "158.9949",
-      "Time": "59.24811",
+      "Beat": "158.9531",
+      "Time": "59.23242",
       "Spawn": "148",
       "Vibe": "False",
       "Burning": "False",
@@ -1792,14 +1792,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9059f428-d27a-4336-81c5-a8898fd0d5e5",
+      "GUID": "cb7787ce-5ca4-402a-b780-003c3b5467b3",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "159.9735",
-      "Time": "59.61505",
+      "Beat": "159.9792",
+      "Time": "59.61719",
       "Spawn": "148",
       "Vibe": "False",
       "Burning": "False",
@@ -1807,14 +1807,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9059f428-d27a-4336-81c5-a8898fd0d5e5",
+      "GUID": "cb7787ce-5ca4-402a-b780-003c3b5467b3",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "159.9735",
-      "Time": "59.61505",
+      "Beat": "159.9792",
+      "Time": "59.61719",
       "Spawn": "148",
       "Vibe": "False",
       "Burning": "False",
@@ -1822,14 +1822,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "9059f428-d27a-4336-81c5-a8898fd0d5e5",
+      "GUID": "cb7787ce-5ca4-402a-b780-003c3b5467b3",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "159.9735",
-      "Time": "59.61505",
+      "Beat": "159.9792",
+      "Time": "59.61719",
       "Spawn": "148",
       "Vibe": "False",
       "Burning": "False",
@@ -1837,7 +1837,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9853350d-e1ce-41c0-b751-7738e2224fd6",
+      "GUID": "8af17770-7d19-4929-b01f-7ef5d5872941",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -1853,14 +1853,14 @@
       "Length": "4"
     },
     {
-      "GUID": "9853350d-e1ce-41c0-b751-7738e2224fd6",
+      "GUID": "8af17770-7d19-4929-b01f-7ef5d5872941",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "161.9814",
-      "Time": "60.36804",
+      "Beat": "161.9844",
+      "Time": "60.36914",
       "Spawn": "152",
       "Vibe": "False",
       "Burning": "False",
@@ -1868,14 +1868,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9853350d-e1ce-41c0-b751-7738e2224fd6",
+      "GUID": "8af17770-7d19-4929-b01f-7ef5d5872941",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "162.9569",
-      "Time": "60.73383",
+      "Beat": "162.9583",
+      "Time": "60.73438",
       "Spawn": "152",
       "Vibe": "False",
       "Burning": "False",
@@ -1883,14 +1883,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9853350d-e1ce-41c0-b751-7738e2224fd6",
+      "GUID": "8af17770-7d19-4929-b01f-7ef5d5872941",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "163.9741",
-      "Time": "61.1153",
+      "Beat": "163.9792",
+      "Time": "61.11719",
       "Spawn": "152",
       "Vibe": "False",
       "Burning": "False",
@@ -1898,14 +1898,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9853350d-e1ce-41c0-b751-7738e2224fd6",
+      "GUID": "8af17770-7d19-4929-b01f-7ef5d5872941",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "163.9741",
-      "Time": "61.1153",
+      "Beat": "163.9792",
+      "Time": "61.11719",
       "Spawn": "152",
       "Vibe": "False",
       "Burning": "False",
@@ -1913,14 +1913,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "9853350d-e1ce-41c0-b751-7738e2224fd6",
+      "GUID": "8af17770-7d19-4929-b01f-7ef5d5872941",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "163.9741",
-      "Time": "61.1153",
+      "Beat": "163.9792",
+      "Time": "61.11719",
       "Spawn": "152",
       "Vibe": "False",
       "Burning": "False",
@@ -1928,7 +1928,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "1af67a9e-3085-4452-b273-77f2f543dfaa",
+      "GUID": "ce763603-6062-4e5f-842f-4d0057e55211",
       "ID": "7794",
       "Facing": "Right",
       "Health": "2",
@@ -1944,14 +1944,14 @@
       "Length": "4"
     },
     {
-      "GUID": "1af67a9e-3085-4452-b273-77f2f543dfaa",
+      "GUID": "ce763603-6062-4e5f-842f-4d0057e55211",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "165.9823",
-      "Time": "61.86835",
+      "Beat": "165.9896",
+      "Time": "61.87109",
       "Spawn": "156",
       "Vibe": "False",
       "Burning": "False",
@@ -1959,14 +1959,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "1af67a9e-3085-4452-b273-77f2f543dfaa",
+      "GUID": "ce763603-6062-4e5f-842f-4d0057e55211",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "166.958",
-      "Time": "62.23425",
+      "Beat": "166.9583",
+      "Time": "62.23438",
       "Spawn": "156",
       "Vibe": "False",
       "Burning": "False",
@@ -1974,14 +1974,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "1af67a9e-3085-4452-b273-77f2f543dfaa",
+      "GUID": "ce763603-6062-4e5f-842f-4d0057e55211",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "167.9725",
-      "Time": "62.61469",
+      "Beat": "167.9792",
+      "Time": "62.61719",
       "Spawn": "156",
       "Vibe": "False",
       "Burning": "False",
@@ -1989,14 +1989,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "1af67a9e-3085-4452-b273-77f2f543dfaa",
+      "GUID": "ce763603-6062-4e5f-842f-4d0057e55211",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "167.9725",
-      "Time": "62.61469",
+      "Beat": "167.9792",
+      "Time": "62.61719",
       "Spawn": "156",
       "Vibe": "False",
       "Burning": "False",
@@ -2004,14 +2004,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "1af67a9e-3085-4452-b273-77f2f543dfaa",
+      "GUID": "ce763603-6062-4e5f-842f-4d0057e55211",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "167.9725",
-      "Time": "62.61469",
+      "Beat": "167.9792",
+      "Time": "62.61719",
       "Spawn": "156",
       "Vibe": "False",
       "Burning": "False",
@@ -2019,7 +2019,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "c30630bf-880a-4370-a837-3cca697b0c2e",
+      "GUID": "f44df87b-5a3a-47c0-abb3-9b633bc1e3d4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -2035,14 +2035,14 @@
       "Length": "4"
     },
     {
-      "GUID": "c30630bf-880a-4370-a837-3cca697b0c2e",
+      "GUID": "f44df87b-5a3a-47c0-abb3-9b633bc1e3d4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "169.9839",
-      "Time": "63.36896",
+      "Beat": "169.9896",
+      "Time": "63.37109",
       "Spawn": "160",
       "Vibe": "False",
       "Burning": "False",
@@ -2050,14 +2050,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "c30630bf-880a-4370-a837-3cca697b0c2e",
+      "GUID": "f44df87b-5a3a-47c0-abb3-9b633bc1e3d4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "170.9554",
-      "Time": "63.73328",
+      "Beat": "170.9583",
+      "Time": "63.73438",
       "Spawn": "160",
       "Vibe": "False",
       "Burning": "False",
@@ -2065,14 +2065,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "c30630bf-880a-4370-a837-3cca697b0c2e",
+      "GUID": "f44df87b-5a3a-47c0-abb3-9b633bc1e3d4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "171.9733",
-      "Time": "64.11499",
+      "Beat": "171.9792",
+      "Time": "64.11719",
       "Spawn": "160",
       "Vibe": "False",
       "Burning": "False",
@@ -2080,14 +2080,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "c30630bf-880a-4370-a837-3cca697b0c2e",
+      "GUID": "f44df87b-5a3a-47c0-abb3-9b633bc1e3d4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "171.9733",
-      "Time": "64.11499",
+      "Beat": "171.9792",
+      "Time": "64.11719",
       "Spawn": "160",
       "Vibe": "False",
       "Burning": "False",
@@ -2095,14 +2095,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "c30630bf-880a-4370-a837-3cca697b0c2e",
+      "GUID": "f44df87b-5a3a-47c0-abb3-9b633bc1e3d4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "171.9733",
-      "Time": "64.11499",
+      "Beat": "171.9792",
+      "Time": "64.11719",
       "Spawn": "160",
       "Vibe": "False",
       "Burning": "False",
@@ -2110,7 +2110,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "a265cc15-6775-4719-95b4-53b660067837",
+      "GUID": "184ad41f-bbcb-48a4-ac4a-830c539ec554",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -2125,7 +2125,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b76699e8-6b5b-4978-9a57-c6d8ece4d81f",
+      "GUID": "f2c5a37a-7998-4804-8fa8-eb481e1e5ba7",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -2140,7 +2140,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3d68c572-2bc1-4c09-bbbb-32c1cba40929",
+      "GUID": "e08a743d-46b6-4ad0-ad78-2d1eb547dbb7",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -2155,7 +2155,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "070e3e94-880b-49ae-80f4-abf2f0413afa",
+      "GUID": "06b55ef1-138c-4230-985f-ca060d7f25e5",
       "ID": "2054",
       "Facing": "Left",
       "Health": "2",
@@ -2170,7 +2170,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "070e3e94-880b-49ae-80f4-abf2f0413afa",
+      "GUID": "06b55ef1-138c-4230-985f-ca060d7f25e5",
       "ID": "2054",
       "Facing": "Left",
       "Health": "1",
@@ -2186,11 +2186,11 @@
     },
     {
       "Event": "VCS",
-      "Beat": "179.0073",
-      "Time": "66.75275"
+      "Beat": "179.0104",
+      "Time": "66.75391"
     },
     {
-      "GUID": "ba609d0b-31a9-40a3-b28e-f6d9d7aa08c0",
+      "GUID": "beed603b-fd79-4c8a-b823-88ee21ddd127",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -2205,7 +2205,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "893c2cf8-13c9-4985-95bd-4db7f7b18742",
+      "GUID": "4f28ca0e-f72d-47ed-8c78-a4366b742915",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -2220,7 +2220,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "43bf2243-53ef-4538-92c7-e910921acbce",
+      "GUID": "3df4d990-318e-4118-83fe-673b5939a3c2",
       "ID": "1234",
       "Facing": "Right",
       "Health": "1",
@@ -2235,7 +2235,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "1e58d457-056a-47da-91a7-7f4930594ed9",
+      "GUID": "54159751-93eb-4374-8f3c-e73325399b73",
       "ID": "1234",
       "Facing": "Right",
       "Health": "1",
@@ -2250,7 +2250,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0c634e72-a39d-4c0b-87da-8d9943a11f04",
+      "GUID": "03298e85-76cb-488d-a9b4-880c10ebd298",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -2265,7 +2265,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "79ca2e42-aa96-4dad-aada-0495f4c1ca7b",
+      "GUID": "d5d2f4a5-9fdc-4ef8-a805-e22794247927",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -2280,7 +2280,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c7825731-28d2-475a-a9e7-4d3f5d16b237",
+      "GUID": "6afb1972-c6d0-4899-bf29-62d4d07fddd8",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -2295,7 +2295,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b0bc5bed-5e2a-4c63-bc43-81e45be4416c",
+      "GUID": "63cdc28a-ced4-4fdc-8e47-cde486b6c358",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -2310,7 +2310,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2485a285-db7a-4d84-b186-207dabdc1b48",
+      "GUID": "5b72f92d-e306-43e2-b226-4f22406f9349",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -2325,7 +2325,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f82e2861-2b4c-465b-a1b7-ac06a4917086",
+      "GUID": "c1c899e3-7d68-44e3-a381-450c37fe6907",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -2340,7 +2340,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "33d59a0e-4ee2-44d9-b483-f924c0d75348",
+      "GUID": "fc73a988-8582-41ef-9d8a-aa8091135d45",
       "ID": "1236",
       "Facing": "Left",
       "Health": "1",
@@ -2355,7 +2355,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b550bd2b-8444-4e76-8623-a1347baef90d",
+      "GUID": "fda8c52d-585c-4de5-bb02-db4b70a27708",
       "ID": "1236",
       "Facing": "Left",
       "Health": "1",
@@ -2370,7 +2370,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d8ab6849-71dc-4078-9aa7-98c6cebfa4d5",
+      "GUID": "e2a67e6a-54b0-4248-9de8-c21948657337",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -2385,7 +2385,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c96f0a80-fb8a-48f1-88c6-226c500e4f82",
+      "GUID": "83cd69a2-0676-4051-a2a1-2394b2af663b",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -2400,7 +2400,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "160a62e2-19ef-47b9-9623-9444a64a6857",
+      "GUID": "c3de0bc9-80c0-4f6a-a039-e9adc5db0a79",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -2415,7 +2415,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0f15bd48-c675-460c-b8e2-16ac096694db",
+      "GUID": "16fbbe1c-f59a-41a3-a58e-373e1c97a8ca",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -2430,7 +2430,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0d752565-b995-4993-97e2-599738247c87",
+      "GUID": "d9352711-a0fb-4f6e-b6fd-cb05d98daefb",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -2446,14 +2446,14 @@
       "Length": "3"
     },
     {
-      "GUID": "0d752565-b995-4993-97e2-599738247c87",
+      "GUID": "d9352711-a0fb-4f6e-b6fd-cb05d98daefb",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "213.9783",
-      "Time": "79.86688",
+      "Beat": "213.9792",
+      "Time": "79.86719",
       "Spawn": "204",
       "Vibe": "False",
       "Burning": "False",
@@ -2461,14 +2461,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "0d752565-b995-4993-97e2-599738247c87",
+      "GUID": "d9352711-a0fb-4f6e-b6fd-cb05d98daefb",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "214.9961",
-      "Time": "80.24854",
+      "Beat": "214.9583",
+      "Time": "80.23438",
       "Spawn": "204",
       "Vibe": "False",
       "Burning": "False",
@@ -2476,14 +2476,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "0d752565-b995-4993-97e2-599738247c87",
+      "GUID": "d9352711-a0fb-4f6e-b6fd-cb05d98daefb",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "214.9961",
-      "Time": "80.24854",
+      "Beat": "214.9583",
+      "Time": "80.23438",
       "Spawn": "204",
       "Vibe": "False",
       "Burning": "False",
@@ -2491,14 +2491,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "0d752565-b995-4993-97e2-599738247c87",
+      "GUID": "d9352711-a0fb-4f6e-b6fd-cb05d98daefb",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "214.9961",
-      "Time": "80.24854",
+      "Beat": "214.9583",
+      "Time": "80.23438",
       "Spawn": "204",
       "Vibe": "False",
       "Burning": "False",
@@ -2506,7 +2506,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e4d492cd-d76c-4e11-8ed0-bb2ed5cec190",
+      "GUID": "bb4bce7c-f0cb-4511-b2e8-bf5cb36e1b5f",
       "ID": "1234",
       "Facing": "Right",
       "Health": "1",
@@ -2521,7 +2521,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "93b3832f-43a5-4856-b682-df9241cf235e",
+      "GUID": "577f961d-9400-40ff-914c-2d303c336ad7",
       "ID": "1234",
       "Facing": "Right",
       "Health": "1",
@@ -2536,7 +2536,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9112289b-4640-4ef9-b5ea-c9adedbf138a",
+      "GUID": "9454a2bc-1430-4122-9c74-633a3644872d",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -2552,14 +2552,14 @@
       "Length": "3"
     },
     {
-      "GUID": "9112289b-4640-4ef9-b5ea-c9adedbf138a",
+      "GUID": "9454a2bc-1430-4122-9c74-633a3644872d",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "221.9816",
-      "Time": "82.8681",
+      "Beat": "221.9844",
+      "Time": "82.86914",
       "Spawn": "212",
       "Vibe": "False",
       "Burning": "False",
@@ -2567,14 +2567,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9112289b-4640-4ef9-b5ea-c9adedbf138a",
+      "GUID": "9454a2bc-1430-4122-9c74-633a3644872d",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "222.9956",
-      "Time": "83.24835",
+      "Beat": "222.9531",
+      "Time": "83.23242",
       "Spawn": "212",
       "Vibe": "False",
       "Burning": "False",
@@ -2582,14 +2582,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9112289b-4640-4ef9-b5ea-c9adedbf138a",
+      "GUID": "9454a2bc-1430-4122-9c74-633a3644872d",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "222.9956",
-      "Time": "83.24835",
+      "Beat": "222.9531",
+      "Time": "83.23242",
       "Spawn": "212",
       "Vibe": "False",
       "Burning": "False",
@@ -2597,14 +2597,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "9112289b-4640-4ef9-b5ea-c9adedbf138a",
+      "GUID": "9454a2bc-1430-4122-9c74-633a3644872d",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "222.9956",
-      "Time": "83.24835",
+      "Beat": "222.9531",
+      "Time": "83.23242",
       "Spawn": "212",
       "Vibe": "False",
       "Burning": "False",
@@ -2612,7 +2612,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "5e5e4af7-2d25-4777-8d19-8dfe3ebf391c",
+      "GUID": "c9260630-4a0b-48b3-ba87-34203d328ce0",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -2627,7 +2627,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b1c3a396-f12d-4893-98fa-a4800a41c11d",
+      "GUID": "f4cafd75-9330-452a-a5d7-297a6d2d32e0",
       "ID": "1234",
       "Facing": "Left",
       "Health": "1",
@@ -2642,7 +2642,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fd32ba00-0769-4c06-a9c2-17eadaf5e1ba",
+      "GUID": "0e18061b-494d-4442-9eef-6c868028a1a4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -2658,14 +2658,14 @@
       "Length": "3"
     },
     {
-      "GUID": "fd32ba00-0769-4c06-a9c2-17eadaf5e1ba",
+      "GUID": "0e18061b-494d-4442-9eef-6c868028a1a4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "229.9826",
-      "Time": "85.86847",
+      "Beat": "229.9896",
+      "Time": "85.87109",
       "Spawn": "220",
       "Vibe": "False",
       "Burning": "False",
@@ -2673,14 +2673,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "fd32ba00-0769-4c06-a9c2-17eadaf5e1ba",
+      "GUID": "0e18061b-494d-4442-9eef-6c868028a1a4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "230.958",
-      "Time": "86.23425",
+      "Beat": "230.9583",
+      "Time": "86.23438",
       "Spawn": "220",
       "Vibe": "False",
       "Burning": "False",
@@ -2688,14 +2688,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "fd32ba00-0769-4c06-a9c2-17eadaf5e1ba",
+      "GUID": "0e18061b-494d-4442-9eef-6c868028a1a4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "230.958",
-      "Time": "86.23425",
+      "Beat": "230.9583",
+      "Time": "86.23438",
       "Spawn": "220",
       "Vibe": "False",
       "Burning": "False",
@@ -2703,14 +2703,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "fd32ba00-0769-4c06-a9c2-17eadaf5e1ba",
+      "GUID": "0e18061b-494d-4442-9eef-6c868028a1a4",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "230.958",
-      "Time": "86.23425",
+      "Beat": "230.9583",
+      "Time": "86.23438",
       "Spawn": "220",
       "Vibe": "False",
       "Burning": "False",
@@ -2718,7 +2718,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "7eec889f-21a9-4e16-a428-437fd895f9b7",
+      "GUID": "d7003eb1-8d77-462b-b408-224e58849bfe",
       "ID": "1236",
       "Facing": "Left",
       "Health": "1",
@@ -2733,7 +2733,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2aa1ad8e-1216-4643-ac85-24550b538149",
+      "GUID": "504cebb0-8777-4bff-9c06-b99f2c020e74",
       "ID": "1236",
       "Facing": "Left",
       "Health": "1",
@@ -2748,7 +2748,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "41b40da5-5413-4611-ad80-859741a6bf28",
+      "GUID": "b49f287c-b102-47fb-955e-5b57c231206d",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -2764,14 +2764,14 @@
       "Length": "3"
     },
     {
-      "GUID": "41b40da5-5413-4611-ad80-859741a6bf28",
+      "GUID": "b49f287c-b102-47fb-955e-5b57c231206d",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "237.9774",
-      "Time": "88.86652",
+      "Beat": "237.9844",
+      "Time": "88.86914",
       "Spawn": "228",
       "Vibe": "False",
       "Burning": "False",
@@ -2779,14 +2779,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "41b40da5-5413-4611-ad80-859741a6bf28",
+      "GUID": "b49f287c-b102-47fb-955e-5b57c231206d",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "238.9629",
-      "Time": "89.23608",
+      "Beat": "238.9635",
+      "Time": "89.23633",
       "Spawn": "228",
       "Vibe": "False",
       "Burning": "False",
@@ -2794,14 +2794,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "41b40da5-5413-4611-ad80-859741a6bf28",
+      "GUID": "b49f287c-b102-47fb-955e-5b57c231206d",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "238.9629",
-      "Time": "89.23608",
+      "Beat": "238.9635",
+      "Time": "89.23633",
       "Spawn": "228",
       "Vibe": "False",
       "Burning": "False",
@@ -2809,14 +2809,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "41b40da5-5413-4611-ad80-859741a6bf28",
+      "GUID": "b49f287c-b102-47fb-955e-5b57c231206d",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "238.9629",
-      "Time": "89.23608",
+      "Beat": "238.9635",
+      "Time": "89.23633",
       "Spawn": "228",
       "Vibe": "False",
       "Burning": "False",
@@ -2824,7 +2824,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "475cd4ca-ff05-40d7-beaf-9cc0db89bad1",
+      "GUID": "04f406a2-dcd2-450d-a74e-98d90b29a26d",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -2839,7 +2839,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "87e331ea-0ded-4efa-b69b-3c8e71a5ac08",
+      "GUID": "82df39f4-d045-4b2b-9fd9-e4cdc886ee21",
       "ID": "1236",
       "Facing": "Right",
       "Health": "1",
@@ -2854,7 +2854,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "bedae11e-2b01-4c7c-97f1-af7ff6e4d874",
+      "GUID": "8ae497f6-d7a1-473c-8baf-b5f45314dd4a",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -2870,14 +2870,14 @@
       "Length": "8"
     },
     {
-      "GUID": "bedae11e-2b01-4c7c-97f1-af7ff6e4d874",
+      "GUID": "8ae497f6-d7a1-473c-8baf-b5f45314dd4a",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "245.9795",
-      "Time": "91.86731",
+      "Beat": "245.9844",
+      "Time": "91.86914",
       "Spawn": "236",
       "Vibe": "False",
       "Burning": "False",
@@ -2885,14 +2885,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bedae11e-2b01-4c7c-97f1-af7ff6e4d874",
+      "GUID": "8ae497f6-d7a1-473c-8baf-b5f45314dd4a",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "246.9569",
-      "Time": "92.23383",
+      "Beat": "246.9635",
+      "Time": "92.23633",
       "Spawn": "236",
       "Vibe": "False",
       "Burning": "False",
@@ -2900,14 +2900,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bedae11e-2b01-4c7c-97f1-af7ff6e4d874",
+      "GUID": "8ae497f6-d7a1-473c-8baf-b5f45314dd4a",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "247.9792",
-      "Time": "92.61719",
+      "Beat": "247.9844",
+      "Time": "92.61914",
       "Spawn": "236",
       "Vibe": "False",
       "Burning": "False",
@@ -2915,14 +2915,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bedae11e-2b01-4c7c-97f1-af7ff6e4d874",
+      "GUID": "8ae497f6-d7a1-473c-8baf-b5f45314dd4a",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "248.9935",
-      "Time": "92.99756",
+      "Beat": "248.9583",
+      "Time": "92.98438",
       "Spawn": "236",
       "Vibe": "False",
       "Burning": "False",
@@ -2930,14 +2930,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bedae11e-2b01-4c7c-97f1-af7ff6e4d874",
+      "GUID": "8ae497f6-d7a1-473c-8baf-b5f45314dd4a",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "249.9743",
-      "Time": "93.36536",
+      "Beat": "249.9844",
+      "Time": "93.36914",
       "Spawn": "236",
       "Vibe": "False",
       "Burning": "False",
@@ -2945,14 +2945,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bedae11e-2b01-4c7c-97f1-af7ff6e4d874",
+      "GUID": "8ae497f6-d7a1-473c-8baf-b5f45314dd4a",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "250.9614",
-      "Time": "93.73553",
+      "Beat": "250.9688",
+      "Time": "93.73828",
       "Spawn": "236",
       "Vibe": "False",
       "Burning": "False",
@@ -2960,14 +2960,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bedae11e-2b01-4c7c-97f1-af7ff6e4d874",
+      "GUID": "8ae497f6-d7a1-473c-8baf-b5f45314dd4a",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "251.981",
-      "Time": "94.11786",
+      "Beat": "251.9844",
+      "Time": "94.11914",
       "Spawn": "236",
       "Vibe": "False",
       "Burning": "False",
@@ -2975,14 +2975,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bedae11e-2b01-4c7c-97f1-af7ff6e4d874",
+      "GUID": "8ae497f6-d7a1-473c-8baf-b5f45314dd4a",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "251.981",
-      "Time": "94.11786",
+      "Beat": "251.9844",
+      "Time": "94.11914",
       "Spawn": "236",
       "Vibe": "False",
       "Burning": "False",
@@ -2990,14 +2990,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "bedae11e-2b01-4c7c-97f1-af7ff6e4d874",
+      "GUID": "8ae497f6-d7a1-473c-8baf-b5f45314dd4a",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "251.981",
-      "Time": "94.11786",
+      "Beat": "251.9844",
+      "Time": "94.11914",
       "Spawn": "236",
       "Vibe": "False",
       "Burning": "False",
@@ -3005,7 +3005,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "eab90434-727f-46be-a6dd-36f80b3df71b",
+      "GUID": "5a365233-f19a-4951-ab0b-ed8328313de5",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -3021,14 +3021,14 @@
       "Length": "3"
     },
     {
-      "GUID": "eab90434-727f-46be-a6dd-36f80b3df71b",
+      "GUID": "5a365233-f19a-4951-ab0b-ed8328313de5",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "253.9759",
-      "Time": "94.86597",
+      "Beat": "253.9844",
+      "Time": "94.86914",
       "Spawn": "244",
       "Vibe": "False",
       "Burning": "False",
@@ -3036,14 +3036,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "eab90434-727f-46be-a6dd-36f80b3df71b",
+      "GUID": "5a365233-f19a-4951-ab0b-ed8328313de5",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "254.9592",
-      "Time": "95.23468",
+      "Beat": "254.9688",
+      "Time": "95.23828",
       "Spawn": "244",
       "Vibe": "False",
       "Burning": "False",
@@ -3051,14 +3051,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "eab90434-727f-46be-a6dd-36f80b3df71b",
+      "GUID": "5a365233-f19a-4951-ab0b-ed8328313de5",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "254.9592",
-      "Time": "95.23468",
+      "Beat": "254.9688",
+      "Time": "95.23828",
       "Spawn": "244",
       "Vibe": "False",
       "Burning": "False",
@@ -3066,14 +3066,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "eab90434-727f-46be-a6dd-36f80b3df71b",
+      "GUID": "5a365233-f19a-4951-ab0b-ed8328313de5",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "254.9592",
-      "Time": "95.23468",
+      "Beat": "254.9688",
+      "Time": "95.23828",
       "Spawn": "244",
       "Vibe": "False",
       "Burning": "False",
@@ -3081,7 +3081,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "a8f60a45-32ed-4955-93d5-f91f14517639",
+      "GUID": "abd1b036-ea80-4639-bdb5-8018ce18f7c9",
       "ID": "7794",
       "Facing": "Right",
       "Health": "2",
@@ -3097,14 +3097,14 @@
       "Length": "2"
     },
     {
-      "GUID": "a8f60a45-32ed-4955-93d5-f91f14517639",
+      "GUID": "abd1b036-ea80-4639-bdb5-8018ce18f7c9",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "257.4826",
-      "Time": "96.18097",
+      "Beat": "257.4896",
+      "Time": "96.18359",
       "Spawn": "247.5",
       "Vibe": "False",
       "Burning": "False",
@@ -3112,14 +3112,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "a8f60a45-32ed-4955-93d5-f91f14517639",
+      "GUID": "abd1b036-ea80-4639-bdb5-8018ce18f7c9",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "257.4826",
-      "Time": "96.18097",
+      "Beat": "257.4896",
+      "Time": "96.18359",
       "Spawn": "247.5",
       "Vibe": "False",
       "Burning": "False",
@@ -3127,14 +3127,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "a8f60a45-32ed-4955-93d5-f91f14517639",
+      "GUID": "abd1b036-ea80-4639-bdb5-8018ce18f7c9",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "257.4826",
-      "Time": "96.18097",
+      "Beat": "257.4896",
+      "Time": "96.18359",
       "Spawn": "247.5",
       "Vibe": "False",
       "Burning": "False",
@@ -3142,7 +3142,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "13bd775b-2d2a-4755-a09b-2450e8f4975c",
+      "GUID": "07c809a9-9510-460d-9cd3-70763f8b73c9",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -3157,7 +3157,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4db0e8b6-1f75-4f7b-8e5a-38dc97499069",
+      "GUID": "5a5d5c53-0688-42c6-8b39-14023334c9dd",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -3172,7 +3172,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a27b3b46-8688-4b6e-987b-04294bb17f15",
+      "GUID": "2763474b-31fc-4950-b7f1-25ee130877bc",
       "ID": "2054",
       "Facing": "Left",
       "Health": "2",
@@ -3187,7 +3187,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a27b3b46-8688-4b6e-987b-04294bb17f15",
+      "GUID": "2763474b-31fc-4950-b7f1-25ee130877bc",
       "ID": "2054",
       "Facing": "Left",
       "Health": "1",
@@ -3202,7 +3202,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "996fd3ea-044c-4c12-9f2b-66509fd8cdbf",
+      "GUID": "3f6a5792-e435-4d71-a02f-dfd5de1de632",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -3217,7 +3217,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "355524c5-eeff-4a1c-99e1-b9a3d1eb236b",
+      "GUID": "997dc680-8f08-4931-befd-6d408b9d96b1",
       "ID": "4601",
       "Facing": "Right",
       "Health": "1",
@@ -3232,7 +3232,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "902c8495-c17f-4679-8228-8dc0cb02e58e",
+      "GUID": "2d3b9fce-5b2a-4795-8f5c-5f2fe7087407",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3247,7 +3247,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b5913ecf-42fe-4c67-a09a-36626b4686d6",
+      "GUID": "c4bca770-8a69-438f-928b-bbf4fac81352",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3262,7 +3262,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "aefd54e0-189d-4aef-8c55-caa5b9bad043",
+      "GUID": "fcab3df7-f38c-494c-9561-1ab728133684",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -3277,7 +3277,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6576a26b-7454-4cfa-981d-e613290fec97",
+      "GUID": "ae487260-6754-4e21-be41-09aa889e114b",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -3292,7 +3292,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b76fe876-244e-45fa-a61f-ae8a2f70fd4d",
+      "GUID": "2874fcf7-3ff4-46f6-a12c-b74a057852d3",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -3307,7 +3307,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f02629b5-b067-4069-a603-428c1bae7798",
+      "GUID": "197d5c38-d460-4a38-9091-50bcc15d717e",
       "ID": "4601",
       "Facing": "Left",
       "Health": "1",
@@ -3322,7 +3322,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "49a62dc5-3e67-4d6a-aba4-b706079e1786",
+      "GUID": "d4dab4da-4a12-42df-a67d-1e9ec19b58a4",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3337,7 +3337,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "2452a122-d0ee-4a2d-9e3d-904da1b6aa40",
+      "GUID": "d92a4e2c-e6d5-4926-bfdb-f471ef7e817a",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3353,11 +3353,11 @@
     },
     {
       "Event": "VCS",
-      "Beat": "276.0208",
-      "Time": "103.1328"
+      "Beat": "276.026",
+      "Time": "103.1348"
     },
     {
-      "GUID": "908e7a16-08b4-413f-bd9f-e1c51c3d6a6f",
+      "GUID": "ef07a6e6-58f1-406f-b0ad-6abed846ce0b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -3373,7 +3373,7 @@
       "Length": "4"
     },
     {
-      "GUID": "e577a77e-7e06-48e7-adec-58a90c2995bd",
+      "GUID": "fb03af1a-c1eb-4659-b2e0-08bd3aeb7032",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -3389,7 +3389,7 @@
       "Length": "4"
     },
     {
-      "GUID": "7493cc6c-f62c-4d2e-89ba-02d051609817",
+      "GUID": "b298a5cb-9762-4c31-a23e-f0ab481e8c45",
       "ID": "7794",
       "Facing": "Right",
       "Health": "2",
@@ -3405,14 +3405,14 @@
       "Length": "4"
     },
     {
-      "GUID": "908e7a16-08b4-413f-bd9f-e1c51c3d6a6f",
+      "GUID": "ef07a6e6-58f1-406f-b0ad-6abed846ce0b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "277.9789",
-      "Time": "103.8671",
+      "Beat": "277.9792",
+      "Time": "103.8672",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3420,14 +3420,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e577a77e-7e06-48e7-adec-58a90c2995bd",
+      "GUID": "fb03af1a-c1eb-4659-b2e0-08bd3aeb7032",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "277.9789",
-      "Time": "103.8671",
+      "Beat": "277.9792",
+      "Time": "103.8672",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3435,14 +3435,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "7493cc6c-f62c-4d2e-89ba-02d051609817",
+      "GUID": "b298a5cb-9762-4c31-a23e-f0ab481e8c45",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "277.9789",
-      "Time": "103.8671",
+      "Beat": "277.9792",
+      "Time": "103.8672",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3450,14 +3450,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "908e7a16-08b4-413f-bd9f-e1c51c3d6a6f",
+      "GUID": "ef07a6e6-58f1-406f-b0ad-6abed846ce0b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "278.9958",
-      "Time": "104.2484",
+      "Beat": "278.9583",
+      "Time": "104.2344",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3465,14 +3465,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e577a77e-7e06-48e7-adec-58a90c2995bd",
+      "GUID": "fb03af1a-c1eb-4659-b2e0-08bd3aeb7032",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "278.9958",
-      "Time": "104.2484",
+      "Beat": "278.9583",
+      "Time": "104.2344",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3480,14 +3480,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "7493cc6c-f62c-4d2e-89ba-02d051609817",
+      "GUID": "b298a5cb-9762-4c31-a23e-f0ab481e8c45",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "278.9958",
-      "Time": "104.2484",
+      "Beat": "278.9583",
+      "Time": "104.2344",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3495,14 +3495,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "908e7a16-08b4-413f-bd9f-e1c51c3d6a6f",
+      "GUID": "ef07a6e6-58f1-406f-b0ad-6abed846ce0b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "279.9801",
-      "Time": "104.6176",
+      "Beat": "279.9844",
+      "Time": "104.6191",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3510,14 +3510,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e577a77e-7e06-48e7-adec-58a90c2995bd",
+      "GUID": "fb03af1a-c1eb-4659-b2e0-08bd3aeb7032",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "279.9801",
-      "Time": "104.6176",
+      "Beat": "279.9844",
+      "Time": "104.6191",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3525,14 +3525,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "7493cc6c-f62c-4d2e-89ba-02d051609817",
+      "GUID": "b298a5cb-9762-4c31-a23e-f0ab481e8c45",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "279.9801",
-      "Time": "104.6176",
+      "Beat": "279.9844",
+      "Time": "104.6191",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3540,14 +3540,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "908e7a16-08b4-413f-bd9f-e1c51c3d6a6f",
+      "GUID": "ef07a6e6-58f1-406f-b0ad-6abed846ce0b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "279.9801",
-      "Time": "104.6176",
+      "Beat": "279.9844",
+      "Time": "104.6191",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3555,14 +3555,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "908e7a16-08b4-413f-bd9f-e1c51c3d6a6f",
+      "GUID": "ef07a6e6-58f1-406f-b0ad-6abed846ce0b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "279.9801",
-      "Time": "104.6176",
+      "Beat": "279.9844",
+      "Time": "104.6191",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3570,14 +3570,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e577a77e-7e06-48e7-adec-58a90c2995bd",
+      "GUID": "fb03af1a-c1eb-4659-b2e0-08bd3aeb7032",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "279.9801",
-      "Time": "104.6176",
+      "Beat": "279.9844",
+      "Time": "104.6191",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3585,14 +3585,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "e577a77e-7e06-48e7-adec-58a90c2995bd",
+      "GUID": "fb03af1a-c1eb-4659-b2e0-08bd3aeb7032",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "279.9801",
-      "Time": "104.6176",
+      "Beat": "279.9844",
+      "Time": "104.6191",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3600,14 +3600,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "7493cc6c-f62c-4d2e-89ba-02d051609817",
+      "GUID": "b298a5cb-9762-4c31-a23e-f0ab481e8c45",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "279.9801",
-      "Time": "104.6176",
+      "Beat": "279.9844",
+      "Time": "104.6191",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3615,14 +3615,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "7493cc6c-f62c-4d2e-89ba-02d051609817",
+      "GUID": "b298a5cb-9762-4c31-a23e-f0ab481e8c45",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "279.9801",
-      "Time": "104.6176",
+      "Beat": "279.9844",
+      "Time": "104.6191",
       "Spawn": "268",
       "Vibe": "False",
       "Burning": "False",
@@ -3630,7 +3630,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bfee660e-dee1-478e-bb64-320700a585c3",
+      "GUID": "53bb19ef-f7a4-4b65-bfae-a7ac8d2e1569",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -3646,14 +3646,14 @@
       "Length": "4"
     },
     {
-      "GUID": "bfee660e-dee1-478e-bb64-320700a585c3",
+      "GUID": "53bb19ef-f7a4-4b65-bfae-a7ac8d2e1569",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "282.4686",
-      "Time": "105.5507",
+      "Beat": "282.4688",
+      "Time": "105.5508",
       "Spawn": "272.5",
       "Vibe": "False",
       "Burning": "False",
@@ -3661,14 +3661,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bfee660e-dee1-478e-bb64-320700a585c3",
+      "GUID": "53bb19ef-f7a4-4b65-bfae-a7ac8d2e1569",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "283.4857",
-      "Time": "105.9321",
+      "Beat": "283.4896",
+      "Time": "105.9336",
       "Spawn": "272.5",
       "Vibe": "False",
       "Burning": "False",
@@ -3676,14 +3676,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bfee660e-dee1-478e-bb64-320700a585c3",
+      "GUID": "53bb19ef-f7a4-4b65-bfae-a7ac8d2e1569",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "284.4694",
-      "Time": "106.301",
+      "Beat": "284.474",
+      "Time": "106.3027",
       "Spawn": "272.5",
       "Vibe": "False",
       "Burning": "False",
@@ -3691,14 +3691,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "bfee660e-dee1-478e-bb64-320700a585c3",
+      "GUID": "53bb19ef-f7a4-4b65-bfae-a7ac8d2e1569",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "284.4694",
-      "Time": "106.301",
+      "Beat": "284.474",
+      "Time": "106.3027",
       "Spawn": "272.5",
       "Vibe": "False",
       "Burning": "False",
@@ -3706,14 +3706,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "bfee660e-dee1-478e-bb64-320700a585c3",
+      "GUID": "53bb19ef-f7a4-4b65-bfae-a7ac8d2e1569",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "284.4694",
-      "Time": "106.301",
+      "Beat": "284.474",
+      "Time": "106.3027",
       "Spawn": "272.5",
       "Vibe": "False",
       "Burning": "False",
@@ -3721,7 +3721,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "3d5c3438-3598-41dc-95f7-ec15cf460461",
+      "GUID": "d2fdc22c-2cf9-4664-b584-503928f14a33",
       "ID": "7794",
       "Facing": "Right",
       "Health": "2",
@@ -3737,14 +3737,14 @@
       "Length": "4"
     },
     {
-      "GUID": "3d5c3438-3598-41dc-95f7-ec15cf460461",
+      "GUID": "d2fdc22c-2cf9-4664-b584-503928f14a33",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "285.9819",
-      "Time": "106.8682",
+      "Beat": "285.9844",
+      "Time": "106.8691",
       "Spawn": "276",
       "Vibe": "False",
       "Burning": "False",
@@ -3752,14 +3752,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "3d5c3438-3598-41dc-95f7-ec15cf460461",
+      "GUID": "d2fdc22c-2cf9-4664-b584-503928f14a33",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "286.9948",
-      "Time": "107.248",
+      "Beat": "286.9531",
+      "Time": "107.2324",
       "Spawn": "276",
       "Vibe": "False",
       "Burning": "False",
@@ -3767,14 +3767,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "3d5c3438-3598-41dc-95f7-ec15cf460461",
+      "GUID": "d2fdc22c-2cf9-4664-b584-503928f14a33",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "287.9736",
-      "Time": "107.6151",
+      "Beat": "287.9792",
+      "Time": "107.6172",
       "Spawn": "276",
       "Vibe": "False",
       "Burning": "False",
@@ -3782,14 +3782,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "3d5c3438-3598-41dc-95f7-ec15cf460461",
+      "GUID": "d2fdc22c-2cf9-4664-b584-503928f14a33",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "287.9736",
-      "Time": "107.6151",
+      "Beat": "287.9792",
+      "Time": "107.6172",
       "Spawn": "276",
       "Vibe": "False",
       "Burning": "False",
@@ -3797,14 +3797,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "3d5c3438-3598-41dc-95f7-ec15cf460461",
+      "GUID": "d2fdc22c-2cf9-4664-b584-503928f14a33",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "287.9736",
-      "Time": "107.6151",
+      "Beat": "287.9792",
+      "Time": "107.6172",
       "Spawn": "276",
       "Vibe": "False",
       "Burning": "False",
@@ -3812,7 +3812,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "3bcf235d-6452-49fd-accc-da6275192a0d",
+      "GUID": "1a1618d3-d805-4d11-950c-c8b0c712671f",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -3827,7 +3827,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "965ba6a1-fec6-4122-8634-e55b219414bb",
+      "GUID": "be639c9c-3a85-4ead-a730-e0e6af06b528",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -3842,7 +3842,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "94399433-e39d-44d7-888f-86c8078a388d",
+      "GUID": "a5ec6a22-4f75-4056-a4f7-a95d8a5c4f67",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -3857,7 +3857,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a37aba72-5d43-4504-8846-fe3eb317322a",
+      "GUID": "4b16a812-c201-4342-8a30-04f34283393f",
       "ID": "2054",
       "Facing": "Left",
       "Health": "2",
@@ -3872,7 +3872,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a37aba72-5d43-4504-8846-fe3eb317322a",
+      "GUID": "4b16a812-c201-4342-8a30-04f34283393f",
       "ID": "2054",
       "Facing": "Left",
       "Health": "1",
@@ -3887,7 +3887,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e00d8db3-5167-4e70-8487-fb89826b41c8",
+      "GUID": "dadb5a46-9ee5-4fe5-be31-7363d48614e5",
       "ID": "7358",
       "Facing": "Left",
       "Health": "1",
@@ -3902,7 +3902,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "10fbcf98-3e10-429a-baa7-3ff0a99bb797",
+      "GUID": "6234ee63-2ec9-42e5-bb81-b61986528a6f",
       "ID": "4601",
       "Facing": "Right",
       "Health": "1",
@@ -3917,7 +3917,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6c953de8-43b0-4194-bb83-32ec7675f95f",
+      "GUID": "f35217bd-d820-4840-bf81-7e9c7ddd4747",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3932,7 +3932,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "9ddd10f7-663d-4fb4-9819-5494d2b0f36d",
+      "GUID": "228c40d1-ad00-4dd9-bf5b-a9c288679da5",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3947,7 +3947,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "883359d8-faf7-4c78-b9c1-a2b961880722",
+      "GUID": "20fca977-a23e-448e-a281-ea14c07bebc9",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -3962,7 +3962,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8f5bde2c-6f2a-43c6-b70f-69ebf2e3a126",
+      "GUID": "50f2bf79-baea-408c-aa15-c6044e713632",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -3977,7 +3977,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a8890fb8-1d79-44d9-90f4-be5b1b5a3267",
+      "GUID": "56ae33a1-d999-4566-a619-ff3a394d50bd",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -3992,7 +3992,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "373985d9-c58f-4cf2-a410-1fa77fa95a84",
+      "GUID": "a01b0b08-1627-4388-a36d-8c0eec4118fc",
       "ID": "4601",
       "Facing": "Left",
       "Health": "1",
@@ -4007,7 +4007,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "378bf6f8-e17d-4d2d-bcb8-361ee1cea9b8",
+      "GUID": "091870e5-173a-42f7-b5b2-427d8459204e",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4022,7 +4022,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b61ce178-dc05-49f1-bba4-ccbf3ef85dbf",
+      "GUID": "dd0116b6-f546-4343-8e22-e63514c69311",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4037,7 +4037,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "02d269da-19e4-4b71-8573-301e56ec528b",
+      "GUID": "1ca4d903-599a-4de5-ae9b-2b5f2d04df44",
       "ID": "7794",
       "Facing": "Right",
       "Health": "2",
@@ -4053,7 +4053,7 @@
       "Length": "6"
     },
     {
-      "GUID": "f12fd3fc-f234-4873-be6c-25173ae1d275",
+      "GUID": "286b0441-7369-48ef-9487-280068accd84",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -4069,7 +4069,7 @@
       "Length": "6"
     },
     {
-      "GUID": "e72ed593-2336-4a32-9412-6b6ac9ca6668",
+      "GUID": "36fd057c-4132-40cf-8306-190f64c4175b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -4085,14 +4085,14 @@
       "Length": "6"
     },
     {
-      "GUID": "02d269da-19e4-4b71-8573-301e56ec528b",
+      "GUID": "1ca4d903-599a-4de5-ae9b-2b5f2d04df44",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "309.9795",
-      "Time": "115.8673",
+      "Beat": "309.9844",
+      "Time": "115.8691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4100,14 +4100,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "f12fd3fc-f234-4873-be6c-25173ae1d275",
+      "GUID": "286b0441-7369-48ef-9487-280068accd84",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "309.9795",
-      "Time": "115.8673",
+      "Beat": "309.9844",
+      "Time": "115.8691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4115,14 +4115,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e72ed593-2336-4a32-9412-6b6ac9ca6668",
+      "GUID": "36fd057c-4132-40cf-8306-190f64c4175b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "309.9795",
-      "Time": "115.8673",
+      "Beat": "309.9844",
+      "Time": "115.8691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4130,14 +4130,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "02d269da-19e4-4b71-8573-301e56ec528b",
+      "GUID": "1ca4d903-599a-4de5-ae9b-2b5f2d04df44",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "310.957",
-      "Time": "116.2339",
+      "Beat": "310.9635",
+      "Time": "116.2363",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4145,14 +4145,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "f12fd3fc-f234-4873-be6c-25173ae1d275",
+      "GUID": "286b0441-7369-48ef-9487-280068accd84",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "310.957",
-      "Time": "116.2339",
+      "Beat": "310.9635",
+      "Time": "116.2363",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4160,14 +4160,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e72ed593-2336-4a32-9412-6b6ac9ca6668",
+      "GUID": "36fd057c-4132-40cf-8306-190f64c4175b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "310.957",
-      "Time": "116.2339",
+      "Beat": "310.9635",
+      "Time": "116.2363",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4175,14 +4175,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "02d269da-19e4-4b71-8573-301e56ec528b",
+      "GUID": "1ca4d903-599a-4de5-ae9b-2b5f2d04df44",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "311.9792",
-      "Time": "116.6172",
+      "Beat": "311.9844",
+      "Time": "116.6191",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4190,14 +4190,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "f12fd3fc-f234-4873-be6c-25173ae1d275",
+      "GUID": "286b0441-7369-48ef-9487-280068accd84",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "311.9792",
-      "Time": "116.6172",
+      "Beat": "311.9844",
+      "Time": "116.6191",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4205,14 +4205,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e72ed593-2336-4a32-9412-6b6ac9ca6668",
+      "GUID": "36fd057c-4132-40cf-8306-190f64c4175b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "311.9792",
-      "Time": "116.6172",
+      "Beat": "311.9844",
+      "Time": "116.6191",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4220,14 +4220,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "02d269da-19e4-4b71-8573-301e56ec528b",
+      "GUID": "1ca4d903-599a-4de5-ae9b-2b5f2d04df44",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "312.9928",
-      "Time": "116.9973",
+      "Beat": "312.9583",
+      "Time": "116.9844",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4235,14 +4235,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "f12fd3fc-f234-4873-be6c-25173ae1d275",
+      "GUID": "286b0441-7369-48ef-9487-280068accd84",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "312.9928",
-      "Time": "116.9973",
+      "Beat": "312.9583",
+      "Time": "116.9844",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4250,14 +4250,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e72ed593-2336-4a32-9412-6b6ac9ca6668",
+      "GUID": "36fd057c-4132-40cf-8306-190f64c4175b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "312.9928",
-      "Time": "116.9973",
+      "Beat": "312.9583",
+      "Time": "116.9844",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4265,14 +4265,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "02d269da-19e4-4b71-8573-301e56ec528b",
+      "GUID": "1ca4d903-599a-4de5-ae9b-2b5f2d04df44",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "313.9743",
-      "Time": "117.3654",
+      "Beat": "313.9844",
+      "Time": "117.3691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4280,14 +4280,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "f12fd3fc-f234-4873-be6c-25173ae1d275",
+      "GUID": "286b0441-7369-48ef-9487-280068accd84",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "313.9743",
-      "Time": "117.3654",
+      "Beat": "313.9844",
+      "Time": "117.3691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4295,14 +4295,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e72ed593-2336-4a32-9412-6b6ac9ca6668",
+      "GUID": "36fd057c-4132-40cf-8306-190f64c4175b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "313.9743",
-      "Time": "117.3654",
+      "Beat": "313.9844",
+      "Time": "117.3691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4310,14 +4310,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "02d269da-19e4-4b71-8573-301e56ec528b",
+      "GUID": "1ca4d903-599a-4de5-ae9b-2b5f2d04df44",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "313.9743",
-      "Time": "117.3654",
+      "Beat": "313.9844",
+      "Time": "117.3691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4325,14 +4325,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "02d269da-19e4-4b71-8573-301e56ec528b",
+      "GUID": "1ca4d903-599a-4de5-ae9b-2b5f2d04df44",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "313.9743",
-      "Time": "117.3654",
+      "Beat": "313.9844",
+      "Time": "117.3691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4340,14 +4340,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "f12fd3fc-f234-4873-be6c-25173ae1d275",
+      "GUID": "286b0441-7369-48ef-9487-280068accd84",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "313.9743",
-      "Time": "117.3654",
+      "Beat": "313.9844",
+      "Time": "117.3691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4355,14 +4355,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "f12fd3fc-f234-4873-be6c-25173ae1d275",
+      "GUID": "286b0441-7369-48ef-9487-280068accd84",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "313.9743",
-      "Time": "117.3654",
+      "Beat": "313.9844",
+      "Time": "117.3691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4370,14 +4370,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e72ed593-2336-4a32-9412-6b6ac9ca6668",
+      "GUID": "36fd057c-4132-40cf-8306-190f64c4175b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "313.9743",
-      "Time": "117.3654",
+      "Beat": "313.9844",
+      "Time": "117.3691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4385,14 +4385,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "e72ed593-2336-4a32-9412-6b6ac9ca6668",
+      "GUID": "36fd057c-4132-40cf-8306-190f64c4175b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "313.9743",
-      "Time": "117.3654",
+      "Beat": "313.9844",
+      "Time": "117.3691",
       "Spawn": "300",
       "Vibe": "False",
       "Burning": "False",
@@ -4400,7 +4400,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "9ab11797-0b3b-4131-bf5f-d97df646387f",
+      "GUID": "92b7adf3-2c26-469a-b81d-afad47daa0d3",
       "ID": "3826",
       "Facing": "Right",
       "Health": "1",
@@ -4415,7 +4415,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4c50146b-b51f-43a4-85b3-f1b1f5526f9d",
+      "GUID": "bbb74171-5ab2-46a2-89a4-01bf0412de5e",
       "ID": "3826",
       "Facing": "Right",
       "Health": "1",
@@ -4430,7 +4430,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "4e7c80a0-10bc-4758-a960-b0f3e391b339",
+      "GUID": "1aa4038a-6f67-4bea-85a3-0acdfeb8eec9",
       "ID": "3826",
       "Facing": "Right",
       "Health": "1",
@@ -4445,7 +4445,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d5eff5aa-4611-4579-a3b5-d9357f419413",
+      "GUID": "b84749dd-3005-4c2c-97b5-7cb904490ac1",
       "ID": "3826",
       "Facing": "Right",
       "Health": "1",
@@ -4460,7 +4460,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a76b017a-e696-4688-ac6b-ce93e769bd8a",
+      "GUID": "6689a1fd-40a1-4b13-8bb9-b532e8a49dc1",
       "ID": "3826",
       "Facing": "Right",
       "Health": "1",
@@ -4475,7 +4475,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "39209107-977f-4334-9405-301cb323fa67",
+      "GUID": "a4c202a9-47ff-40b7-a513-dcd765065427",
       "ID": "3826",
       "Facing": "Right",
       "Health": "1",
@@ -4490,7 +4490,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "a20cbe55-3e50-4193-9d29-65935bb8b6c8",
+      "GUID": "5f2a4a9e-7593-40ca-ba08-033b7aef07e7",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4505,7 +4505,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5a55a47c-608c-45ba-8014-571cd81b946c",
+      "GUID": "9cb8c4f9-24eb-4aa2-be01-ee1d0ad1a693",
       "ID": "1817",
       "Facing": "Left",
       "Health": "3",
@@ -4520,7 +4520,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5a55a47c-608c-45ba-8014-571cd81b946c",
+      "GUID": "9cb8c4f9-24eb-4aa2-be01-ee1d0ad1a693",
       "ID": "1817",
       "Facing": "Left",
       "Health": "2",
@@ -4535,7 +4535,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5a55a47c-608c-45ba-8014-571cd81b946c",
+      "GUID": "9cb8c4f9-24eb-4aa2-be01-ee1d0ad1a693",
       "ID": "1817",
       "Facing": "Left",
       "Health": "1",
@@ -4550,7 +4550,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "6df401aa-ef33-4c9f-b84a-617954bb533c",
+      "GUID": "362c69e8-8210-487c-845a-1d4a3eebecde",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -4565,7 +4565,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ac6450ad-9040-4a65-9922-0a0b58e3521c",
+      "GUID": "ec7f0233-c8e6-4a69-914d-dd79a360ed19",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -4580,7 +4580,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f3277865-a1a1-4349-9f7e-503328ae8d40",
+      "GUID": "e5b668de-3655-4618-a3a2-504df524229a",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -4595,7 +4595,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d6a5d622-b3f7-4f16-b18e-0ea5ea9f0ad9",
+      "GUID": "d04a1639-bd1d-4c5f-885e-874562c853ef",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4610,7 +4610,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "8c166854-73f6-45dd-b4ed-37885674ca66",
+      "GUID": "e6625034-8be8-489b-a5f9-15516c2536ee",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4625,7 +4625,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "3eb7fad5-e308-478f-bd60-6f7f8a68651e",
+      "GUID": "e2c92085-a167-466a-bdea-da87e0b014ed",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4641,11 +4641,11 @@
     },
     {
       "Event": "VCS",
-      "Beat": "355.001",
-      "Time": "132.7504"
+      "Beat": "355.0052",
+      "Time": "132.752"
     },
     {
-      "GUID": "278820d2-d017-4142-a998-660d26640c96",
+      "GUID": "0b753b67-773e-4bcc-b669-92197618c7cd",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4660,7 +4660,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "964328a5-8177-4a4d-b539-cbb4e0ed5c70",
+      "GUID": "841d5f4d-33c3-4d6d-9928-2fbf53973b57",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4675,7 +4675,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "ba1941ff-1129-4441-9d1a-236308c6c70f",
+      "GUID": "3df883d6-69e9-4756-ab82-08d63c47fba2",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4690,7 +4690,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b404ff09-75a8-424e-b0fd-dc99cbd4a263",
+      "GUID": "565cb524-4301-487e-a84b-ca4672275d4f",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4705,7 +4705,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "dfe54b76-0d36-4c6c-909d-0cc2b180a109",
+      "GUID": "02775d5d-301c-43c0-8e0c-e019e727477d",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4720,7 +4720,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "be4b5147-a89f-499f-b21b-17314fec47c9",
+      "GUID": "b856729a-8739-4614-a703-6c89c1daf7a2",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4735,7 +4735,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "93049886-f8fe-4afe-b577-170e93657dd1",
+      "GUID": "df6a1148-e727-4548-8832-feb344915b7b",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4750,7 +4750,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "39669dea-100d-4ab0-9dca-57c780bb898a",
+      "GUID": "a820af52-651c-48c7-986d-9e9ced4be485",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4765,7 +4765,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "87aec9be-11bd-4fb0-8d32-e7387787fecd",
+      "GUID": "c00fc281-e751-42ed-9c17-378e48178c8d",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4780,7 +4780,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "0b76f60b-3b20-419b-af88-304ee0ee59d5",
+      "GUID": "bb8645b6-db5a-4059-a75c-3e4225f65ac1",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -4795,7 +4795,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "33c03504-61bf-4251-9e86-311204445492",
+      "GUID": "a6314ee0-9d5c-45c5-9ed3-b666d0b11e1b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -4811,14 +4811,14 @@
       "Length": "4"
     },
     {
-      "GUID": "33c03504-61bf-4251-9e86-311204445492",
+      "GUID": "a6314ee0-9d5c-45c5-9ed3-b666d0b11e1b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "373.9796",
-      "Time": "139.8674",
+      "Beat": "373.9844",
+      "Time": "139.8691",
       "Spawn": "364",
       "Vibe": "False",
       "Burning": "False",
@@ -4826,14 +4826,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "33c03504-61bf-4251-9e86-311204445492",
+      "GUID": "a6314ee0-9d5c-45c5-9ed3-b666d0b11e1b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "374.9567",
-      "Time": "140.2338",
+      "Beat": "374.9635",
+      "Time": "140.2363",
       "Spawn": "364",
       "Vibe": "False",
       "Burning": "False",
@@ -4841,14 +4841,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "33c03504-61bf-4251-9e86-311204445492",
+      "GUID": "a6314ee0-9d5c-45c5-9ed3-b666d0b11e1b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "375.9795",
-      "Time": "140.6173",
+      "Beat": "375.9844",
+      "Time": "140.6191",
       "Spawn": "364",
       "Vibe": "False",
       "Burning": "False",
@@ -4856,14 +4856,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "33c03504-61bf-4251-9e86-311204445492",
+      "GUID": "a6314ee0-9d5c-45c5-9ed3-b666d0b11e1b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "375.9795",
-      "Time": "140.6173",
+      "Beat": "375.9844",
+      "Time": "140.6191",
       "Spawn": "364",
       "Vibe": "False",
       "Burning": "False",
@@ -4871,14 +4871,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "33c03504-61bf-4251-9e86-311204445492",
+      "GUID": "a6314ee0-9d5c-45c5-9ed3-b666d0b11e1b",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "375.9795",
-      "Time": "140.6173",
+      "Beat": "375.9844",
+      "Time": "140.6191",
       "Spawn": "364",
       "Vibe": "False",
       "Burning": "False",
@@ -4886,7 +4886,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e377cadc-ca06-4631-a8cb-8b9b521b7143",
+      "GUID": "a7679895-b3cd-44a6-a566-82e7e6a05ad1",
       "ID": "7794",
       "Facing": "Right",
       "Health": "2",
@@ -4902,14 +4902,14 @@
       "Length": "4"
     },
     {
-      "GUID": "e377cadc-ca06-4631-a8cb-8b9b521b7143",
+      "GUID": "a7679895-b3cd-44a6-a566-82e7e6a05ad1",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "377.9738",
-      "Time": "141.3652",
+      "Beat": "377.9844",
+      "Time": "141.3691",
       "Spawn": "368",
       "Vibe": "False",
       "Burning": "False",
@@ -4917,14 +4917,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e377cadc-ca06-4631-a8cb-8b9b521b7143",
+      "GUID": "a7679895-b3cd-44a6-a566-82e7e6a05ad1",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "378.9621",
-      "Time": "141.7358",
+      "Beat": "378.9688",
+      "Time": "141.7383",
       "Spawn": "368",
       "Vibe": "False",
       "Burning": "False",
@@ -4932,14 +4932,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e377cadc-ca06-4631-a8cb-8b9b521b7143",
+      "GUID": "a7679895-b3cd-44a6-a566-82e7e6a05ad1",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "379.9801",
-      "Time": "142.1176",
+      "Beat": "379.9844",
+      "Time": "142.1191",
       "Spawn": "368",
       "Vibe": "False",
       "Burning": "False",
@@ -4947,14 +4947,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "e377cadc-ca06-4631-a8cb-8b9b521b7143",
+      "GUID": "a7679895-b3cd-44a6-a566-82e7e6a05ad1",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "379.9801",
-      "Time": "142.1176",
+      "Beat": "379.9844",
+      "Time": "142.1191",
       "Spawn": "368",
       "Vibe": "False",
       "Burning": "False",
@@ -4962,14 +4962,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "e377cadc-ca06-4631-a8cb-8b9b521b7143",
+      "GUID": "a7679895-b3cd-44a6-a566-82e7e6a05ad1",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "379.9801",
-      "Time": "142.1176",
+      "Beat": "379.9844",
+      "Time": "142.1191",
       "Spawn": "368",
       "Vibe": "False",
       "Burning": "False",
@@ -4977,7 +4977,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "abe3ea6a-4700-4773-b9b6-8245f1fde9c7",
+      "GUID": "d9cad4ef-e829-4754-abcf-e0dd9e9b481e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -4993,14 +4993,14 @@
       "Length": "4"
     },
     {
-      "GUID": "abe3ea6a-4700-4773-b9b6-8245f1fde9c7",
+      "GUID": "d9cad4ef-e829-4754-abcf-e0dd9e9b481e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "381.9757",
-      "Time": "142.8659",
+      "Beat": "381.9844",
+      "Time": "142.8691",
       "Spawn": "372",
       "Vibe": "False",
       "Burning": "False",
@@ -5008,14 +5008,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "abe3ea6a-4700-4773-b9b6-8245f1fde9c7",
+      "GUID": "d9cad4ef-e829-4754-abcf-e0dd9e9b481e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "382.9588",
-      "Time": "143.2346",
+      "Beat": "382.9688",
+      "Time": "143.2383",
       "Spawn": "372",
       "Vibe": "False",
       "Burning": "False",
@@ -5023,14 +5023,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "abe3ea6a-4700-4773-b9b6-8245f1fde9c7",
+      "GUID": "d9cad4ef-e829-4754-abcf-e0dd9e9b481e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "383.9824",
-      "Time": "143.6184",
+      "Beat": "383.9844",
+      "Time": "143.6191",
       "Spawn": "372",
       "Vibe": "False",
       "Burning": "False",
@@ -5038,14 +5038,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "abe3ea6a-4700-4773-b9b6-8245f1fde9c7",
+      "GUID": "d9cad4ef-e829-4754-abcf-e0dd9e9b481e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "383.9824",
-      "Time": "143.6184",
+      "Beat": "383.9844",
+      "Time": "143.6191",
       "Spawn": "372",
       "Vibe": "False",
       "Burning": "False",
@@ -5053,14 +5053,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "abe3ea6a-4700-4773-b9b6-8245f1fde9c7",
+      "GUID": "d9cad4ef-e829-4754-abcf-e0dd9e9b481e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "383.9824",
-      "Time": "143.6184",
+      "Beat": "383.9844",
+      "Time": "143.6191",
       "Spawn": "372",
       "Vibe": "False",
       "Burning": "False",
@@ -5068,7 +5068,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "94c85b11-3527-4aaa-b525-ed805db360e1",
+      "GUID": "76ab085f-d4db-4969-8d90-52df7f2643f2",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -5083,7 +5083,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "36570f5d-59ee-4c82-bd04-c4a4892d5bdd",
+      "GUID": "b5061706-c0dc-41ca-b53f-78b1df39781f",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -5098,7 +5098,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b90850ee-9795-4633-934c-a594f2aa8eef",
+      "GUID": "b8df9c8f-21f7-49ba-b617-1bb7beb74dd9",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -5114,14 +5114,14 @@
       "Length": "4"
     },
     {
-      "GUID": "b90850ee-9795-4633-934c-a594f2aa8eef",
+      "GUID": "b8df9c8f-21f7-49ba-b617-1bb7beb74dd9",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "389.9713",
-      "Time": "145.8643",
+      "Beat": "389.9792",
+      "Time": "145.8672",
       "Spawn": "380",
       "Vibe": "False",
       "Burning": "False",
@@ -5129,14 +5129,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "b90850ee-9795-4633-934c-a594f2aa8eef",
+      "GUID": "b8df9c8f-21f7-49ba-b617-1bb7beb74dd9",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "390.9577",
-      "Time": "146.2341",
+      "Beat": "390.9635",
+      "Time": "146.2363",
       "Spawn": "380",
       "Vibe": "False",
       "Burning": "False",
@@ -5144,14 +5144,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "b90850ee-9795-4633-934c-a594f2aa8eef",
+      "GUID": "b8df9c8f-21f7-49ba-b617-1bb7beb74dd9",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "391.9808",
-      "Time": "146.6178",
+      "Beat": "391.9844",
+      "Time": "146.6191",
       "Spawn": "380",
       "Vibe": "False",
       "Burning": "False",
@@ -5159,14 +5159,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "b90850ee-9795-4633-934c-a594f2aa8eef",
+      "GUID": "b8df9c8f-21f7-49ba-b617-1bb7beb74dd9",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "391.9808",
-      "Time": "146.6178",
+      "Beat": "391.9844",
+      "Time": "146.6191",
       "Spawn": "380",
       "Vibe": "False",
       "Burning": "False",
@@ -5174,14 +5174,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "b90850ee-9795-4633-934c-a594f2aa8eef",
+      "GUID": "b8df9c8f-21f7-49ba-b617-1bb7beb74dd9",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "1",
       "Y": "0",
-      "Beat": "391.9808",
-      "Time": "146.6178",
+      "Beat": "391.9844",
+      "Time": "146.6191",
       "Spawn": "380",
       "Vibe": "False",
       "Burning": "False",
@@ -5189,7 +5189,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "6e216c8b-43c7-4a8e-9b5b-cb4e7201ddd9",
+      "GUID": "caf9df5c-050a-47d3-ac48-cbdf651e265e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "2",
@@ -5205,14 +5205,14 @@
       "Length": "4"
     },
     {
-      "GUID": "6e216c8b-43c7-4a8e-9b5b-cb4e7201ddd9",
+      "GUID": "caf9df5c-050a-47d3-ac48-cbdf651e265e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "393.9722",
-      "Time": "147.3646",
+      "Beat": "393.9792",
+      "Time": "147.3672",
       "Spawn": "384",
       "Vibe": "False",
       "Burning": "False",
@@ -5220,14 +5220,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "6e216c8b-43c7-4a8e-9b5b-cb4e7201ddd9",
+      "GUID": "caf9df5c-050a-47d3-ac48-cbdf651e265e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "394.9987",
-      "Time": "147.7495",
+      "Beat": "394.9635",
+      "Time": "147.7363",
       "Spawn": "384",
       "Vibe": "False",
       "Burning": "False",
@@ -5235,14 +5235,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "6e216c8b-43c7-4a8e-9b5b-cb4e7201ddd9",
+      "GUID": "caf9df5c-050a-47d3-ac48-cbdf651e265e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "395.9819",
-      "Time": "148.1182",
+      "Beat": "395.9896",
+      "Time": "148.1211",
       "Spawn": "384",
       "Vibe": "False",
       "Burning": "False",
@@ -5250,14 +5250,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "6e216c8b-43c7-4a8e-9b5b-cb4e7201ddd9",
+      "GUID": "caf9df5c-050a-47d3-ac48-cbdf651e265e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "395.9819",
-      "Time": "148.1182",
+      "Beat": "395.9896",
+      "Time": "148.1211",
       "Spawn": "384",
       "Vibe": "False",
       "Burning": "False",
@@ -5265,14 +5265,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "6e216c8b-43c7-4a8e-9b5b-cb4e7201ddd9",
+      "GUID": "caf9df5c-050a-47d3-ac48-cbdf651e265e",
       "ID": "7794",
       "Facing": "Left",
       "Health": "1",
       "X": "2",
       "Y": "0",
-      "Beat": "395.9819",
-      "Time": "148.1182",
+      "Beat": "395.9896",
+      "Time": "148.1211",
       "Spawn": "384",
       "Vibe": "False",
       "Burning": "False",
@@ -5280,7 +5280,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "02b7b64c-898b-40de-ba60-0a4b946bb6c5",
+      "GUID": "2d6c33b8-a1a0-4437-8bee-66e15f428cfb",
       "ID": "7794",
       "Facing": "Right",
       "Health": "2",
@@ -5296,14 +5296,14 @@
       "Length": "4"
     },
     {
-      "GUID": "02b7b64c-898b-40de-ba60-0a4b946bb6c5",
+      "GUID": "2d6c33b8-a1a0-4437-8bee-66e15f428cfb",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "397.9748",
-      "Time": "148.8655",
+      "Beat": "397.9792",
+      "Time": "148.8672",
       "Spawn": "388",
       "Vibe": "False",
       "Burning": "False",
@@ -5311,14 +5311,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "02b7b64c-898b-40de-ba60-0a4b946bb6c5",
+      "GUID": "2d6c33b8-a1a0-4437-8bee-66e15f428cfb",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "398.9989",
-      "Time": "149.2496",
+      "Beat": "398.9583",
+      "Time": "149.2344",
       "Spawn": "388",
       "Vibe": "False",
       "Burning": "False",
@@ -5326,14 +5326,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "02b7b64c-898b-40de-ba60-0a4b946bb6c5",
+      "GUID": "2d6c33b8-a1a0-4437-8bee-66e15f428cfb",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "399.9811",
-      "Time": "149.6179",
+      "Beat": "399.9896",
+      "Time": "149.6211",
       "Spawn": "388",
       "Vibe": "False",
       "Burning": "False",
@@ -5341,14 +5341,14 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "02b7b64c-898b-40de-ba60-0a4b946bb6c5",
+      "GUID": "2d6c33b8-a1a0-4437-8bee-66e15f428cfb",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "399.9811",
-      "Time": "149.6179",
+      "Beat": "399.9896",
+      "Time": "149.6211",
       "Spawn": "388",
       "Vibe": "False",
       "Burning": "False",
@@ -5356,14 +5356,14 @@
       "Event": "WyrmEnd"
     },
     {
-      "GUID": "02b7b64c-898b-40de-ba60-0a4b946bb6c5",
+      "GUID": "2d6c33b8-a1a0-4437-8bee-66e15f428cfb",
       "ID": "7794",
       "Facing": "Right",
       "Health": "1",
       "X": "0",
       "Y": "0",
-      "Beat": "399.9811",
-      "Time": "149.6179",
+      "Beat": "399.9896",
+      "Time": "149.6211",
       "Spawn": "388",
       "Vibe": "False",
       "Burning": "False",
@@ -5371,7 +5371,7 @@
       "Event": "WyrmSection"
     },
     {
-      "GUID": "f6b90962-96b4-4ee6-a949-41ef48c7fb0d",
+      "GUID": "75d0c56c-a848-4b9a-8a65-664f135bb245",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -5386,7 +5386,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "fceaf344-06d9-4fa0-9730-c53bbce2759d",
+      "GUID": "b4f8f45a-0ec3-4958-8078-a2efa3ba1ca2",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -5401,7 +5401,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "495cdc38-8867-4a8a-8f38-96b8a8068026",
+      "GUID": "e01d5b44-851b-4b77-8887-235870581b90",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -5416,7 +5416,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b8d3728b-7384-4f78-8d51-10c3602956c6",
+      "GUID": "8d7d25fd-8b84-4eb0-aabc-0022f43fc1c3",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -5431,7 +5431,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "5834d2fe-dabb-4999-891b-ab21743b63f4",
+      "GUID": "51e4c5c0-e133-4cb8-a8c7-23bd2b00ff62",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -5446,7 +5446,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "aa39ba1e-df41-47b3-b533-c83cc86a21ba",
+      "GUID": "6f764f74-fdea-4815-ad0d-1d349eee8da7",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -5461,7 +5461,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "f33c9347-ea4d-4a6c-ab62-cfa88bd2bfd8",
+      "GUID": "4053fa33-81c7-450b-a2b8-bee9b4ee9513",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -5476,7 +5476,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "de121ba1-3d03-4982-8c7f-b1d3773854f0",
+      "GUID": "463e19d3-6035-4c5c-966e-dbdb991e1fe0",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -5491,7 +5491,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d8d5086d-dbcf-4f31-abae-372884e0da61",
+      "GUID": "fa764f38-569a-41ea-bf20-31eb7245048c",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -5506,7 +5506,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "e87fa961-d78c-4232-adbc-590a81289f4c",
+      "GUID": "10570edd-1eb3-4afe-b4a0-f038106a390b",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -5521,7 +5521,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "b51c8466-e2f8-41d5-9923-9af1e129c935",
+      "GUID": "1ef240b8-8805-4fc1-a761-0100c716196a",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -5536,7 +5536,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "54325532-8ca0-45e4-af23-14336cd5808f",
+      "GUID": "a1bfb1ff-e23c-482c-aa3c-cbadb806fbb2",
       "ID": "8519",
       "Facing": "Left",
       "Health": "1",
@@ -5551,7 +5551,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "c4df4b36-c0b8-41b2-a48d-28a0583f862b",
+      "GUID": "575e8b04-14c1-4917-98c7-ee15a58830a2",
       "ID": "8519",
       "Facing": "Right",
       "Health": "1",
@@ -5566,7 +5566,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "d03948c1-233a-4ca2-a14a-3f8e9674cb18",
+      "GUID": "4c6307cc-14dd-47a0-98f5-c65cdb908790",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -5581,7 +5581,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "642543ea-ab7b-4f45-9971-eb6ceba5a54b",
+      "GUID": "58c311c4-8728-4d66-9329-118dcfee6cdd",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
@@ -5596,7 +5596,7 @@
       "Event": "HitEnemy"
     },
     {
-      "GUID": "72ad8f3f-07e8-4a0e-b1a1-103bcf089e12",
+      "GUID": "88c252c9-1cd3-4424-83a4-c49d5262a17d",
       "ID": "2202",
       "Facing": "Left",
       "Health": "1",
