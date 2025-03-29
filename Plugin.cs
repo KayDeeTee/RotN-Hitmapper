@@ -402,5 +402,17 @@ public class HitMapperPlugin : BaseUnityPlugin
         return true;
     }
     
+    [HarmonyPatch(typeof(Beatmap), "LoadFromJsonString")]
+    [HarmonyPrefix]
+    public static bool LoadBeatmapFromJson( string __0, string __1 ){
+        string level_id = __1;
+        if( level_id.EndsWith(".json") ){
+            //custom chart
+            level_id = Path.GetFileNameWithoutExtension( __1 );
+        }
+        string path = "ChartDumps/" + level_id + ".json";
+        File.WriteAllText( path, __0 );        
+        return true;
+    }
 
 }
