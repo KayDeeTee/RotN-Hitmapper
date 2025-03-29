@@ -125,6 +125,15 @@ public class HitMapperPlugin : BaseUnityPlugin
         return true;
     }
 
+    [HarmonyPatch( typeof(RRArmadilloEnemy), "ProcessIncomingAttack")]
+    [HarmonyPrefix]
+    public static bool ArmadilloFix(RRArmadilloEnemy __instance){
+        if( (bool) get_prop_by_name(__instance, "IsHoldingShield") ){
+            OnHitEnemy(__instance);
+        }
+        return true;
+    }
+
     [HarmonyPatch( typeof(RRSkeletonEnemy), "ProcessIncomingAttack")]
     [HarmonyPrefix]
     public static bool SkeletonFix(RRSkeletonEnemy __instance){
