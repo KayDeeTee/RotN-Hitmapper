@@ -5,6 +5,8 @@ Make a folder called Charts next to RiftOfTheNecrodancer.exe
 
 Make another folder called ChartDumps in the same place
 
+Create AlbumArts folder if you want to dump arts
+
 In game enable Golden lute then play a song or use one of the keybinds to auto go through them.
 
 ## In track select
@@ -22,6 +24,8 @@ F5 => Auto play impossible
 F1->F5 will continue into autoplaying all dlc after they finish but you can skip directly to dlc by pressing F6
 
 F6 => Auto play all dlc
+
+F7 => Dump album arts
 
 # Installation
 install BepInEx
