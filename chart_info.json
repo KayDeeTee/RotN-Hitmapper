@@ -6,7 +6,7 @@
 			"easy": 		"RawCharts/RhythmRift_DiscoDisaster_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_DiscoDisaster_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_DiscoDisaster_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_DiscoDisaster_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_DiscoDisaster_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRDiscoDisaster-1.json",
@@ -22,7 +22,7 @@
 			"easy": 		"RawCharts/RhythmRift_Elusional_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Elusional_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Elusional_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Elusional_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Elusional_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRElusional-1.json",
@@ -38,7 +38,7 @@
 			"easy": 		"RawCharts/RhythmRift_Visualize_Yourself_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Visualize_Yourself_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Visualize_Yourself_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Visualize_Yourself_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Visualize_Yourself_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRVisualizeYourself-1.json",
@@ -54,7 +54,7 @@
 			"easy": 		"RawCharts/RhythmRift_Spookhouse Pop_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Spookhouse Pop_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Spookhouse Pop_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Spookhouse Pop_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Spookhouse Pop_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRSpookhousePop-1.json",
@@ -70,7 +70,7 @@
 			"easy": 		"RawCharts/RhythmRift_Om and On_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Om and On_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Om and On_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Om and On_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Om and On_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RROmandOn-1.json",
@@ -86,7 +86,7 @@
 			"easy": 		"RawCharts/RhythmRift_Morning_Dove_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Morning_Dove_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Morning_Dove_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Morning_Dove_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Morning_Dove_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRMorningDove-1.json",
@@ -102,7 +102,7 @@
 			"easy": 		"RawCharts/RhythmRift_Heph's_Mess_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Heph's_Mess_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Heph's_Mess_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Heph's_Mess_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Heph's_Mess_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRHephsMess-1.json",
@@ -118,7 +118,7 @@
 			"easy": 		"RawCharts/RhythmRift_Amalgamaniac_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Amalgamaniac_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Amalgamaniac_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Amalgamaniac_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Amalgamaniac_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRAmalgamaniac-1.json",
@@ -134,7 +134,7 @@
 			"easy": 		"RawCharts/RhythmRift_Hang Ten Heph_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Hang Ten Heph_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Hang Ten Heph_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Hang Ten Heph_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Hang Ten Heph_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRHangTenHeph-1.json",
@@ -150,7 +150,7 @@
 			"easy": 		"RawCharts/RhythmRift_Count_Funkula_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Count_Funkula_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Count_Funkula_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Count_Funkula_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Count_Funkula_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRCountFunkula-1.json",
@@ -166,7 +166,7 @@
 			"easy": 		"RawCharts/RhythmRift_Overthinker_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Overthinker_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Overthinker_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Overthinker_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Overthinker_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RROverthinker-1.json",
@@ -182,7 +182,7 @@
 			"easy": 		"RawCharts/RhythmRift_Cryp2que_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Cryp2que_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Cryp2que_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Cryp2que_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Cryp2que_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRCryp2que-1.json",
@@ -198,7 +198,7 @@
 			"easy": 		"RawCharts/RhythmRift_Nocturning_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Nocturning_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Nocturning_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Nocturning_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Nocturning_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRNocturning-1.json",
@@ -214,7 +214,7 @@
 			"easy": 		"RawCharts/RhythmRift_Glass Cages_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Glass Cages_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Glass Cages_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Glass Cages_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Glass Cages_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRGlassCages-1.json",
@@ -230,7 +230,7 @@
 			"easy": 		"RawCharts/RhythmRift_Hallow Queen_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Hallow Queen_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Hallow Queen_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Hallow Queen_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Hallow Queen_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRHallowQueen-1.json",
@@ -246,7 +246,7 @@
 			"easy": 		"RawCharts/RhythmRift_Progenitor_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Progenitor_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Progenitor_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Progenitor_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Progenitor_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRProgenitor-1.json",
@@ -262,7 +262,7 @@
 			"easy": 		"RawCharts/RhythmRift_Matriarch_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Matriarch_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Matriarch_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Matriarch_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Matriarch_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRMatriarch-1.json",
@@ -278,7 +278,7 @@
 			"easy": 		"RawCharts/RhythmRift_Thunder_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Thunder_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Thunder_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Thunder_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Thunder_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRThunder-1.json",
@@ -294,7 +294,7 @@
 			"easy": 		"RawCharts/RhythmRift_Eldritch_House_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Eldritch_House_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Eldritch_House_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Eldritch_House_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Eldritch_House_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RREldritchHouse-1.json",
@@ -310,7 +310,7 @@
 			"easy": 		"RawCharts/RhythmRift_RAVEvenge_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Ravevenge_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_RAVEvenge_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_RAVEvenge_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_RAVEvenge_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRRavevenge-1.json",
@@ -326,7 +326,7 @@
 			"easy": 		"RawCharts/RhythmRift_Rift Within_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Rift Within_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Rift Within_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Rift Within_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Rift Within_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRRiftWithin-1.json",
@@ -342,7 +342,7 @@
 			"easy": 		"RawCharts/RhythmRift_Suzus Quest_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Suzus Quest_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Suzus Quest_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Suzus Quest_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Suzus Quest_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRSuzusQuest-1.json",
@@ -358,7 +358,7 @@
 			"easy": 		"RawCharts/RhythmRift_Necropolis_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Necropolis_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Necropolis_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Necropolis_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Necropolis_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRNecropolis-1.json",
@@ -374,7 +374,7 @@
 			"easy": 		"RawCharts/RhythmRift_Baboosh_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Baboosh_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Baboosh_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Baboosh_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Baboosh_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRBaboosh-1.json",
@@ -390,7 +390,7 @@
 			"easy": 		"RawCharts/RhythmRift_Necro Sonatica_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Necro Sonatica_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Necro Sonatica_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Necro Sonatica_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Necro Sonatica_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRNecroSonatica-1.json",
@@ -406,7 +406,7 @@
 			"easy": 		"RawCharts/RhythmRift_Harmonie_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Harmonie_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Harmonie_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Harmonie_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Harmonie_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRHarmonie-1.json",
@@ -422,7 +422,7 @@
 			"easy": 		"RawCharts/RhythmRift_Deep_Blues_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Deep_Blues_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Deep_Blues_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Deep_Blues_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Deep_Blues_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRDeepBlues-1.json",
@@ -438,7 +438,7 @@
 			"easy": 		"RawCharts/RhythmRift_Matron_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Matron_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Matron_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Matron_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Matron_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRMatron-1.json",
@@ -454,7 +454,7 @@
 			"easy": 		"RawCharts/RhythmRift_BraveTheHarvester_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_BraveTheHarvester_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_BraveTheHarvester_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_BraveTheHarvester_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_BraveTheHarvester_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRReaper-1.json",
@@ -470,7 +470,7 @@
 			"easy": 		"RawCharts/RhythmRift_Final_Fugue_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Final_Fugue_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Final_Fugue_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Final_Fugue_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Final_Fugue_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRFinalFugue-1.json",
@@ -486,7 +486,7 @@
 			"easy": 		"RawCharts/RhythmRift_Twombtorial_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Twombtorial_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Twombtorial_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Twombtorial_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Twombtorial_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRTwombtorial-1.json",
@@ -502,7 +502,7 @@
 			"easy": 		"RawCharts/RhythmRift_Portamello_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Portamello_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_Portamello_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Portamello_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_Portamello_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRPortamello-1.json",
@@ -518,7 +518,7 @@
 			"easy": 		"RawCharts/RhythmRift_DLCApricot01_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_DLCApricot01_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_DLCApricot01_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_DLCApricot01_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_DLCApricot01_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/DLCApricot01-1.json",
@@ -534,7 +534,7 @@
 			"easy": 		"RawCharts/RhythmRift_DLCApricot02_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_DLCApricot02_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_DLCApricot02_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_DLCApricot02_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_DLCApricot02_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/DLCApricot02-1.json",
@@ -550,7 +550,7 @@
 			"easy": 		"RawCharts/RhythmRift_DLCApricot03_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_DLCApricot03_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_DLCApricot03_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_DLCApricot03_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_DLCApricot03_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/DLCApricot03-1.json",
@@ -566,7 +566,7 @@
 			"easy": 		"RawCharts/RhythmRift_DLCBanana01_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_DLCBanana01_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_DLCBanana01_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_DLCBanana01_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_DLCBanana01_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/DLCBanana01-1.json",
@@ -582,7 +582,7 @@
 			"easy": 		"RawCharts/RhythmRift_DLCBanana02_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_DLCBanana02_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_DLCBanana02_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_DLCBanana02_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_DLCBanana02_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/DLCBanana02-1.json",
@@ -598,7 +598,7 @@
 			"easy": 		"RawCharts/RhythmRift_DLCBanana03_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_DLCBanana03_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_DLCBanana03_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_DLCBanana03_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_DLCBanana03_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/DLCBanana03-1.json",
@@ -614,7 +614,7 @@
 			"easy": 		"RawCharts/RhythmRift_DLCBanana04_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_DLCBanana04_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_DLCBanana04_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_DLCBanana04_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_DLCBanana04_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/DLCBanana04-1.json",
@@ -630,7 +630,7 @@
 			"easy": 		"RawCharts/RhythmRift_DLCBanana05_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_DLCBanana05_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_DLCBanana05_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_DLCBanana05_Impossible.json"
+			"impossible":	"RawCharts/RhythmRift_DLCBanana05_Expert.json"
 		},
 		"hit":{
 			"easy": 		"Charts/DLCBanana05-1.json",
@@ -638,5 +638,5 @@
 			"hard": 		"Charts/DLCBanana05-3.json",
 			"impossible":	"Charts/DLCBanana05-4.json"
 		}
-	}
+	},
 }
