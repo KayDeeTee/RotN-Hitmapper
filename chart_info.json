@@ -21,7 +21,7 @@
 		"raw":{
 			"easy": 		"RawCharts/RhythmRift_Elusional_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Elusional_Medium.json",
-			"hard": 		"RawCharts/RhythmRift_Elusional_Hard.json",
+			"hard": 		"RawCharts/RhythmRift_Elusional_Hard_DoubleSpeed.json",
 			"impossible":	"RawCharts/RhythmRift_Elusional_Expert.json"
 		},
 		"hit":{
@@ -101,7 +101,7 @@
 		"raw":{
 			"easy": 		"RawCharts/RhythmRift_Heph's_Mess_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Heph's_Mess_Medium.json",
-			"hard": 		"RawCharts/RhythmRift_Heph's_Mess_Hard.json",
+			"hard": 		"RawCharts/RhythmRift_Heph's_Mess_Hard_DoubleSpeed.json",
 			"impossible":	"RawCharts/RhythmRift_Heph's_Mess_Expert.json"
 		},
 		"hit":{
@@ -245,8 +245,8 @@
 		"raw":{
 			"easy": 		"RawCharts/RhythmRift_Progenitor_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Progenitor_Medium.json",
-			"hard": 		"RawCharts/RhythmRift_Progenitor_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_Progenitor_Expert.json"
+			"hard": 		"RawCharts/RhythmRift_Progenitor_Hard_DoubleSpeed.json",
+			"impossible":	"RawCharts/RhythmRift_Progenitor_Expert_DoubleSpeed.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRProgenitor-1.json",
@@ -310,7 +310,7 @@
 			"easy": 		"RawCharts/RhythmRift_RAVEvenge_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_Ravevenge_Medium.json",
 			"hard": 		"RawCharts/RhythmRift_RAVEvenge_Hard.json",
-			"impossible":	"RawCharts/RhythmRift_RAVEvenge_Expert.json"
+			"impossible":	"RawCharts/RhythmRift_RAVEvenge_Expert_DoubleSpeed.json"
 		},
 		"hit":{
 			"easy": 		"Charts/RRRavevenge-1.json",
@@ -453,7 +453,7 @@
 		"raw":{
 			"easy": 		"RawCharts/RhythmRift_BraveTheHarvester_Easy.json",
 			"medium": 		"RawCharts/RhythmRift_BraveTheHarvester_Medium.json",
-			"hard": 		"RawCharts/RhythmRift_BraveTheHarvester_Hard.json",
+			"hard": 		"RawCharts/RhythmRift_BraveTheHarvester_Hard_DoubleSpeed.json",
 			"impossible":	"RawCharts/RhythmRift_BraveTheHarvester_Expert.json"
 		},
 		"hit":{
@@ -638,5 +638,5 @@
 			"hard": 		"Charts/DLCBanana05-3.json",
 			"impossible":	"Charts/DLCBanana05-4.json"
 		}
-	},
+	}
 }
