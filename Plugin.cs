@@ -65,13 +65,16 @@ public class HitMapperPlugin : BaseUnityPlugin
 
     public static Dictionary<string, string> BasicEnemyEvent( RREnemy __instance, bool is_hit ){
         Dictionary<string, string> hit_data = new Dictionary<string, string>();
-        
+
+        //Indentifiers
         hit_data["GUID"] = __instance.GroupId.ToString();
         hit_data["ID"] = __instance.EnemyTypeId.ToString();
       
+        //Extra info for rendering
         hit_data["Facing"] = __instance.IsFacingLeft ? "Left" : "Right";
         hit_data["Health"] = __instance.CurrentHealthValue.ToString();
 
+        //Main timing / position info
         if( is_hit ){
             int2 hit_pos =__instance.CurrentGridPosition.y == 0 ? __instance.CurrentGridPosition : __instance.TargetGridPosition;
             hit_data["X"] = hit_pos.x.ToString();
@@ -84,12 +87,27 @@ public class HitMapperPlugin : BaseUnityPlugin
             hit_data["X"] = hit_pos.x.ToString();
             hit_data["Y"] = hit_pos.y.ToString();
 
-            hit_data["Beat"] = update_beat.ToString();
-            hit_data["Time"] = update_time.ToString();
+            float beat = __instance.LastUpdateTrueBeatNumber;
+            hit_data["Beat"] = beat.ToString();
+            hit_data["Time"] = active_beatmap.GetTimeFromBeatNumber( beat ).ToString();
         }
-        hit_data["Spawn"] = __instance.SpawnTrueBeatNumber.ToString();
-        hit_data["Vibe"] = __instance.IsPartOfVibeChain.ToString(); 
 
+        //Extra timing info
+        float lastbeat = __instance.LastUpdateTrueBeatNumber;
+        hit_data["LastBeat"] = lastbeat.ToString();
+        hit_data["LastTime"] = active_beatmap.GetTimeFromBeatNumber( lastbeat ).ToString();
+
+        float nextbeat = __instance.NextUpdateTrueBeatNumber;
+        hit_data["NextBeat"] = nextbeat.ToString();
+        hit_data["NextTime"] = active_beatmap.GetTimeFromBeatNumber( nextbeat ).ToString();
+
+        hit_data["FrameBeat"] = update_beat.ToString();
+        hit_data["FrameTime"] = update_time.ToString();
+
+        hit_data["Spawn"] = __instance.SpawnTrueBeatNumber.ToString();
+
+        //effects
+        hit_data["Vibe"] = __instance.IsPartOfVibeChain.ToString(); 
         hit_data["Burning"] = __instance.HasStatusEffectActive( RREnemyStatusEffect.Burning ).ToString();
         hit_data["Mysterious"] = __instance.HasStatusEffectActive( RREnemyStatusEffect.Mysterious ).ToString();
 
