@@ -18,6 +18,9 @@ using Shared.SceneLoading;
 using Shared;
 using Shared.Analytics;
 using Shared.DLC;
+using JetBrains.Annotations;
+using UnityEngine.Analytics;
+using Shared.Pins;
 
 namespace HitMapper;
 
@@ -63,6 +66,20 @@ public class HitMapperPlugin : BaseUnityPlugin
         return __result;
     }
 
+    public static float TimeFromBeat( float beat ){
+        if( active_beatmap.HasBeatTimings ){
+            if( beat > active_beatmap.BeatTimings.Count - 2 ){
+                //will break
+                double m1 = active_beatmap.BeatTimings[ active_beatmap.BeatTimings.Count - 1 ];
+                double m2 = active_beatmap.BeatTimings[ active_beatmap.BeatTimings.Count - 2 ];
+                double spb = m1 - m2;
+                float amt = beat - (float)(active_beatmap.BeatTimings.Count);
+                return (float)(m1 + (amt * spb));
+            }
+        }
+        return active_beatmap.GetTimeFromBeatNumber(beat);
+    }
+
     public static Dictionary<string, string> BasicEnemyEvent( RREnemy __instance, bool is_hit ){
         Dictionary<string, string> hit_data = new Dictionary<string, string>();
 
@@ -81,7 +98,7 @@ public class HitMapperPlugin : BaseUnityPlugin
             hit_data["Y"] = hit_pos.y.ToString();
 
             hit_data["Beat"] = __instance.TargetHitBeatNumber.ToString();
-            hit_data["Time"] = active_beatmap.GetTimeFromBeatNumber( __instance.TargetHitBeatNumber ).ToString();
+            hit_data["Time"] = TimeFromBeat( __instance.TargetHitBeatNumber ).ToString();
         } else {
             int2 hit_pos = __instance.CurrentGridPosition;
             hit_data["X"] = hit_pos.x.ToString();
@@ -89,17 +106,18 @@ public class HitMapperPlugin : BaseUnityPlugin
 
             float beat = __instance.LastUpdateTrueBeatNumber;
             hit_data["Beat"] = beat.ToString();
-            hit_data["Time"] = active_beatmap.GetTimeFromBeatNumber( beat ).ToString();
+            hit_data["Time"] = TimeFromBeat( beat ).ToString();
         }
 
         //Extra timing info
+        
         float lastbeat = __instance.LastUpdateTrueBeatNumber;
         hit_data["LastBeat"] = lastbeat.ToString();
-        hit_data["LastTime"] = active_beatmap.GetTimeFromBeatNumber( lastbeat ).ToString();
+        hit_data["LastTime"] = TimeFromBeat( lastbeat ).ToString();
 
         float nextbeat = __instance.NextUpdateTrueBeatNumber;
         hit_data["NextBeat"] = nextbeat.ToString();
-        hit_data["NextTime"] = active_beatmap.GetTimeFromBeatNumber( nextbeat ).ToString();
+        hit_data["NextTime"] = TimeFromBeat( nextbeat ).ToString();
 
         hit_data["FrameBeat"] = update_beat.ToString();
         hit_data["FrameTime"] = update_time.ToString();
@@ -212,15 +230,41 @@ public class HitMapperPlugin : BaseUnityPlugin
             LevelIdDatabase.Instance.TryGetLevelId(_stageScenePayload.AssetGuid, out level_id);
         }
 
+        //float intensity = (float)get_field_by_name(_stageScenePayload, "_intensityValue");
         int diff = (int)_stageScenePayload.GetLevelDifficulty();
 
-        string path = "Charts/" + level_id + "-"+ diff.ToString() +".json";
+        string path = "";
+        if( PinsController.IsPinActive("GoldenLute") ){
+            path = "Charts/" + level_id + "-"+ diff.ToString() +".json";
+        } else {
+            //getting ready to add misses etc, and preventing regular play overriding actual chart data
+            path = "History/" + level_id + "-" + diff.ToString() + "("+ DateTime.Now.ToString() +").json";
+        }
+        
 
         Dictionary<string, object> json = new Dictionary<string, object>();
 
         json["name"] = level_id;
         json["diff"] = diff;
+        json["int_name"] = active_beatmap.name;
+        json["bpm"] = active_beatmap.bpm;
+        json["beatDivisions"] = active_beatmap.beatDivisions;
+        json["intensity"] = intensity;
+        json["beatTimings"] = active_beatmap.BeatTimings;
+
+        List<List<double>> bpm_list = new List<List<double>>();
+        foreach( BeatmapEvent e in active_beatmap.BeatmapEvents ){
+            if( e.type != "AdjustBPM" ) continue;
+            double beat = (float)e.startBeatNumber;
+            double new_bpm = (float)e.GetFirstEventDataAsFloat("Bpm");
+            List<double> pair = new List<double>{beat, new_bpm};
+            bpm_list.Add(pair);            
+        }
+
+        json["BpmEvents"] = bpm_list;
+
         json["events"] = hit_events;//JsonConvert.SerializeObject(hit_events, Formatting.None );
+
 
         Logger.LogInfo(path);
         File.WriteAllText( path, JsonConvert.SerializeObject(json, Formatting.Indented ) );
@@ -284,6 +328,11 @@ public class HitMapperPlugin : BaseUnityPlugin
     public static void PlayDLC(){
         if( dlc_index >= dlc_track_names.Count ){ return; }
         var current_track = dlc_track_names[dlc_index];
+
+        SongDatabaseData? data;
+        SongDatabase.Instance.TryGetEntryForLevelId( current_track, out data );
+        intensity = data?.DifficultyInformation?[diff].ChallengeRating ?? 0;
+
         PlayChart( current_track, diff+1 );
         diff += 1;
         diff %= 4;
@@ -317,6 +366,7 @@ public class HitMapperPlugin : BaseUnityPlugin
         } else {
             selected_diff = (Difficulty)(diff+1);
         }
+        intensity = data?.DifficultyInformation?[diff].ChallengeRating ?? 0;
         return_payload.Initialize(current_track.LevelId, selected_diff, TrackSortingOrder.IntensityAscending, false, false);
         SceneLoadData.SetReturnScenePayload(return_payload);
 
@@ -382,6 +432,15 @@ public class HitMapperPlugin : BaseUnityPlugin
         Logger.LogInfo("Playing first song.");
         PlayDLC();
     }
+
+    public static float intensity;
+    [HarmonyPatch( typeof(IntensityMeter), "SetChallengeRating")]
+    [HarmonyPrefix]
+    public static bool UserUpdateIntensity( float __0 ){
+        intensity = __0;
+        return true;
+    }
+
 
     public static RRTrackMetaData[] tracks;
     public static int track_index = 0;
@@ -456,7 +515,8 @@ public class HitMapperPlugin : BaseUnityPlugin
             level_id = Path.GetFileNameWithoutExtension( __1 );
         }
         string path = "ChartDumps/" + level_id + ".json";
-        File.WriteAllText( path, __0 );        
+        File.WriteAllText( path, __0 );
+
         return true;
     }
 
