@@ -21,6 +21,7 @@ using Shared.DLC;
 using JetBrains.Annotations;
 using UnityEngine.Analytics;
 using Shared.Pins;
+using UnityEngine.Video;
 
 namespace HitMapper;
 
@@ -222,9 +223,9 @@ public class HitMapperPlugin : BaseUnityPlugin
     [HarmonyPrefix]
     public static bool OutputJson( RRStageController __instance, StageScenePayload ____stageScenePayload, string ____customTrackAudioFilePath ){
         string level_id = "";
-        StageScenePayload _stageScenePayload = ____stageScenePayload;
+        StageScenePayload _stageScenePayload = ____stageScenePayload as RRDynamicScenePayload;
         if( !string.IsNullOrWhiteSpace( ____customTrackAudioFilePath )  ){
-            RRCustomTrackScenePayload rRCustomTrackScenePayload = _stageScenePayload as RRCustomTrackScenePayload;
+            RRDynamicScenePayload rRCustomTrackScenePayload = _stageScenePayload as RRDynamicScenePayload;
             level_id = rRCustomTrackScenePayload.GetLevelId();
         } else {
             LevelIdDatabase.Instance.TryGetLevelId(_stageScenePayload.AssetGuid, out level_id);
@@ -238,7 +239,10 @@ public class HitMapperPlugin : BaseUnityPlugin
             path = "Charts/" + level_id + "-"+ diff.ToString() +".json";
         } else {
             //getting ready to add misses etc, and preventing regular play overriding actual chart data
-            path = "History/" + level_id + "-" + diff.ToString() + "("+ DateTime.Now.ToString() +").json";
+            var date = DateTime.Now.ToString();
+            date = date.Replace("/", "-");
+            date = date.Replace("\\", "-");
+            path = "History/" + level_id + "-" + diff.ToString() + "("+date +").json";
         }
         
 
@@ -267,9 +271,10 @@ public class HitMapperPlugin : BaseUnityPlugin
 
 
         Logger.LogInfo(path);
-        File.WriteAllText( path, JsonConvert.SerializeObject(json, Formatting.Indented ) );
+        File.WriteAllText( path, JsonConvert.SerializeObject( json, Formatting.Indented ) );
 
         hit_events = [];
+        
         if( playing_dlc ){
             PlayDLC();
         } else {
@@ -340,37 +345,49 @@ public class HitMapperPlugin : BaseUnityPlugin
         
     }
 
-    public static void PlayNext(){
-        if( track_mode == -1 ) return;
-        if( track_index >= tracks.Length ){
+    public static void PlayNext()
+    {
+        if (track_mode == -1) return;
+        if (track_index >= tracks.Length)
+        {
             StartDLC();
             return;
         }
+        Logger.LogInfo("PN 0");
         RRTrackMetaData current_track = tracks[track_index];
-        while( current_track.IsFiller || current_track.IsTutorial || current_track.IsPromo ){
+        while (current_track.IsFiller || current_track.IsTutorial || current_track.IsPromo)
+        {
             track_index += 1;
-            if( track_index >= tracks.Length ) {
+            if (track_index >= tracks.Length)
+            {
                 StartDLC();
                 return;
             }
             current_track = tracks[track_index];
         }
+        Logger.LogInfo("PN 1");
         SongDatabaseData? data;
-        SongDatabase.Instance.TryGetEntryForLevelId( current_track.LevelId, out data );
+        SongDatabase.Instance.TryGetEntryForLevelId(current_track.LevelId, out data);
 
+        Logger.LogInfo("PN 2");
         var return_payload = ScriptableObject.CreateInstance<TrackSelectionScenePayload>();
         return_payload.SetDestinationScene("TrackSelection");
         Difficulty selected_diff = Difficulty.None;
-        if( track_mode != 0 ){
+        if (track_mode != 0)
+        {
             selected_diff = (Difficulty)track_mode;
-        } else {
-            selected_diff = (Difficulty)(diff+1);
         }
+        else
+        {
+            selected_diff = (Difficulty)(diff + 1);
+        }
+        Logger.LogInfo("PN 3");
         intensity = data?.DifficultyInformation?[diff].ChallengeRating ?? 0;
         return_payload.Initialize(current_track.LevelId, selected_diff, TrackSortingOrder.IntensityAscending, false, false);
         SceneLoadData.SetReturnScenePayload(return_payload);
-
-        var sceneToLoadMetadata = new SceneLoadData.SceneToLoadMetaData() {
+        Logger.LogInfo("PN 4");
+        var sceneToLoadMetadata = new SceneLoadData.SceneToLoadMetaData()
+        {
             SceneName = "RhythmRift",
             LevelId = data?.LevelId ?? string.Empty,
             StageDifficulty = selected_diff,
@@ -391,19 +408,23 @@ public class HitMapperPlugin : BaseUnityPlugin
             RROutroDialogueID = string.Empty,
             ShouldMuteCounterpartVO = false,
             ShouldInvertCounterpartReactions = false
-        };    
-
-        if( track_mode != 0 ){
+        };
+        Logger.LogInfo("PN 5");
+        if (track_mode != 0)
+        {
             track_index += 1;
-        } else {
+        }
+        else
+        {
             diff += 1;
             diff %= 4;
-            if( diff == 0 ) track_index += 1;
+            if (diff == 0) track_index += 1;
         }
-
+        Logger.LogInfo("PN 6");
         SceneLoadData.StageEntryType = RiftAnalyticsService.StageEntryType.StageSelectMenu;
         SceneLoadData.QueueSceneLoadingMetaData(sceneToLoadMetadata);
         SceneLoadingController.Instance.GoToScene(sceneToLoadMetadata);
+        Logger.LogInfo("PN 7");
     }
 
     public static void StartReinit(){
