@@ -221,15 +221,19 @@ public class HitMapperPlugin : BaseUnityPlugin
 
     [HarmonyPatch( typeof(RRStageController), "ShowResultsScreen")]
     [HarmonyPrefix]
-    public static bool OutputJson( RRStageController __instance, StageScenePayload ____stageScenePayload, string ____customTrackAudioFilePath ){
+    public static bool OutputJson( RRStageController __instance, StageScenePayload ____stageScenePayload ){
+        Logger.LogInfo("outputting json");
         string level_id = "";
-        StageScenePayload _stageScenePayload = ____stageScenePayload as RRDynamicScenePayload;
-        if( !string.IsNullOrWhiteSpace( ____customTrackAudioFilePath )  ){
-            RRDynamicScenePayload rRCustomTrackScenePayload = _stageScenePayload as RRDynamicScenePayload;
-            level_id = rRCustomTrackScenePayload.GetLevelId();
+        StageScenePayload _stageScenePayload = ____stageScenePayload;
+        if( _stageScenePayload is RRDynamicScenePayload rrDynamicScenePayload ){
+            level_id = rrDynamicScenePayload.GetLevelId();
         } else {
-            LevelIdDatabase.Instance.TryGetLevelId(_stageScenePayload.AssetGuid, out level_id);
+            if (!LevelIdDatabase.Instance.TryGetLevelId(_stageScenePayload.AssetGuid, out level_id))
+			{
+				Logger.LogError("No LevelID");
+			}
         }
+        Logger.LogInfo(String.Format("LevelID: {0}", [level_id]));
 
         //float intensity = (float)get_field_by_name(_stageScenePayload, "_intensityValue");
         int diff = (int)_stageScenePayload.GetLevelDifficulty();
@@ -244,6 +248,7 @@ public class HitMapperPlugin : BaseUnityPlugin
             date = date.Replace("\\", "-");
             path = "History/" + level_id + "-" + diff.ToString() + "("+date +").json";
         }
+        Logger.LogInfo(String.Format("Set Path To: {0}", [path]));
         
 
         Dictionary<string, object> json = new Dictionary<string, object>();
@@ -275,9 +280,14 @@ public class HitMapperPlugin : BaseUnityPlugin
 
         hit_events = [];
         
-        if( playing_dlc ){
+        Logger.LogInfo("Wrote hitmap file");
+
+        if (playing_dlc)
+        {
             PlayDLC();
-        } else {
+        }
+        else
+        {
             PlayNext();
         }        
         return true;
@@ -353,7 +363,6 @@ public class HitMapperPlugin : BaseUnityPlugin
             StartDLC();
             return;
         }
-        Logger.LogInfo("PN 0");
         RRTrackMetaData current_track = tracks[track_index];
         while (current_track.IsFiller || current_track.IsTutorial || current_track.IsPromo)
         {
@@ -365,11 +374,9 @@ public class HitMapperPlugin : BaseUnityPlugin
             }
             current_track = tracks[track_index];
         }
-        Logger.LogInfo("PN 1");
         SongDatabaseData? data;
         SongDatabase.Instance.TryGetEntryForLevelId(current_track.LevelId, out data);
 
-        Logger.LogInfo("PN 2");
         var return_payload = ScriptableObject.CreateInstance<TrackSelectionScenePayload>();
         return_payload.SetDestinationScene("TrackSelection");
         Difficulty selected_diff = Difficulty.None;
@@ -381,11 +388,9 @@ public class HitMapperPlugin : BaseUnityPlugin
         {
             selected_diff = (Difficulty)(diff + 1);
         }
-        Logger.LogInfo("PN 3");
         intensity = data?.DifficultyInformation?[diff].ChallengeRating ?? 0;
         return_payload.Initialize(current_track.LevelId, selected_diff, TrackSortingOrder.IntensityAscending, false, false);
         SceneLoadData.SetReturnScenePayload(return_payload);
-        Logger.LogInfo("PN 4");
         var sceneToLoadMetadata = new SceneLoadData.SceneToLoadMetaData()
         {
             SceneName = "RhythmRift",
@@ -409,7 +414,6 @@ public class HitMapperPlugin : BaseUnityPlugin
             ShouldMuteCounterpartVO = false,
             ShouldInvertCounterpartReactions = false
         };
-        Logger.LogInfo("PN 5");
         if (track_mode != 0)
         {
             track_index += 1;
@@ -420,11 +424,9 @@ public class HitMapperPlugin : BaseUnityPlugin
             diff %= 4;
             if (diff == 0) track_index += 1;
         }
-        Logger.LogInfo("PN 6");
         SceneLoadData.StageEntryType = RiftAnalyticsService.StageEntryType.StageSelectMenu;
         SceneLoadData.QueueSceneLoadingMetaData(sceneToLoadMetadata);
         SceneLoadingController.Instance.GoToScene(sceneToLoadMetadata);
-        Logger.LogInfo("PN 7");
     }
 
     public static void StartReinit(){
@@ -448,8 +450,9 @@ public class HitMapperPlugin : BaseUnityPlugin
         dlc_track_names = new List<string>();
         AddDLC("Apricot", 3);
         AddDLC("Banana", 5);
-        AddDLC("Cherry", 0);
-        AddDLC("Dorian", 0);
+        AddDLC("Cherry", 4);
+        AddDLC("Durian", 0);
+        AddDLC("Kiwi", 6);
         Logger.LogInfo("Playing first song.");
         PlayDLC();
     }
